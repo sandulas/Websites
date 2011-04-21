@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+	<title runat="server" visible="false" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	
+	<asp:ContentPlaceHolder id="head" runat="server">
+		<title>Mario Serban Therapy</title>
+	</asp:ContentPlaceHolder>
+		
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=1" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
+
+	<script type="text/javascript" src="App/Js/prototype.js"></script>
+	<script type="text/javascript" src="App/Js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="App/Js/lightbox.js"></script>
+</head>
+
+<body>
+<form id="form1" runat="server">
+
+
+
+</form>
+</body>
+</html>
