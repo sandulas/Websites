@@ -2,6 +2,7 @@
 {
 	background: url(../Images/Bg.jpg);
 	font: 12px Arial, Tahoma, Helvetica, sans-serif;
+	line-height: 21px;
 	color: #12211a;
 	margin: 0;
 	padding: 0;
@@ -13,6 +14,28 @@ IMG
 A
 {
 	text-decoration: none;
+}
+H1
+{
+		font-size: 18px;
+		font-weight: normal;
+		color: #2d5141;
+		margin: 0;
+		padding-bottom: 14px;
+}
+H2
+{
+		font-size: 16px;
+		font-weight: normal;
+		color: #2d5141;
+		margin: 0;
+		padding: 0;
+}
+P
+{
+	line-height: 21px;
+	padding: 0 0 10px 0;
+	margin: 0;
 }
 #main
 {
@@ -52,7 +75,7 @@ A
 }
 #menu li
 {
-	padding-bottom: 12px;
+	padding-bottom: 10px;
 	list-style-type: none;
 }
 #menu a
@@ -110,4 +133,39 @@ A
 {
 	width: 160px;
 	height: 68px;
+}
+
+
+
+
+.Box
+{
+	width: 542px;
+}
+.Box .BoxTop
+{
+	background: url(../Images/BoxTop.png) no-repeat;
+	height: 27px;
+	padding: 13px 13px 0 13px;
+	
+}
+.Box .BoxMiddle
+{
+	border-left: solid 1px #2f513e;
+	border-right: solid 1px #2f513e;
+	background: #ffffff;
+	padding: 13px;
+}
+.Box .BoxBottom
+{
+	background: url(../Images/BoxBottom.png) no-repeat;
+	height: 7px;
+}
+.Box .Date
+{
+	float: right;
+	background: url(../Images/CalendarIcon.png) no-repeat;
+	padding: 4px 0 0 24px;
+	height: 21px;
+	font: 11px Verdana, Arial, Tahoma, Helvetica, sans-serif;
 }
