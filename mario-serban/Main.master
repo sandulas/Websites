@@ -20,9 +20,43 @@
 
 <body>
 <form id="form1" runat="server">
+<div id="main">
 
+<div id="header">
+	<asp:HyperLink NavigateUrl="~/" runat="server">
+		<img id="logo" src="<%= ResolveUrl("~/App/Images/Logo.png")%>" alt="Mario Serban Therapy Logo" /></asp:HyperLink>
+</div>
 
+<div id="container">
 
+	<div id="menu">
+		<ul>
+			<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
+			<li><asp:HyperLink Text="About" NavigateUrl="~/" runat="server" /></li>
+			<li><asp:HyperLink Text="Service" NavigateUrl="~/" runat="server" /></li>
+			<li><asp:HyperLink Text="Testimonial" NavigateUrl="~/" runat="server" /></li>
+			<li><asp:HyperLink Text="Photos" NavigateUrl="~/" runat="server" /></li>
+			<li><asp:HyperLink Text="Blog" NavigateUrl="~/" runat="server" /></li>
+		</ul>
+	</div>
+	<img id="mainimage" src="<%= ResolveUrl("~/App/Images/MainImage.jpg")%>" alt="Main Image" />
+	
+	<div id="contentcontainer">
+		<div id="contentleft">adfadfa</div>
+		<div id="contentright">adsfadfa<br />adfadfadfadfa<br /></div>
+	</div>
+	
+	<div id="footer">
+		<div id="footerleft">Copyright &copy; 2010 Mario Serban Therapy. All rights reserved.</div>
+		<div id="footerright">
+			<asp:HyperLink NavigateUrl="~/" runat="server">
+				<img id="logofooter" src="<%= ResolveUrl("~/App/Images/LogoWhite.png")%>" alt="Mario Serban Therapy Logo White" /></asp:HyperLink>
+		</div>
+	</div>
+
+</div>
+
+</div>
 </form>
 </body>
 </html>
