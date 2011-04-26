@@ -42,10 +42,12 @@
 		</div>
 	
 		<div id="leftcontent">
+		
 			<h2>Latest Blog Posts</h2>
 			<h3>Latest Blog Post Title</h3>
 			<p>The first lines of the blog text goes here. Lorem ipsum trala lala. The first lines of the blog text goes here. Lorem ipsum
 			trala lala...</p>
+			
 		</div>
 	</div>
 
