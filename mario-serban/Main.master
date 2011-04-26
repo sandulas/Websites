@@ -28,40 +28,50 @@
 </div>
 
 <div id="container">
-
-	<div id="menu">
-		<ul>
-			<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
-			<li><asp:HyperLink Text="About" NavigateUrl="~/" runat="server" /></li>
-			<li><asp:HyperLink Text="Service" NavigateUrl="~/" runat="server" /></li>
-			<li><asp:HyperLink Text="Testimonial" NavigateUrl="~/" runat="server" /></li>
-			<li><asp:HyperLink Text="Photos" NavigateUrl="~/" runat="server" /></li>
-			<li><asp:HyperLink Text="Blog" NavigateUrl="~/" runat="server" /></li>
-		</ul>
-	</div>
-	<img id="mainimage" src="<%= ResolveUrl("~/App/Images/MainImage.jpg")%>" alt="Main Image" />
+	<div id="leftcolumn">
+		
+		<div id="menu">
+			<ul>
+				<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="About" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="Service" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="Testimonial" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="Photos" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="Blog" NavigateUrl="~/" runat="server" /></li>
+			</ul>
+		</div>
 	
-	<div id="contentcontainer">
-		<div id="contentleft">adfadfa</div>
-		<div id="contentright">
-				<h1>Welcome to Mario Serban Therapy</h1>
-				
-				<p>In Beverly Hills is known to be the most private Pilates studio in the Los Angeles area. Situated across the luxurious Peninsula
-				Hotel, our studio caters to clientele from Brentwood, Century City, Bel Air to West Hollywood. Our fully equipped studio with
-				Pilates and GYROTONIC® equipment enables our STOTT PILATES® certified instructors the oportunity to design personalized workout
-				programs to sculpt your body using various Pilates apparatus' and light weight training. We can customize a health plan and				fitness routine to suit every individual's goal and needs.</p>				<p>STOTT PILATES® certified instructors the opportunity to design personalized workout programs to sculpt your body using various				Pilates apparatus' and light weight training.</p>				<p>We can customize a health plan and fitness routine to suit every individual's goal and needs. No need to attend a boot camp to
-				get the long, lean muscles and tight body that you’ve always wanted!</p>
-				
-				<div class="Box">
-					<div class="BoxTop">
-						<div style="float: left;">
-							<h2>Photos</h2>
-						</div>
-						<div class="Date">April 21st, 2011</div>
+		<div id="leftcontent">
+			<h2>Latest Blog Posts</h2>
+			<h3>Latest Blog Post Title</h3>
+			<p>The first lines of the blog text goes here. Lorem ipsum trala lala. The first lines of the blog text goes here. Lorem ipsum
+			trala lala...</p>
+		</div>
+	</div>
+
+	<div id="rightcolumn">
+		
+		<img id="mainimage" src="<%= ResolveUrl("~/App/Images/MainImage.jpg")%>" alt="Main Image" />
+
+		<div id="rightcontent">
+			<h1>Welcome to Mario Serban Therapy</h1>
+			
+			<p>In Beverly Hills is known to be the most private Pilates studio in the Los Angeles area. Situated across the luxurious Peninsula
+			Hotel, our studio caters to clientele from Brentwood, Century City, Bel Air to West Hollywood. Our fully equipped studio with
+			Pilates and GYROTONIC® equipment enables our STOTT PILATES® certified instructors the oportunity to design personalized workout
+			programs to sculpt your body using various Pilates apparatus' and light weight training. We can customize a health plan and			fitness routine to suit every individual's goal and needs.</p>			<p>STOTT PILATES® certified instructors the opportunity to design personalized workout programs to sculpt your body using various			Pilates apparatus' and light weight training.</p>			<p>We can customize a health plan and fitness routine to suit every individual's goal and needs. No need to attend a boot camp to
+			get the long, lean muscles and tight body that you’ve always wanted!</p>
+			
+			<div class="Box">
+				<div class="BoxTop">
+					<div style="float: left;">
+						<h2>Photos</h2>
 					</div>
-					<div class="BoxMiddle">Text<br />adfadfad</div>
-					<div class="BoxBottom"></div>
+					<div class="Date">April 21st, 2011</div>
 				</div>
+				<div class="BoxMiddle">Text<br />adfadfad</div>
+				<div class="BoxBottom"></div>
+			</div>
 				
 		</div>
 	</div>
