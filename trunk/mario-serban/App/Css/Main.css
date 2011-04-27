@@ -31,31 +31,10 @@ H2
 		margin: 0;
 		padding: 0;
 }
-#leftcolumn H2
-{
-	font: 16px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
-	padding-bottom: 18px;
-}
-#leftcolumn H3
-{
-	font: bold 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
-	padding-bottom: 5px;
-	margin: 0;
-}
 P
 {
 	line-height: 21px;
 	padding: 0 0 10px 0;
-	margin: 0;
-}
-#leftcolumn P
-{
-	font: 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
-	line-height: 16px;
-	padding: 0;
 	margin: 0;
 }
 
@@ -176,30 +155,110 @@ P
 {
 	width: 542px;
 }
-.Box .BoxTop
+.Box .top
 {
 	background: url(../Images/BoxTop.png) no-repeat;
 	height: 27px;
 	padding: 13px 13px 0 13px;
-	
 }
-.Box .BoxMiddle
+.Box .middle
 {
 	border-left: solid 1px #2f513e;
 	border-right: solid 1px #2f513e;
 	background: #ffffff;
 	padding: 13px;
 }
-.Box .BoxBottom
+.Box .bottom
 {
 	background: url(../Images/BoxBottom.png) no-repeat;
 	height: 7px;
 }
-.Box .Date
+.Box .title
+{
+	float: left;
+}
+.Box .date
 {
 	float: right;
 	background: url(../Images/CalendarIcon.png) no-repeat;
 	padding: 5px 0 0 24px;
 	height: 21px;
 	font: 11px Verdana, Arial, Tahoma, Helvetica, sans-serif;
+}
+
+A.Button
+{
+	display: block;
+	float: left;
+}
+A.Button .left
+{
+	display: block;
+	float: left;
+	background: url(../Images/ButtonLeft.png) no-repeat;
+	width: 10px;
+	height: 18px;
+}
+A.Button .center
+{
+	display: block;
+	float: left;
+	background: url(../Images/ButtonCenter.png) repeat-x;
+	height: 18px;
+	padding-top: 1px;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	line-height: 15px;
+
+}
+A.Button .right
+{
+	display: block;
+	float: left;
+	background: url(../Images/ButtonRight.png) no-repeat;
+	width: 10px;
+	height: 18px;
+}
+
+/* Left Column ***************************************************************************/
+
+
+#leftcolumn H2
+{
+	font: 16px Tahoma, Arial, Helvetica, sans-serif;
+	color: #254336;
+	padding: 25px 0 18px 0;
+}
+#leftcolumn H2.First
+{
+	font: 16px Tahoma, Arial, Helvetica, sans-serif;
+	color: #254336;
+	padding-top: 0;
+}
+#leftcolumn H3
+{
+	font: bold 11px Tahoma, Arial, Helvetica, sans-serif;
+	color: #254336;
+	padding-bottom: 5px;
+	margin: 0;
+}
+#leftcolumn P
+{
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	color: #254336;
+	line-height: 16px;
+	padding: 0 0 6px 0;
+	margin: 0;
+}
+#leftcolumn .Date
+{
+	float: left;
+	font: 10px Verdana, Arial, Tahoma, Helvetica, sans-serif;
+	padding: 2px 20px 0 0;
+}
+#leftcolumn .Video
+{
+	padding-top: 15px;
+	clear: both;
+	line-height: 0;
 }
