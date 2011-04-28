@@ -37,7 +37,15 @@ P
 	padding: 0 0 10px 0;
 	margin: 0;
 }
-
+INPUT.Text, TEXTAREA
+{
+	background: #ffffff;
+	border: solid 1px #94a89b;
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	padding: 2px;
+	margin: 0;
+	line-height: 15px;
+}
 
 /* Layout ***************************************************************************/
 
@@ -222,7 +230,12 @@ A.Button .right
 
 /* Left Column ***************************************************************************/
 
-
+#leftcolumn
+{
+	font: 11px Tahoma, Arial, Helvetica, sans-serif;
+	color: #254336;
+	line-height: 16px;
+}
 #leftcolumn H2
 {
 	font: 16px Tahoma, Arial, Helvetica, sans-serif;
@@ -244,11 +257,9 @@ A.Button .right
 }
 #leftcolumn P
 {
-	font: 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
-	line-height: 16px;
 	padding: 0 0 6px 0;
 	margin: 0;
+	line-height: 16px;
 }
 #leftcolumn .Date
 {
@@ -262,3 +273,31 @@ A.Button .right
 	clear: both;
 	line-height: 0;
 }
+#leftcolumn .Field
+{
+	overflow: auto;
+	padding-bottom: 4px;
+}
+#leftcolumn .FieldLabel
+{
+	float: left;
+	width: 65px;
+	padding-top: 2px;
+}
+#leftcolumn INPUT.Text
+{
+	width: 195px;	
+}
+#leftcolumn TEXTAREA
+{
+	width: 260px;	
+	height: 100px;
+}
+#leftcolumn .ContactMessage
+{
+	font-weight: bold;
+	float: left;
+	clear: left;
+	padding-top: 5px;
+}
+
