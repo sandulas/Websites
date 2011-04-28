@@ -50,12 +50,8 @@
 			trala lala...</p>
 			
 			<div class="Date">April 21st, 2011</div>
-
-			<asp:HyperLink CssClass="Button" NavigateUrl="#" runat="server">
-				<div class="left"></div>
-				<div class="center">Read More</div>
-				<div class="right"></div>
-			</asp:HyperLink>
+			
+			<app:Button Text="Read More" NavigateUrl="~/" runat="server" />
 			
 			<div class="Video">
 				<object width="270" height="182">
@@ -72,6 +68,27 @@
 			</div>
 
 			<h2>Contact Me</h2>
+			
+			<div class="Field">
+				<div class="FieldLabel">Your Name: </div>
+				<asp:TextBox ID="NameTextBox" CssClass="Text" runat="server" />
+			</div>
+			<div class="Field">
+				<div class="FieldLabel">Your Email: </div>
+				<asp:TextBox ID="EmailTextBox" CssClass="Text" runat="server" />
+			</div>
+			<div class="Field">
+				Message:<br />
+				<asp:TextBox ID="MessageTextBox" TextMode="MultiLine" runat="server" />
+			</div>
+			<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
+			<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" runat="server" />
+			
+			<div style="overflow: auto; clear: both;">
+				<h2 style="float: left;">Follow Me On</h2>
+				<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Main Image" style="float: left;" />
+			</div>
+			
 			
 		</div>
 	</div>
@@ -99,6 +116,7 @@
 			</div>
 				
 		</div>
+		
 	</div>
 	
 	<div id="footer">
