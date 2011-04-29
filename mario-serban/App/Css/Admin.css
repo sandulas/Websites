@@ -1,0 +1,22 @@
+﻿BODY
+{
+	font: 12px Arial, Tahoma, Helvetica, sans-serif;
+}
+A
+{
+	text-decoration: none;
+	color: #0000cc;
+}
+A:hover
+{
+	text-decoration: underline;
+}
+#menu
+{
+	color: #ffffff;
+}
+#menu A
+{
+	color: #ffffff;
+}
+
