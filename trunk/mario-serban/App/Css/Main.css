@@ -17,6 +17,12 @@ IMG.Thumbnail
 	height: 88px;
 	border: solid 2px #b9d0c1;
 }
+IMG.Content
+{
+	width: 250px;
+	height: 141px;
+	border: solid 2px #b9d0c1;
+}
 A
 {
 	text-decoration: none;
@@ -45,8 +51,16 @@ H2
 P
 {
 	line-height: 21px;
-	padding: 0 0 10px 0;
+	padding: 0 0 8px 0;
 	margin: 0;
+}
+P.TopPadding
+{
+	padding-top: 8px;
+}
+P.NoPadding
+{
+	padding: 0;
 }
 INPUT.Text, TEXTAREA
 {
@@ -187,7 +201,7 @@ INPUT.Text, TEXTAREA
 	border-left: solid 1px #2f513e;
 	border-right: solid 1px #2f513e;
 	background: #ffffff;
-	padding: 13px 13px 10px 13px;
+	padding: 10px 13px;
 	overflow: auto;
 }
 .Box .bottom
@@ -206,6 +220,49 @@ INPUT.Text, TEXTAREA
 	padding: 5px 0 0 24px;
 	height: 21px;
 	font: 11px Verdana, Arial, Tahoma, Helvetica, sans-serif;
+}
+
+.BoxS
+{
+	float: left;
+	width: 268px;
+}
+.BoxS .top
+{
+	float: left;
+	width: 242px;
+	background: url(../Images/BoxSTop.png) no-repeat;
+	height: 27px;
+	padding: 13px 13px 0 13px;
+}
+.BoxS .middle
+{
+	float: left;
+	width: 240px;
+	border-left: solid 1px #2f513e;
+	border-right: solid 1px #2f513e;
+	background: #ffffff;
+	padding: 10px 13px;
+	overflow: auto;
+}
+.BoxS .bottom
+{
+	float: left;
+	width: 268px;
+	background: url(../Images/BoxSBottom.png) no-repeat;
+	height: 7px;
+}
+.BoxS .title
+{
+	float: left;
+}
+
+.ContentHead
+{
+	overflow: auto;
+	padding-bottom: 20px;
+	border-bottom: solid 2px #b9d0c1;
+	margin-bottom: 25px;
 }
 
 A.Button
