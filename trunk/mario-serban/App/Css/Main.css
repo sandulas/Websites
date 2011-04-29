@@ -11,9 +11,20 @@ IMG
 {
 	border: none;
 }
+IMG.Thumbnail
+{
+	width: 156px;
+	height: 88px;
+	border: solid 2px #b9d0c1;
+}
 A
 {
 	text-decoration: none;
+	color: #e67232;
+}
+A:hover
+{
+	text-decoration: underline;
 }
 H1
 {
@@ -106,6 +117,7 @@ INPUT.Text, TEXTAREA
 {
 	font: 18px Tahoma, Arial, Helvetica, sans-serif;
 	color: #e67232;
+	text-decoration: none;
 }
 #leftcontent
 {
@@ -118,6 +130,7 @@ INPUT.Text, TEXTAREA
 	float: left;
 	width: 582px;
 	background: #ffffff;
+	min-height: 1050px;
 }
 #mainimage
 {
@@ -174,7 +187,8 @@ INPUT.Text, TEXTAREA
 	border-left: solid 1px #2f513e;
 	border-right: solid 1px #2f513e;
 	background: #ffffff;
-	padding: 13px;
+	padding: 13px 13px 10px 13px;
+	overflow: auto;
 }
 .Box .bottom
 {
@@ -248,6 +262,11 @@ A.Button .right
 	color: #254336;
 	padding-top: 0;
 }
+#leftcolumn .BlogItemHolder
+{
+	overflow: auto;
+	padding-bottom: 15px;
+}
 #leftcolumn H3
 {
 	font: bold 11px Tahoma, Arial, Helvetica, sans-serif;
@@ -269,7 +288,6 @@ A.Button .right
 }
 #leftcolumn .Video
 {
-	padding-top: 15px;
 	clear: both;
 	line-height: 0;
 }
@@ -300,4 +318,18 @@ A.Button .right
 	clear: left;
 	padding-top: 5px;
 }
-
+#leftcolumn .FacebookHolder
+{
+	overflow: auto;
+	clear: both;
+	padding-top: 25px;
+}
+#leftcolumn .FacebookHolder H2
+{
+	padding: 2px 10px 0 0;
+	float: left;
+}
+#leftcolumn .FacebookHolder A
+{
+	float: left;
+}

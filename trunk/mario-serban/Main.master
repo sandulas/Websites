@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="MainMaster" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -33,11 +33,11 @@
 		<div id="menu">
 			<ul>
 				<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="About" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="Service" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="Testimonial" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="Photos" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="Blog" NavigateUrl="~/" runat="server" /></li>
+				<li><asp:HyperLink Text="About" NavigateUrl="~/about.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Services" NavigateUrl="~/services.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Testimonials" NavigateUrl="~/testimonials.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Photos" NavigateUrl="~/photos.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Blog" NavigateUrl="~/blog.aspx" runat="server" /></li>
 			</ul>
 		</div>
 	
@@ -45,14 +45,16 @@
 		
 			<h2 class="First">Latest Blog Posts</h2>
 			
-			<h3>Latest Blog Post Title</h3>
-			<p>The first lines of the blog text goes here. Lorem ipsum trala lala. The first lines of the blog text goes here. Lorem ipsum
-			trala lala...</p>
-			
-			<div class="Date">April 21st, 2011</div>
-			
-			<app:Button Text="Read More" NavigateUrl="~/" runat="server" />
-			
+			<div class="BlogItemHolder">
+				<h3>Latest Blog Post Title</h3>
+				<p>The first lines of the blog text goes here. Lorem ipsum trala lala. The first lines of the blog text goes here. Lorem ipsum
+				trala lala...</p>
+				
+				<div class="Date">April 21st, 2011</div>
+				
+				<app:Button Text="Read More" NavigateUrl="~/" runat="server" />
+			</div>
+						
 			<div class="Video">
 				<object width="270" height="182">
 					<param name="movie" value="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
@@ -84,9 +86,10 @@
 			<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
 			<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" runat="server" />
 			
-			<div style="overflow: auto; clear: both;">
-				<h2 style="float: left;">Follow Me On</h2>
-				<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Main Image" style="float: left;" />
+			<div class="FacebookHolder">
+				<h2>Follow Me On</h2>
+				<a href="http://www.facebook.com/pages/Mario-Serban-Therapy-and-Fitness/141180892568353" target="_blank">
+					<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Facebook Logo" /></a>
 			</div>
 			
 			
@@ -95,26 +98,11 @@
 
 	<div id="rightcolumn">
 		
-		<img id="mainimage" src="<%= ResolveUrl("~/App/Images/MainImage.jpg")%>" alt="Main Image" />
+		<asp:PlaceHolder ID="MainImageHolder" runat="server"><img id="mainimage" src="<%= ResolveUrl("~/App/Images/MainImage.jpg")%>" alt="Main Image" /></asp:PlaceHolder>
 
 		<div id="rightcontent">
-			<h1>Welcome to Mario Serban Therapy</h1>
-			
-			<p>In Beverly Hills is known to be the most private Pilates studio in the Los Angeles area. Situated across the luxurious Peninsula
-			Hotel, our studio caters to clientele from Brentwood, Century City, Bel Air to West Hollywood. Our fully equipped studio with
-			Pilates and GYROTONIC® equipment enables our STOTT PILATES® certified instructors the oportunity to design personalized workout
-			programs to sculpt your body using various Pilates apparatus' and light weight training. We can customize a health plan and			fitness routine to suit every individual's goal and needs.</p>			<p>STOTT PILATES® certified instructors the opportunity to design personalized workout programs to sculpt your body using various			Pilates apparatus' and light weight training.</p>			<p>We can customize a health plan and fitness routine to suit every individual's goal and needs. No need to attend a boot camp to
-			get the long, lean muscles and tight body that you’ve always wanted!</p>
-			
-			<div class="Box">
-				<div class="top">
-					<div class="title"><h2>Photos</h2></div>
-					<div class="date">April 21st, 2011</div>
-				</div>
-				<div class="middle">Text<br />adfadfad</div>
-				<div class="bottom"></div>
-			</div>
-				
+			<asp:ContentPlaceHolder ID="Content" runat="server">
+			</asp:ContentPlaceHolder>				
 		</div>
 		
 	</div>
