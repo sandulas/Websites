@@ -5,9 +5,15 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class Main : MyMasterPage
+public partial class MainMaster : MyMasterPage
 {
-  protected void Page_Load(object sender, EventArgs e)
+	public bool ShowMainImage
+	{
+		get { return MainImageHolder.Visible; }
+		set { MainImageHolder.Visible = value; }
+	}
+	
+	protected void Page_Load(object sender, EventArgs e)
   {
   }
 
