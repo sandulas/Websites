@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class Blog : System.Web.UI.Page
+public partial class BlogPage : System.Web.UI.Page
 {
 	int? id;
 	
@@ -16,6 +16,11 @@ public partial class Blog : System.Web.UI.Page
 		try { id = int.Parse(Request.QueryString["id"]); }
 		catch { id = null; }
 
+		if (id == null)
+		{
+			BlogsRepeater.DataSource = Blog.List();
+			BlogsRepeater.DataBind();
+		}
   }
 	protected override void OnPreRender(EventArgs e)
 	{

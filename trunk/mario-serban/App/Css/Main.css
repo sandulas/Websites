@@ -298,6 +298,10 @@ A.Button .right
 	width: 10px;
 	height: 18px;
 }
+A.Button:hover
+{
+	text-decoration: none;
+}
 
 /* Left Column ***************************************************************************/
 
