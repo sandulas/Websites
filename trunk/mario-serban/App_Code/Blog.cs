@@ -4,26 +4,40 @@ using System.Data;
 
 public class Blog
 {
-	private static DataTable list(DateTime? startDate, DateTime? endDate)
+	private static DataTable list(DateTime? startDate, DateTime? endDate, int? count)
 	{
-		string sql = "SELECT * FROM Blog";
+		string sql = "";
+		if (count != null)
+			sql += "SET ROWCOUNT " + count.ToString() +  " ";
+
+		sql += "SELECT * FROM Blog ";
 		
 		if (startDate != null)
-			sql += " WHERE DateAdded >= @startDate AND DateAdded < @endDate";
+			sql += "WHERE DateAdded >= @startDate AND DateAdded < @endDate ";
 		
-		sql += " ORDER BY DateAdded DESC";
+		sql += "ORDER BY DateAdded DESC ";
 
 		return new SqlTools().GetTable(sql, "@startDate", startDate, "@endDate", endDate);
 	}
 
 	public static DataTable List()
 	{
-		return list(null, null);
+		return list(null, null, null);
+	}
+
+	public static DataTable List(int count)
+	{
+		return list(null, null, count);
 	}
 
 	public static DataTable List(DateTime startDate, DateTime endDate)
 	{
-		return list(startDate, endDate);
+		return list(startDate, endDate, null);
+	}
+
+	public static DataRow Get(int id)
+	{
+		return new SqlTools().GetRow("SELECT * FROM Blog WHERE Id = @id", "@id", id);
 	}
 
 	public static int Add(string title, string text)
