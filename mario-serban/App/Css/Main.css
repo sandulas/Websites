@@ -54,10 +54,6 @@ P
 	padding: 0 0 8px 0;
 	margin: 0;
 }
-P.TopPadding
-{
-	padding-top: 8px;
-}
 P.NoPadding
 {
 	padding: 0;
@@ -188,16 +184,21 @@ INPUT.Text, TEXTAREA
 
 .Box
 {
+	float: left;
 	width: 542px;
 }
 .Box .top
 {
+	float: left;
+	width: 516px;
 	background: url(../Images/BoxTop.png) no-repeat;
 	height: 27px;
 	padding: 13px 13px 0 13px;
 }
 .Box .middle
 {
+	float: left;
+	width: 514px;
 	border-left: solid 1px #2f513e;
 	border-right: solid 1px #2f513e;
 	background: #ffffff;
@@ -206,6 +207,8 @@ INPUT.Text, TEXTAREA
 }
 .Box .bottom
 {
+	float: left;
+	width: 542px;
 	background: url(../Images/BoxBottom.png) no-repeat;
 	height: 7px;
 }
@@ -269,6 +272,7 @@ A.Button
 {
 	display: block;
 	float: left;
+	color: #ffffff;
 }
 A.Button .left
 {
@@ -286,7 +290,6 @@ A.Button .center
 	height: 18px;
 	padding-top: 1px;
 	font: 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #ffffff;
 	line-height: 15px;
 
 }
@@ -301,9 +304,28 @@ A.Button .right
 A.Button:hover
 {
 	text-decoration: none;
+	color: #f89621;
+}
+.FLeft
+{
+	float: left;
+}
+.PadT10
+{
+	padding-top: 10px;
+}
+.PadB10
+{
+	padding-bottom: 10px;
+}
+.PadB20
+{
+	padding-bottom: 20px;
 }
 
+
 /* Left Column ***************************************************************************/
+
 
 #leftcolumn
 {
@@ -343,9 +365,8 @@ A.Button:hover
 }
 #leftcolumn .Date
 {
-	float: left;
+	float: right;
 	font: 10px Verdana, Arial, Tahoma, Helvetica, sans-serif;
-	padding: 2px 20px 0 0;
 }
 #leftcolumn .Video
 {

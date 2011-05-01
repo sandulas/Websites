@@ -4,6 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 	<title>Mario Serban Therapy - Admin</title>
+	<link rel="Stylesheet" type="text/css" href="../App/Css/Admin.css?v=1" />
 </head>
 <body>
 <form id="form1" runat="server">
