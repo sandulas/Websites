@@ -45,15 +45,16 @@
 		
 			<h2 class="First">Latest Blog Posts</h2>
 			
-			<div class="BlogItemHolder">
-				<h3>Latest Blog Post Title</h3>
-				<p>The first lines of the blog text goes here. Lorem ipsum trala lala. The first lines of the blog text goes here. Lorem ipsum
-				trala lala...</p>
-				
-				<div class="Date">April 21st, 2011</div>
-				
-				<app:Button Text="Read More" NavigateUrl="~/" runat="server" />
-			</div>
+			<asp:Repeater ID="BlogRepeater" runat="server">
+				<ItemTemplate>
+					<div class="BlogItemHolder">
+						<h3><%# Eval("Title")%></h3>
+						<p><%# Eval("Text").CutToFit(135)%></p>
+						<app:Button Text="Read More" NavigateUrl='<%# "~/blog.aspx?id=" + Eval("Id") %>' runat="server" />
+						<div class="Date"><%# Eval("DateAdded").ToString1()%></div>
+					</div>
+				</ItemTemplate>
+			</asp:Repeater>
 						
 			<div class="Video">
 				<object width="270" height="182">
