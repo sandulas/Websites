@@ -48,4 +48,18 @@ public class Blog
 			"@title", title, "@text", text, "@dateAdded", DateTimeTools.Now);
 	}
 
+	public static void Update(int id, string title, string text)
+	{
+		new SqlTools().Execute(@"
+			UPDATE Blog SET Title=@title, Text = @text
+			WHERE Id = @id",
+			"@title", title, "@text", text, "@id", id);
+	}
+
+	public static void Delete(int id)
+	{
+		new SqlTools().Execute(@"
+			DELETE FROM Blog WHERE Id = @id",
+			"@id", id);
+	}
 }

@@ -10,12 +10,12 @@
 <body>
 <form id="form1" runat="server">
 
-<div style="width: 700px; margin: 0 auto; border: solid 1px #000000; background: #eeeeee; margin-top: 30px;">
+<div style="width: 890px; margin: 0 auto; border: solid 1px #000000; background: #eeeeee; margin-top: 30px;">
 
 	<div id="menu" style="background: #000000; padding: 10px 15px;">
 		<asp:HyperLink Text="Manage Blog" NavigateUrl="~/_admin/manageblog.aspx" runat="server" />
-		|
-		<asp:HyperLink Text="Add Blog Post" NavigateUrl="~/_admin/addblog.aspx" runat="server" />
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+		<asp:HyperLink Text="Add Blog Post" NavigateUrl="~/_admin/addeditblog.aspx" runat="server" />
 	</div>
 
 	<div style="padding: 15px;">

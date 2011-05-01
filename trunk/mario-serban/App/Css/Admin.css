@@ -14,9 +14,16 @@ A:hover
 #menu
 {
 	color: #ffffff;
+	font-weight: bold;
 }
 #menu A
 {
 	color: #ffffff;
+	font-weight: bold;
+}
+
+.Error
+{
+	color: #cc0000;
 }
 
