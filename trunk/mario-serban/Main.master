@@ -51,7 +51,7 @@
 						<h3><%# Eval("Title")%></h3>
 						<p><%# Eval("Text").CutToFit(135)%></p>
 						<app:Button Text="Read More" NavigateUrl='<%# "~/blog.aspx?id=" + Eval("Id") %>' runat="server" />
-						<div class="Date"><%# Eval("DateAdded").ToString1()%></div>
+						<div class="Date"><%# Eval("DateAdded").ToDateString()%></div>
 					</div>
 				</ItemTemplate>
 			</asp:Repeater>
@@ -85,7 +85,7 @@
 				<asp:TextBox ID="MessageTextBox" TextMode="MultiLine" runat="server" />
 			</div>
 			<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
-			<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" runat="server" />
+			<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" EnableViewState="false" runat="server" />
 			
 			<div class="FacebookHolder">
 				<h2>Follow Me On</h2>

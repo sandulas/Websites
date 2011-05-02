@@ -38,8 +38,13 @@ public static class Tools
 		return AppTools.Server.HtmlEncode(sourceString);
 	}
 
-	public static string ToString1(this object date)
+	public static string ToDateString(this object date)
 	{
 		return DateTimeTools.ToString(date, "MMMM d, yyyy");
+	}
+	
+	public static string ToDateTimeString(this object date)
+	{
+		return DateTimeTools.ToString(date, "MMMM d, yyyy HH:mm");
 	}
 }

@@ -28,7 +28,7 @@
 				<div class="Box PadB20">
 					<div class="top">
 						<div class="title"><h2><%# Eval("Title")%></h2></div>
-						<div class="date"><%# Eval("DateAdded").ToString1()%></div>
+						<div class="date"><%# Eval("DateAdded").ToDateString()%></div>
 					</div>
 					<div class="middle">
 						<p><%# Eval("Text").CutToFit(240)%></p>
@@ -46,7 +46,7 @@
 		<div class="Box">
 			<div class="top">
 				<div class="title"><h2><%# BlogDataRow["Title"]%></h2></div>
-				<div class="date"><%# BlogDataRow["DateAdded"].ToString1()%></div>
+				<div class="date"><%# BlogDataRow["DateAdded"].ToDateString()%></div>
 			</div>
 			<div class="middle">
 				<%# BlogDataRow["Text"].ParagraphFormat()%>
