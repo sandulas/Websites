@@ -27,7 +27,7 @@ public partial class _Admin_AddEditBlog : System.Web.UI.Page
 				BlogDataRow = Blog.Get((int)id);
 				TitleTextBox.Text = BlogDataRow["Title"].ToString();
 				TextTextBox.Text = BlogDataRow["Text"].ToString();
-				DateLiteral.Text = "Date: " + BlogDataRow["DateAdded"].ToString1() + "<br /><br/>";
+				DateLiteral.Text = "Date: " + BlogDataRow["DateAdded"].ToDateString() + "<br /><br/>";
 			}
 			else
 			{

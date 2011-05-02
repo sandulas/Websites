@@ -16,7 +16,7 @@ Text:<br />
 <asp:Button ID="CancelButton" Text="Cancel" OnClick="CancelButton_Click" runat="server" />
 <asp:Button ID="DeleteButton" Text="Delete" OnClick="DeleteButton_Click" Visible="false" OnClientClick="return confirm('Are you sure you want to delete this blog post?');" style="color: #ff0000;" runat="server" />
 
-<asp:Label ID="ErrorLabel" CssClass="Error" Visible="false" EnableViewState="false" runat="server"><br /><br />Both fields are required!</asp:Label>
+<asp:Label ID="ErrorLabel" CssClass="Error" Visible="false" EnableViewState="false" runat="server"><br /><br />All fields are mandatory!</asp:Label>
 
 </asp:Content>
 

@@ -15,7 +15,7 @@
 		<asp:Repeater ID="BlogRepeater" runat="server">
 			<ItemTemplate>
 				<tr style="background: #fafafa;">
-					<td><%# Eval("DateAdded").ToString1()%></td>
+					<td><%# Eval("DateAdded").ToDateString()%></td>
 					<td><%# Eval("Title")%></td>
 					<td><%# Eval("Text").CutToFit(400)%></td>
 					<td align="center"><asp:HyperLink Text="Edit" NavigateUrl='<%# "~/_admin/addeditblog.aspx?id=" + Eval("Id") %>' runat="server" /></td>
@@ -23,7 +23,7 @@
 			</ItemTemplate>
 			<AlternatingItemTemplate>
 				<tr style="background: #e6e6e6;">
-					<td><%# Eval("DateAdded").ToString1()%></td>
+					<td><%# Eval("DateAdded").ToDateString()%></td>
 					<td><%# Eval("Title")%></td>
 					<td><%# Eval("Text").CutToFit(400)%></td>
 					<td align="center"><asp:HyperLink Text="Edit" NavigateUrl='<%# "~/_admin/addeditblog.aspx?id=" + Eval("Id") %>' runat="server" /></td>
