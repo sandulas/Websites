@@ -34,7 +34,8 @@
 			<ul>
 				<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
 				<li><asp:HyperLink Text="About" NavigateUrl="~/about.aspx" runat="server" /></li>
-				<li><asp:HyperLink Text="Services" NavigateUrl="~/services.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Fitness" NavigateUrl="~/fitness.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Massage" NavigateUrl="~/massage.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Testimonials" NavigateUrl="~/testimonials.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Photos" NavigateUrl="~/photos.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Blog" NavigateUrl="~/blog.aspx" runat="server" /></li>
