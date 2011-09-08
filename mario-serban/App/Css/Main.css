@@ -3,7 +3,7 @@
 	background: url(../Images/Bg.jpg);
 	font: 12px Arial, Tahoma, Helvetica, sans-serif;
 	line-height: 21px;
-	color: #12211a;
+	color: #131b21;
 	margin: 0;
 	padding: 0;
 }
@@ -36,7 +36,7 @@ H1
 {
 		font-size: 18px;
 		font-weight: normal;
-		color: #2d5141;
+		color: #2e4352;
 		margin: 0;
 		padding-bottom: 14px;
 }
@@ -44,7 +44,7 @@ H2
 {
 		font-size: 16px;
 		font-weight: normal;
-		color: #2d5141;
+		color: #2e4352;
 		margin: 0;
 		padding: 0;
 }
@@ -91,7 +91,7 @@ INPUT.Text, TEXTAREA
 {
 	width: 886px;
 	border-left: solid 4px #ffffff;
-	background: #b9d0c1;
+	background: #bccbd6;
 	overflow: auto;
 }
 #leftcolumn
@@ -199,8 +199,8 @@ INPUT.Text, TEXTAREA
 {
 	float: left;
 	width: 514px;
-	border-left: solid 1px #2f513e;
-	border-right: solid 1px #2f513e;
+	border-left: solid 1px #314350;
+	border-right: solid 1px #314350;
 	background: #ffffff;
 	padding: 10px 13px;
 	overflow: auto;
@@ -242,8 +242,8 @@ INPUT.Text, TEXTAREA
 {
 	float: left;
 	width: 240px;
-	border-left: solid 1px #2f513e;
-	border-right: solid 1px #2f513e;
+	border-left: solid 1px #314350;
+	border-right: solid 1px #314350;
 	background: #ffffff;
 	padding: 10px 13px;
 	overflow: auto;
@@ -330,19 +330,19 @@ A.Button:hover
 #leftcolumn
 {
 	font: 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
+	color: #1f2e38;
 	line-height: 16px;
 }
 #leftcolumn H2
 {
 	font: 16px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
+	color: #253642;
 	padding: 25px 0 18px 0;
 }
 #leftcolumn H2.First
 {
 	font: 16px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
+	color: #253642;
 	padding-top: 0;
 }
 #leftcolumn .BlogItemHolder
@@ -353,7 +353,7 @@ A.Button:hover
 #leftcolumn H3
 {
 	font: bold 11px Tahoma, Arial, Helvetica, sans-serif;
-	color: #254336;
+	color: #1f2e38;
 	padding-bottom: 5px;
 	margin: 0;
 }
