@@ -145,7 +145,7 @@ INPUT.Text, TEXTAREA
 #mainimage
 {
 	width: 582px;
-	height: 328px;
+	height: 150px;
 }
 #rightcontent
 {
@@ -408,10 +408,12 @@ A.Button:hover
 }
 #leftcolumn .FacebookHolder H2
 {
-	padding: 2px 10px 0 0;
+	padding: 2px 0 18px 0;
 	float: left;
 }
 #leftcolumn .FacebookHolder A
 {
 	float: left;
+	display: block;
+	margin-right: 15px;
 }
