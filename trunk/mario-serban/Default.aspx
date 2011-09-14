@@ -5,6 +5,13 @@
 	<title>Mario Serban Therapy - Home</title>
 </asp:Content>
 
+<asp:Content ContentPlaceHolderID="LeftContent2" runat="server">
+	<a href="#" class="Text" style="display: block; padding: 10px 10px 15px 10px; background: #a2c6df; border: solid 1px #88a7bc; margin-top: 8px;">
+			<b>Special Discount for Cedar-Sinai Employees Only.</b>
+			If you are a Cedar-Sinai employee click here for more details.<br />
+			<img src="<%= ResolveUrl("~/App/Images/CedarsSinaiLogo.jpg")%>" alt="Cedars Sinai Logo" style="margin: 10px 0 0 23px; border: solid 1px #88a7bc;" /></a>
+</asp:Content>
+
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
 	<h1>Welcome to Mario Serban Therapy</h1>

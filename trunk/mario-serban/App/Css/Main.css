@@ -84,7 +84,7 @@ INPUT.Text, TEXTAREA
 }
 #logo
 {
-	width: 231px;
+	width: 281px;
 	height: 96px;
 }
 #container
@@ -170,11 +170,11 @@ INPUT.Text, TEXTAREA
 #footerright
 {
 	float: right;
-	padding: 8px 20px;
+	padding: 13px 20px;
 }
 #logofooter
 {
-	width: 160px;
+	width: 221px;
 	height: 68px;
 }
 
@@ -417,3 +417,5 @@ A.Button:hover
 	display: block;
 	margin-right: 15px;
 }
+#leftcolumn A.Text { color: #1F2E38; text-decoration: none; }
+#leftcolumn A.Text:hover { text-decoration: none; }
