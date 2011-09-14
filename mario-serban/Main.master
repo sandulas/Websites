@@ -44,58 +44,63 @@
 	
 		<div id="leftcontent">
 		
-			<h2 class="First">Latest Blog Posts</h2>
+			<asp:ContentPlaceHolder ID="LeftContent1" runat="server">
+				<h2 class="First">Latest Blog Posts</h2>
+				
+				<asp:Repeater ID="BlogRepeater" runat="server">
+					<ItemTemplate>
+						<div class="BlogItemHolder">
+							<h3><%# Eval("Title")%></h3>
+							<p><%# Eval("Text").CutToFit(135)%></p>
+							<app:Button Text="Read More" NavigateUrl='<%# "~/blog.aspx?id=" + Eval("Id") %>' runat="server" />
+							<div class="Date"><%# Eval("DateAdded").ToDateString()%></div>
+						</div>
+					</ItemTemplate>
+				</asp:Repeater>
+			</asp:ContentPlaceHolder>
 			
-			<asp:Repeater ID="BlogRepeater" runat="server">
-				<ItemTemplate>
-					<div class="BlogItemHolder">
-						<h3><%# Eval("Title")%></h3>
-						<p><%# Eval("Text").CutToFit(135)%></p>
-						<app:Button Text="Read More" NavigateUrl='<%# "~/blog.aspx?id=" + Eval("Id") %>' runat="server" />
-						<div class="Date"><%# Eval("DateAdded").ToDateString()%></div>
-					</div>
-				</ItemTemplate>
-			</asp:Repeater>
-						
-			<div class="Video">
-				<object width="270" height="182">
-					<param name="movie" value="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
-					<param name="allowFullScreen" value="true"></param>
-					<param name="allowScriptAccess" value="always"></param>
-					<embed src="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"
-						type="application/x-shockwave-flash"
-						allowfullscreen="true"
-						allowscriptaccess="always"
-						width="270" height="182">
-					</embed>
-				</object>
-			</div>
-
-			<h2>Contact Me</h2>
+			<asp:ContentPlaceHolder ID="LeftContent2" runat="server">
+				<div class="Video">
+					<object width="270" height="182">
+						<param name="movie" value="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
+						<param name="allowFullScreen" value="true"></param>
+						<param name="allowScriptAccess" value="always"></param>
+						<embed src="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"
+							type="application/x-shockwave-flash"
+							allowfullscreen="true"
+							allowscriptaccess="always"
+							width="270" height="182">
+						</embed>
+					</object>
+				</div>
+			</asp:ContentPlaceHolder>
 			
-			<div class="Field">
-				<div class="FieldLabel">Your Name: </div>
-				<asp:TextBox ID="NameTextBox" CssClass="Text" runat="server" />
-			</div>
-			<div class="Field">
-				<div class="FieldLabel">Your Email: </div>
-				<asp:TextBox ID="EmailTextBox" CssClass="Text" runat="server" />
-			</div>
-			<div class="Field">
-				Message:<br />
-				<asp:TextBox ID="MessageTextBox" TextMode="MultiLine" runat="server" />
-			</div>
-			<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
-			<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" EnableViewState="false" runat="server" />
-			
-			<div class="FacebookHolder">
-				<h2>Follow Me On</h2>
-				<a href="http://www.facebook.com/pages/Mario-Serban-Therapy-and-Fitness/141180892568353" style="clear: left;" target="_blank">
-					<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Facebook Logo" /></a>
-				<a href="http://twitter.com/" target="_blank" style="padding-top: 1px;">
-					<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
-			</div>
-			
+			<asp:ContentPlaceHolder ID="LeftContent3" runat="server">
+				<h2>Contact Us</h2>
+				
+				<div class="Field">
+					<div class="FieldLabel">Your Name: </div>
+					<asp:TextBox ID="NameTextBox" CssClass="Text" runat="server" />
+				</div>
+				<div class="Field">
+					<div class="FieldLabel">Your Email: </div>
+					<asp:TextBox ID="EmailTextBox" CssClass="Text" runat="server" />
+				</div>
+				<div class="Field">
+					Message:<br />
+					<asp:TextBox ID="MessageTextBox" TextMode="MultiLine" runat="server" />
+				</div>
+				<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
+				<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" EnableViewState="false" runat="server" />
+				
+				<div class="FacebookHolder">
+					<h2>Follow Me On</h2>
+					<a href="http://www.facebook.com/pages/Mario-Serban-Therapy-and-Fitness/141180892568353" style="clear: left;" target="_blank">
+						<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Facebook Logo" /></a>
+					<a href="http://twitter.com/" target="_blank" style="padding-top: 1px;">
+						<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
+				</div>
+			</asp:ContentPlaceHolder>			
 			
 		</div>
 	</div>
