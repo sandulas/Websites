@@ -115,7 +115,7 @@ INPUT.Text, TEXTAREA
 }
 #menu li
 {
-	padding-bottom: 10px;
+	padding-bottom: 14px;
 	list-style-type: none;
 }
 #menu a
@@ -194,6 +194,14 @@ INPUT.Text, TEXTAREA
 	background: url(../Images/BoxTop.png) no-repeat;
 	height: 27px;
 	padding: 13px 13px 0 13px;
+}
+.Box .top2
+{
+	float: left;
+	width: 542px;
+	background: url(../Images/BoxTop.png) no-repeat;
+	height: 7px;
+	padding-top: 3px;
 }
 .Box .middle
 {

@@ -16,8 +16,11 @@ public partial class MainMaster : MyMasterPage
 	
 	protected void Page_Load(object sender, EventArgs e)
   {
-		BlogRepeater.DataSource = Blog.List(1);
-		BlogRepeater.DataBind();
+		if (BlogRepeater != null)
+		{
+			BlogRepeater.DataSource = Blog.List(1);
+			BlogRepeater.DataBind();
+		}
 	}
 
 	protected void SendButton_Click(object sender, EventArgs e)

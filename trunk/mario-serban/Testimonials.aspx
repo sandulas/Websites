@@ -2,7 +2,7 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ContentPlaceHolderID="head" Runat="Server">
-	<title>Mario Serban Therapy - Testimonials</title>
+	<title>LA Training Room - Testimonials</title>
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
