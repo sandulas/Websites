@@ -2,7 +2,7 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-	<title>Mario Serban Therapy - Blog</title>
+	<title>LA Training Room - Blog</title>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
@@ -13,7 +13,8 @@
 				<div class="title"><h2>Mario's Background</h2></div>
 			</div>
 			<div class="middle">
-				Some background information, whetever. Just a short text. Some background information, qualifications,				whetever. Just four lines of text.
+				Some background information, whetever. Just a short text. Some background information, qualifications,
+				whetever. Just four lines of text.
 			</div>
 			<div class="bottom"></div>
 		</div>
