@@ -11,11 +11,18 @@ IMG
 {
 	border: none;
 }
-IMG.Thumbnail
+IMG.Thumbnail	
 {
 	width: 156px;
 	height: 88px;
 	border: solid 2px #b9d0c1;
+}
+IMG.TestimonialThumbnail
+{
+	width: 156px;
+	border: solid 2px #b9d0c1;
+	margin: 5px 0 0 10px;
+	float: right;
 }
 IMG.Content
 {
