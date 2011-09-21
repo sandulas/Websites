@@ -8,15 +8,15 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="LeftContent2" runat="server">
 	<div class="Video">
-		<object width="270" height="182">
-			<param name="movie" value="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
+		<object width="270" height="213">
+			<param name="movie" value="http://www.youtube.com/v/KKZhpZGcNRg?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
 			<param name="allowFullScreen" value="true"></param>
 			<param name="allowScriptAccess" value="always"></param>
-			<embed src="http://www.youtube.com/v/gHxZPKEjOfc?rel=0&controls=1&autohide=1&showinfo=0&fs=1"
+			<embed src="http://www.youtube.com/v/KKZhpZGcNRg?rel=0&controls=1&autohide=1&showinfo=0&fs=1"
 				type="application/x-shockwave-flash"
 				allowfullscreen="true"
 				allowscriptaccess="always"
-				width="270" height="182">
+				width="270" height="213">
 			</embed>
 		</object>
 	</div>
