@@ -24,6 +24,18 @@ IMG.TestimonialThumbnail
 	margin: 5px 0 0 10px;
 	float: right;
 }
+IMG.ThumbnailLeft
+{
+	border: solid 2px #b9d0c1;
+	margin: 5px 10px 0 0;
+	float: left;
+}
+IMG.ThumbnailRight
+{
+	border: solid 2px #b9d0c1;
+	margin: 5px 0 0 10px;
+	float: right;
+}
 IMG.Content
 {
 	width: 250px;
@@ -135,6 +147,17 @@ INPUT.Text, TEXTAREA
 	font: 18px Tahoma, Arial, Helvetica, sans-serif;
 	color: #e67232;
 	text-decoration: none;
+}
+#menu #submenu
+{
+	padding-top: 5px;
+	display: none;
+}
+#menu #submenu a
+{
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: bold;
 }
 #leftcontent
 {
@@ -363,7 +386,7 @@ A.Button:hover
 #leftcolumn .BlogItemHolder
 {
 	overflow: auto;
-	padding-bottom: 15px;
+	padding-bottom: 5px;
 }
 #leftcolumn H3
 {
@@ -387,6 +410,7 @@ A.Button:hover
 {
 	clear: both;
 	line-height: 0;
+	padding-bottom: 25px;
 }
 #leftcolumn .Field
 {

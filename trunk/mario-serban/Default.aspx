@@ -6,7 +6,7 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="LeftContent2" runat="server">
-	<asp:HyperLink NavigateUrl="~/CedarsSinai.aspx" runat="server" class="Text" style="display: block; padding: 10px 10px 15px 10px; background: #a2c6df; border: solid 1px #88a7bc; margin-top: 8px;">
+	<asp:HyperLink NavigateUrl="~/CedarsSinai.aspx" runat="server" class="Text" style="display: block; padding: 10px 10px 15px 10px; background: #a2c6df; border: solid 1px #88a7bc; margin-top: 18px;">
 			<b>Special Discount for Cedar-Sinai Employees Only.</b>
 			If you are a Cedar-Sinai employee click here for more details.<br />
 			<img src="<%= ResolveUrl("~/App/Images/CedarsSinaiLogo.jpg")%>" alt="Cedars Sinai Logo" style="margin: 10px 0 0 23px; border: solid 1px #88a7bc;" /></asp:HyperLink>

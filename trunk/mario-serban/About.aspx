@@ -2,11 +2,11 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ContentPlaceHolderID="head" Runat="Server">
-	<title>LA Training Room - About</title>
+	<title>LA Training Room - About Mario</title>
 </asp:Content>
 
 
-<asp:Content ID="Content1" ContentPlaceHolderID="LeftContent2" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="LeftContent0" runat="server">
 	<div class="Video">
 		<object width="270" height="213">
 			<param name="movie" value="http://www.youtube.com/v/KKZhpZGcNRg?rel=0&controls=1&autohide=1&showinfo=0&fs=1"></param>
@@ -19,15 +19,45 @@
 				width="270" height="213">
 			</embed>
 		</object>
+		<div style="line-height: 16px;">Mario Serban in Royal Race while he was a Trainer with The Los Angeles Kings.</div>
 	</div>
 </asp:Content>
 
 
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
-	<h1>About</h1>
+	<h1>About Mario</h1>
 
-	<p>Bla bla bla</p>
+	<img src="Images/About/Mario.jpg" class="ThumbnailLeft" alt="Mario" />
+	
+	<p>Mario Serban is the Head Trainer, Head Massage Therapist and the cofounder for the LA Training Room.</p>
+	
+	<p>A former trainer and massage therapist for the <b>Los Angeles Kings Hockey Club</b>, Mario Serban is dedicated to achieving
+	long term, high performance results.</p>
+	
+	<p>With over 11 years experience in the fitness and massage therapy business, Mario Serban has worked for <b>The Los Angeles Kings</b>
+	<a href="http://kings.nhl.com/" target="_blank"><img src="Images/About/LA-Kings.jpg" class="ThumbnailRight" alt="LA Kings" /></a>
+	and many other professional athletes, as well as countless stars and celebrities like: <b>Ellen Degeneres</b>,
+	<a href="testimonials.aspx"><b>Erin Andrews</b></a>,
+	Dancing With the Stars pro <b>Anna Trebunskaya</b> and <b>Derek Hough</b>, <b>Jack Johnson</b>, <b>Conor Jackson</b> and many others. For five years
+	Mario was part of the training and medical staff for the Los Angeles Kings Hockey Club. He contributed effectively to the
+	athletic conditioning of countless hockey team players. He planned, designed and implemented comprehensive pre and post
+	event treatments, conditioning and rehabilitation techniques.</p>
+	
+	<a href="http://www.cedars-sinai.edu/" target="_blank"><img src="Images/About/Cedars-Sinai.jpg" class="ThumbnailRight" alt="Cedars Sinai" /></a>
+	<p>Mario also worked for <b>Cedar-Sinai Medical Center</b> as a Stress Management Therapist. He was part of the research team
+	within the Psychiatry department and Physical Therapy. He was part of a study recently published on
+	<a href="http://healthland.time.com/2011/01/19/the-lab-rat-gets-petted-how-massage-works/" target="_blank">Time Magazine</a>.
+	The	study concluded that a single session of massage caused biological changes. For more information please
+	<a href="http://www.nytimes.com/2010/09/21/health/research/21regimens.html" target="_blank">click here</a>.</p>
+
+	<p>Mario is an expert In Active Release Technique (ART) which is designed to help problems with muscles, tendons,
+	ligaments, fascia and nerves.</p>
+	
+	<p>Mario Serban studied Kinesiology and Body Mechanics at UCLA. He utilizes Applied Kinesiology with his assessments and
+	treatments.</p>
+	
+	<p>As a former Water Polo player for Team Romania, Mario understands your needs and what it takes to get there.</p>
 
 	<div class="Box">
 		<div class="top2"></div>
