@@ -16,6 +16,15 @@
 	<script type="text/javascript" src="App/Js/prototype.js"></script>
 	<script type="text/javascript" src="App/Js/scriptaculous.js?load=effects,builder"></script>
 	<script type="text/javascript" src="App/Js/lightbox.js"></script>
+	<script type="text/javascript">
+		function ToggleSubmenu()
+		{
+			if (document.getElementById("submenu").style.display == "block")
+				document.getElementById("submenu").style.display = "none";
+			else
+				document.getElementById("submenu").style.display = "block";
+		}
+	</script>
 </head>
 
 <body>
@@ -33,7 +42,13 @@
 		<div id="menu">
 			<ul>
 				<li><asp:HyperLink Text="Home" NavigateUrl="~/" runat="server" /></li>
-				<li><asp:HyperLink Text="About" NavigateUrl="~/about.aspx" runat="server" /></li>
+				<li>
+					<asp:HyperLink Text="About" NavigateUrl="javascript: ToggleSubmenu();" runat="server" />
+					<div id="submenu">
+						<asp:HyperLink Text="About Mario" NavigateUrl="~/about.aspx" runat="server" /><br />
+						<asp:HyperLink Text="Staff" NavigateUrl="~/staff.aspx" runat="server" />
+					</div>
+				</li>
 				<li><asp:HyperLink Text="Services" NavigateUrl="~/services.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Testimonials" NavigateUrl="~/testimonials.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Contact" NavigateUrl="~/contact.aspx" runat="server" /></li>
@@ -42,6 +57,9 @@
 		</div>
 	
 		<div id="leftcontent">
+			
+			<asp:ContentPlaceHolder ID="LeftContent0" runat="server">
+			</asp:ContentPlaceHolder>
 		
 			<asp:ContentPlaceHolder ID="LeftContent1" runat="server">
 				<h2 class="First">Latest Blog Posts</h2>
