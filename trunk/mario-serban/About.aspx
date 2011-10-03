@@ -62,12 +62,21 @@
 	<div class="Box">
 		<div class="top2"></div>
 		<div class="middle">
-				<a href="Images/Photos/Photo01.jpg" rel="lightbox[photos]">
-					<img src="Images/Photos/Photo01.T.jpg" class="Thumbnail" alt="Photo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-				<a href="Images/Photos/Photo01.jpg" rel="lightbox[photos]">
-					<img src="Images/Photos/Photo01.T.jpg" class="Thumbnail" alt="Photo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<div>
+				<a href="Images/About/Mario-Luc.jpg" rel="lightbox[photos]" title="Mario Serban and Luc Robitaille">
+					<img src="Images/About/Mario-Luc.T.jpg" class="Thumbnail" alt="Photo" /></a>
+				Mario Serban and Luc Robitaille
+			</div>
+			<div>
+				<a href="Images/About/Mario-Rob.jpg" rel="lightbox[photos]" title="Mario Serban and Rob Blake">
+					<img src="Images/About/Mario-Rob.T.jpg" class="Thumbnail" alt="Photo" /></a>
+				Mario Serban and Rob Blake
+			</div>
+			<div class="last">
 				<a href="Images/Photos/Photo01.jpg" rel="lightbox[photos]">
 					<img src="Images/Photos/Photo01.T.jpg" class="Thumbnail" alt="Photo" /></a>
+				&nbsp;
+			</div>
 		</div>
 		<div class="bottom"></div>
 	</div>

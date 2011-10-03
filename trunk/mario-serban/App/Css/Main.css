@@ -103,8 +103,15 @@ INPUT.Text, TEXTAREA
 }
 #logo
 {
-	width: 281px;
+	width: 372px;
 	height: 96px;
+}
+#address
+{
+	float: right;
+	padding-top: 20px;
+	text-align: right;
+	font-weight: bold;
 }
 #container
 {
@@ -204,7 +211,7 @@ INPUT.Text, TEXTAREA
 }
 #logofooter
 {
-	width: 221px;
+	width: 264px;
 	height: 68px;
 }
 
@@ -261,6 +268,24 @@ INPUT.Text, TEXTAREA
 	padding: 5px 0 0 24px;
 	height: 21px;
 	font: 11px Verdana, Arial, Tahoma, Helvetica, sans-serif;
+}
+.Box .middle div
+{
+	float: left;
+	width: 160px;
+	line-height: 16px;
+	text-align: center;
+	font-size: 11px;
+	margin-right: 16px;
+}
+.Box .middle div.last
+{
+	margin-right: 0;
+}
+.Box .middle div a
+{
+	display: block;
+	margin-bottom: 5px;
 }
 
 .BoxS
