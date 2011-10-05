@@ -86,6 +86,16 @@ INPUT.Text, TEXTAREA
 	margin: 0;
 	line-height: 15px;
 }
+UL
+{
+	margin: 0;
+	padding-left:inherit;
+}
+LI
+{
+	margin: 0;
+	padding: 0;
+}
 
 /* Layout ***************************************************************************/
 

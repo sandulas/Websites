@@ -13,15 +13,15 @@
 				<div class="title"><h2>Mario's Background</h2></div>
 			</div>
 			<div class="middle">
-				Some background information, whetever. Just a short text. Some background information, qualifications,
-				whetever. Just four lines of text.
+				Mario Serban is the cofounder of LA Training Room. He is a former Trainer and Massage Therapist for The Los Angeles
+				Kings Hockey Club and Cedar-Sinai Medical Center.
 			</div>
 			<div class="bottom"></div>
 		</div>
 		<img src="App/Images/BlogTop.jpg" class="Content" style="margin-left: 20px; float: left; margin-top: 2px;" alt="Photo" />
 	</div>
 	
-	<h1>Mario's Blog</h1>
+	<h1>LA Training Room's Blog</h1>
 	
 	<asp:PlaceHolder ID="BlogListHolder" Visible="false" runat="server">	
 		<asp:Repeater ID="BlogRepeater" runat="server">
