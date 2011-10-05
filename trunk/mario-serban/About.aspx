@@ -35,23 +35,23 @@
 	<p>A former trainer and massage therapist for the <b>Los Angeles Kings Hockey Club</b>, Mario Serban is dedicated to achieving
 	long term, high performance results.</p>
 	
-	<p>With over 11 years experience in the fitness and massage therapy business, Mario Serban has worked for <b>The Los Angeles Kings</b>
-	<a href="http://kings.nhl.com/" target="_blank"><img src="Images/About/LA-Kings.jpg" class="ThumbnailRight" alt="LA Kings" /></a>
+	<p style="text-align:justify;"><br />With over 11 years experience in the fitness and massage therapy business, Mario Serban has worked for <b>The Los Angeles Kings</b>
 	and many other professional athletes, as well as countless stars and celebrities like: <b>Ellen Degeneres</b>,
+	<a href="http://kings.nhl.com/" target="_blank"><img src="Images/About/LA-Kings.jpg" class="ThumbnailRight" alt="LA Kings" /></a>
 	<a href="testimonials.aspx"><b>Erin Andrews</b></a>,
 	Dancing With the Stars pro <b>Anna Trebunskaya</b> and <b>Derek Hough</b>, <b>Jack Johnson</b>, <b>Conor Jackson</b> and many others. For five years
 	Mario was part of the training and medical staff for the Los Angeles Kings Hockey Club. He contributed effectively to the
 	athletic conditioning of countless hockey team players. He planned, designed and implemented comprehensive pre and post
 	event treatments, conditioning and rehabilitation techniques.</p>
 	
+	<p style="text-align: justify;"><br />Mario also worked for <b>Cedar-Sinai Medical Center</b>
 	<a href="http://www.cedars-sinai.edu/" target="_blank"><img src="Images/About/Cedars-Sinai.jpg" class="ThumbnailRight" alt="Cedars Sinai" /></a>
-	<p>Mario also worked for <b>Cedar-Sinai Medical Center</b> as a Stress Management Therapist. He was part of the research team
-	within the Psychiatry department and Physical Therapy. He was part of a study recently published on
+	as a Stress Management Therapist. He was part of the research team within the Psychiatry department and Physical Therapy. He was part of a study recently published on
 	<a href="http://healthland.time.com/2011/01/19/the-lab-rat-gets-petted-how-massage-works/" target="_blank">Time Magazine</a>.
 	The	study concluded that a single session of massage caused biological changes. For more information please
 	<a href="http://www.nytimes.com/2010/09/21/health/research/21regimens.html" target="_blank">click here</a>.</p>
 
-	<p>Mario is an expert In Active Release Technique (ART) which is designed to help problems with muscles, tendons,
+	<p><br />Mario is an expert In Active Release Technique (ART) which is designed to help problems with muscles, tendons,
 	ligaments, fascia and nerves.</p>
 	
 	<p>Mario Serban studied Kinesiology and Body Mechanics at UCLA. He utilizes Applied Kinesiology with his assessments and

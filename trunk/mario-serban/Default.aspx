@@ -5,6 +5,14 @@
 	<title>LA Training Room</title>
 </asp:Content>
 
+<asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
+	<p>"While competing on <b>Dancing With The Stars</b>, I injured my back during the fourth week of the show. I was in so much pain, we feared I
+	had broken a rib. Thankfully, my dance partner sent me to Mario. Under Mario's care, not only was I able to dance that week, but stayed
+	in competition until the very end. I know my body wouldn't have made it through 3 months of extensive dance training without Mario."</p>
+	<p><b>Erin Andrews,</b><br />
+	ESPN Sportscaster, Dancing With The Stars Contestant</p>
+</asp:Content>
+
 <asp:Content ContentPlaceHolderID="LeftContent2" runat="server">
 	<asp:HyperLink NavigateUrl="~/CedarsSinai.aspx" runat="server" class="Text" style="display: block; padding: 10px 10px 15px 10px; background: #a2c6df; border: solid 1px #88a7bc; margin-top: 18px;">
 			<b>Special Discount for Cedar-Sinai Employees Only.</b>
@@ -14,22 +22,35 @@
 
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
-	<h1>Welcome to Mario Serban Therapy</h1>
+	<h1>Welcome to LA TRAINING ROOM</h1>
 	
-	<p>In Beverly Hills is known to be the most private Pilates studio in the Los Angeles area. Situated across the luxurious Peninsula
-	Hotel, our studio caters to clientele from Brentwood, Century City, Bel Air to West Hollywood. Our fully equipped studio with
-	Pilates and GYROTONIC® equipment enables our STOTT PILATES® certified instructors the oportunity to design personalized workout
-	programs to sculpt your body using various Pilates apparatus' and light weight training. We can customize a health plan and
-	fitness routine to suit every individual's goal and needs.</p>
+	<p>LA TRAINING ROOM is a wellness studio that is dedicated to help you achieve a healthy lifestyle.<br />
+	We are highly specialized in providing the best Fitness Training and Sports Massage in Los Angeles area.<br />
+	Whether you are an amateur or a professional athlete our mission objective is to assist you in achieving your goals.</p>
 	
-	<p>This is a test <a href="#">link</a>.</p>
+	<b>Benefits of sports and therapeutic massage:</b>
+	<ul>
+		<li>Shorten your recovery time between workouts.</li>
+		<li>Reduce your chance of injury, through proper stretching and event preparation, and through deep tissue manipulation.</li>
+		<li>Improve your range of motion and muscle flexibility, resulting in improved power and performance.</li>
+	</ul>
 	
-	<p>STOTT PILATES® certified instructors the opportunity to design personalized workout programs to sculpt your body using various
-	Pilates apparatus' and light weight training.</p>
-
-	<p>We can customize a health plan and fitness routine to suit every individual's goal and needs. No need to attend a boot camp to
-	get the long, lean muscles and tight body that you’ve always wanted!</p>
-
+	<br />
+	<b>We treat the following conditions:</b>
+	<ul>
+		<li>Lower and Upper Back pain</li>
+		<li>Neck pain</li>
+		<li>Rotator Cuff and Shoulder pain</li>
+		<li>TMJ</li>
+		<li>Carpal Tunnel Syndrome</li>
+		<li>Tennis Elbow</li>
+	</ul>
+	
+	<br />
+	<p>Here at LATR our mission is to provide you with the best athletic training and the best sports and therapeutic massage ever! Don’t wait, book an
+	appointment with us at 323-951-9272.</p>
+	
+	<%--
 	<div class="Box">
 		<div class="top2"></div>
 		<div class="middle">
@@ -42,6 +63,7 @@
 		</div>
 		<div class="bottom"></div>
 	</div>
-
+	--%>
+	
 </asp:Content>
 
