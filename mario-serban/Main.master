@@ -104,9 +104,9 @@
 				
 				<div class="FacebookHolder">
 					<h2>Follow Me On</h2>
-					<a href="http://www.facebook.com/pages/Mario-Serban-Therapy-and-Fitness/141180892568353" style="clear: left;" target="_blank">
+					<a href="http://www.facebook.com/pages/LA-Training-Room/200601416676212" style="clear: left;" target="_blank">
 						<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Facebook Logo" /></a>
-					<a href="http://twitter.com/" target="_blank" style="padding-top: 1px;">
+					<a href="http://twitter.com/#!/LATrainingRoom" target="_blank" style="padding-top: 1px;">
 						<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
 				</div>
 			</asp:ContentPlaceHolder>			
