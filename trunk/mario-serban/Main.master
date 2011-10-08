@@ -32,12 +32,12 @@
 <div id="main">
 
 <div id="header">
-	<asp:HyperLink NavigateUrl="~/" runat="server">
+	<asp:HyperLink NavigateUrl="~/" runat="server" CssClass="FLeft">
 		<img id="logo" src="<%= ResolveUrl("~/App/Images/Logo.png")%>" alt="Mario Serban Therapy Logo" /></asp:HyperLink>
 	<div id="address">
-		8271 Melrose ave. Suit 208<br />
+		8271 Melrose ave. Suite 208<br />
 		Los Angeles, CA 90046<br />
-		323-951-9272
+		310-467-0932
 	</div>
 </div>
 
@@ -55,6 +55,7 @@
 					</div>
 				</li>
 				<li><asp:HyperLink Text="Services" NavigateUrl="~/services.aspx" runat="server" /></li>
+				<li><asp:HyperLink Text="Rates" NavigateUrl="~/rates.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Testimonials" NavigateUrl="~/testimonials.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Contact" NavigateUrl="~/contact.aspx" runat="server" /></li>
 				<li><asp:HyperLink Text="Blog" NavigateUrl="~/blog.aspx" runat="server" /></li>

@@ -5,6 +5,15 @@
 	<title>LA Training Room - Contact Us</title>
 </asp:Content>
 
+<asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
+	<p class="Bigger">"In 18 years as a pro Hockey Player I know a great trainer when I see one. Mario fits that description. When I injured my groin
+	while playing for the LA Kings, Mario's dedication and knowledge is what got me back in the game in no time. He helped me develop a
+	mental and physical toughness that has really shown in my games.<br />
+	I strongly recommend his services. He is the best in LA. Period!"</p>
+	<p class="Bigger"><b>Derek Armstrong,</b><br />
+	Former Los Angeles Kings Center, NHL player</p>	
+</asp:Content>
+
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
 	<h1>Contact Us</h1>

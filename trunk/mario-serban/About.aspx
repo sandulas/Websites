@@ -28,7 +28,7 @@
 
 	<h1>About Mario</h1>
 
-	<img src="Images/About/Mario.jpg" class="ThumbnailLeft" alt="Mario" />
+	<img src="Images/About/MarioTop.jpg" class="ThumbnailLeft" alt="Mario" />
 	
 	<p>Mario Serban is the Head Trainer, Head Massage Therapist and the cofounder for the LA Training Room.</p>
 	
@@ -64,18 +64,18 @@
 		<div class="middle">
 			<div>
 				<a href="Images/About/Mario-Luc.jpg" rel="lightbox[photos]" title="Mario Serban and Luc Robitaille">
-					<img src="Images/About/Mario-Luc.T.jpg" class="Thumbnail" alt="Photo" /></a>
+					<img src="Images/About/Mario-Luc.T.jpg" class="Thumbnail" alt="Mario Serban and Luc Robitaille" /></a>
 				Mario Serban and Luc Robitaille
 			</div>
 			<div>
 				<a href="Images/About/Mario-Rob.jpg" rel="lightbox[photos]" title="Mario Serban and Rob Blake">
-					<img src="Images/About/Mario-Rob.T.jpg" class="Thumbnail" alt="Photo" /></a>
+					<img src="Images/About/Mario-Rob.T.jpg" class="Thumbnail" alt="Mario Serban and Rob Blake" /></a>
 				Mario Serban and Rob Blake
 			</div>
 			<div class="last">
-				<a href="Images/Photos/Photo01.jpg" rel="lightbox[photos]">
-					<img src="Images/Photos/Photo01.T.jpg" class="Thumbnail" alt="Photo" /></a>
-				&nbsp;
+				<a href="Images/About/Mario.jpg" rel="lightbox[photos]" title="Mario Serban">
+					<img src="Images/About/Mario.T.jpg" class="Thumbnail" alt="Mario Serban" /></a>
+				Mario Serban
 			</div>
 		</div>
 		<div class="bottom"></div>

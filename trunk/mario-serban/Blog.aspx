@@ -5,6 +5,14 @@
 	<title>LA Training Room - Blog</title>
 </asp:Content>
 
+<asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
+	<p class="Bigger">"After playing for 20 years as a professional hockey player and after playing for several teams in the NHL, preparation and
+	maintenance is an important aspect of my routine. Mario helped me tremendously to recover between games and kept me tuned up and sharp
+	throughout the entire NHL season."</p>
+	<p class="Bigger"><b>Sean O'Donnell,</b><br />
+	Defenseman Chicago Blackhawks, Stanley Cup Winner with Anaheim Ducks 2007</p>	
+</asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
 
 	<div class="ContentHead">
