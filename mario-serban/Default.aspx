@@ -6,10 +6,10 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
-	<p>"While competing on <b>Dancing With The Stars</b>, I injured my back during the fourth week of the show. I was in so much pain, we feared I
+	<p class="Bigger">"While competing on <a href="Testimonials.aspx"><b>Dancing With The Stars</b></a>, I injured my back during the fourth week of the show. I was in so much pain, we feared I
 	had broken a rib. Thankfully, my dance partner sent me to Mario. Under Mario's care, not only was I able to dance that week, but stayed
 	in competition until the very end. I know my body wouldn't have made it through 3 months of extensive dance training without Mario."</p>
-	<p><b>Erin Andrews,</b><br />
+	<p class="Bigger"><b>Erin Andrews,</b><br />
 	ESPN Sportscaster, Dancing With The Stars Contestant</p>
 </asp:Content>
 
