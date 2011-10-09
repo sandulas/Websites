@@ -34,7 +34,8 @@
 
 	<h2 class="PadT10">Mat Pilates</h2>
 	<p class="NoPadding">This is a private one-on-one session with Mario and is designed to achieve core strength, flexibility and lean muscle tone.</p>
-	<p class="Color2">One hour: $70 | 6 sessions: $400 | 12 sessions: $840</p>  
+	<p class="Color2 NoPadding">One hour: $45 | 6 sessions: $250 | 12 sessions: $540</p>  
+	<p><b>For any 12 sessions purchase you receive 2 extra free sessions.</b></p>
 
 	<h2 class="PadT10">Massage Services</h2>
 	<p><b>If you are first time costumer get any Massage treatment at full price and get the second one (of equal or lesser value) for free.</b></p>

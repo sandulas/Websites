@@ -48,7 +48,7 @@
 	
 	<br />
 	<p>Here at LATR our mission is to provide you with the best athletic training and the best sports and therapeutic massage ever! Don’t wait, book an
-	appointment with us at 323-951-9272.</p>
+	appointment with us at 310-467-0932.</p>
 	
 	<%--
 	<div class="Box">
