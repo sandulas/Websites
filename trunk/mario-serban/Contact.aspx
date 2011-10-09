@@ -21,7 +21,7 @@
 	<p><b>8271 Melrose Ave. Suite 208<br />
 	Los Angeles, CA 90046</b></p>
  
-	<p>Office: <b>323-951-9272</b><br />
+	<p>Office: <b>310-467-0932</b><br />
 	By appointment only</p>
  
 	<p>For general information only: <a href="mailto:contact@latrainingroom.com">contact@latrainingroom.com</a></p>
