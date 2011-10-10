@@ -18,7 +18,7 @@
 	<h1>LA Training Room Rates</h1>
 
 	<h2 class="PadT10">Fitness and Pilates</h2>
-	<p><b>If you are a first time costumer purchase 12 training or Pilates sessions and receive 2 additional sessions for free.</b></p>
+	<p class="Color3"><b>If you are a first time costumer purchase 12 training or Pilates sessions and receive 2 additional sessions for free.</b></p>
 
 	<h2 class="PadT10">Individual Training</h2>
 	<p class="NoPadding">In this one hour session we are working one-on-one with clients to design and implement a proper strength & conditioning program for each individual's level of exercise.</p>
@@ -35,10 +35,10 @@
 	<h2 class="PadT10">Mat Pilates</h2>
 	<p class="NoPadding">This is a private one-on-one session with Mario and is designed to achieve core strength, flexibility and lean muscle tone.</p>
 	<p class="Color2 NoPadding">One hour: $45 | 6 sessions: $250 | 12 sessions: $540</p>  
-	<p><b>For any 12 sessions purchase you receive 2 extra free sessions.</b></p>
+	<p class="Color3"><b>For any 12 sessions purchase you receive 2 extra free sessions.</b></p>
 
 	<h2 class="PadT10">Massage Services</h2>
-	<p><b>If you are first time costumer get any Massage treatment at full price and get the second one (of equal or lesser value) for free.</b></p>
+	<p class="Color3"><b>If you are first time costumer get any Massage treatment at full price and get the second one (of equal or lesser value) for free.</b></p>
      
 	<h2 class="PadT10">Sports Massage</h2>
 	<p class="NoPadding">Sports Massage is a unique combination of muscle stretching and high impact massage    techniques designated for active people and athletes. The main purpose of this massage is to enhance muscle fitness and reduce potential injuries.</p>
