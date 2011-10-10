@@ -81,6 +81,10 @@ P.Color2
 {
 	color: #2c8ed6;
 }
+P.Color3
+{
+	color: #ee0000;
+}
 INPUT.Text, TEXTAREA
 {
 	background: #ffffff;
