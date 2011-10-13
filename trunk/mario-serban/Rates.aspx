@@ -65,7 +65,7 @@
 	<p class="Color2">One Hour: $85 | Hour and a half: $130</p>
 
 	LATR has a 24 hours cancelation policy. Cash and all major credit cards are accepted.
-	By appointment only. To schedule a session or treatment please call: (310) 467 0932
+	By appointment only. To schedule a session or treatment please call: 323-272-3506.
 
 </asp:Content>
 
