@@ -16,7 +16,7 @@
 
 	<p>Guaranteed satisfaction or your money back.</p>
 
-	<p>Purchase 12 Training or Pilates sessions and receive 4 additional sessions for free.	To qualify you must
+	<p>Purchase 12 Training or Pilates sessions and receive 5 additional sessions for free.	To qualify you must
 	have Cedars-Sinai employee badge or proof that you are a contractor or vendor for Cedars-Sinai.</p>
 	
 	<p>We know how hard you work so go ahead and take advantage of this offer!</p>
