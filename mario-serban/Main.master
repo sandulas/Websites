@@ -99,6 +99,7 @@
 			</asp:ContentPlaceHolder>
 			
 			<asp:ContentPlaceHolder ID="LeftContent3" runat="server">
+				<%--
 				<h2>Contact Us</h2>
 				
 				<div class="Field">
@@ -123,6 +124,7 @@
 					<a href="http://twitter.com/#!/LATrainingRoom" target="_blank" style="padding-top: 1px;">
 						<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
 				</div>
+				--%>
 			</asp:ContentPlaceHolder>			
 			
 		</div>

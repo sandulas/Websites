@@ -22,7 +22,7 @@ public partial class MainMaster : MyMasterPage
 			BlogRepeater.DataBind();
 		}
 	}
-
+	/*
 	protected void SendButton_Click(object sender, EventArgs e)
 	{
 		if (IsRefresh) return;
@@ -45,4 +45,5 @@ public partial class MainMaster : MyMasterPage
 
 		ContactMessageLabel.Text = "Your message has been sent!";
 	}
+	*/
 }
