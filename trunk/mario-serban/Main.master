@@ -116,6 +116,7 @@
 				</div>
 				<app:Button Text="Send" OnClick="SendButton_Click" runat="server" />
 				<asp:Label ID="ContactMessageLabel" CssClass="ContactMessage" Visible="false" EnableViewState="false" runat="server" />
+				--%>
 				
 				<div class="FacebookHolder">
 					<h2>Follow Me On</h2>
@@ -124,7 +125,6 @@
 					<a href="http://twitter.com/#!/LATrainingRoom" target="_blank" style="padding-top: 1px;">
 						<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
 				</div>
-				--%>
 			</asp:ContentPlaceHolder>			
 			
 		</div>
