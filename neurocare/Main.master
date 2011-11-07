@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+	<title runat="server" visible="false" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	
+	<asp:ContentPlaceHolder id="head" runat="server">
+		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
+	</asp:ContentPlaceHolder>
+		
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=1" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
+	
+	<style type="text/css">
+		#main #header { background-image: url(<%= ResolveUrl("App/Images/Header" + HeaderNr + ".jpg") %>); }
+	</style>
+
+	<link rel="icon" href="<%= ResolveUrl("~/favicon.gif") %>" />
+	<link rel="shortcut icon" href="<%= ResolveUrl("~/favicon.gif") %>" />
+
+	<script type="text/javascript" src="App/Js/prototype.js"></script>
+	<script type="text/javascript" src="App/Js/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="App/Js/lightbox.js"></script>
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-20142399-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</head>
+
+<body>
+<form id="form1" runat="server">
+
+<div id="main">
+
+<div id="header">
+	<div id="logo">
+		<asp:HyperLink NavigateUrl="~/" runat="server">
+			<img src="<%= ResolveUrl("~/App/Images/Logo.gif")%>" width="236" height="81" alt="Logo Neurocare" /></asp:HyperLink>
+	</div>
+	<div id="headerMessage"><p>Fii alături de noi - pentru viaţă!</p></div>
+</div>
+
+<div id="menu">
+	<ul>
+		<li id="MenuItem1" runat="server"><asp:HyperLink NavigateUrl="~/" runat="server">Home</asp:HyperLink></li>
+		<li id="MenuItem2" runat="server"><asp:HyperLink NavigateUrl="~/scop-si-obiective.aspx" runat="server">Scop şi obiective</asp:HyperLink></li>
+		<li id="MenuItem3" style="position: relative;" runat="server">
+			<asp:HyperLink NavigateUrl="~/cazuri/" runat="server">Cazuri</asp:HyperLink>
+			<ul class="SubmenuList">
+				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server">Povestea Sorinei</asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server">Darius Preda</asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server">Un alt fel de exerciţiu de admiraţie</asp:HyperLink></li>
+			</ul>
+		</li>
+		<li id="MenuItem4" style="position: relative;" runat="server">
+			<asp:HyperLink NavigateUrl="~/presa/" runat="server">Presă</asp:HyperLink>
+			<ul class="SubmenuList">
+				<li><asp:HyperLink NavigateUrl="~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx" runat="server">
+					Bărbatul care a învins patru forme de cancer într-un an</asp:HyperLink></li>
+			</ul>
+		</li>
+		<li id="MenuItem5" runat="server"><asp:HyperLink NavigateUrl="~/sponsori.aspx" runat="server">Sponsori</asp:HyperLink></li>
+		<li id="MenuItem6" runat="server"><asp:HyperLink NavigateUrl="~/doneaza.aspx" runat="server">Donează</asp:HyperLink></li>
+		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server">Contact</asp:HyperLink></li>
+	</ul>
+</div>
+
+<div id="content" class="<%= ContentCssClass%>">
+	<asp:ContentPlaceHolder id="Content" runat="server">
+	</asp:ContentPlaceHolder>
+</div>
+
+<div id="footer">Copyright © 2010 Neurocare. All rights reserved.</div>
+
+</div>
+
+</form>
+</body>
+</html>

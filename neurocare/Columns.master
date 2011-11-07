@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" CodeFile="Columns.master.cs" Inherits="Columns" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+	<asp:ContentPlaceHolder ID="head" runat="server">
+		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
+	</asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
+	<div id="leftColumn">
+		<asp:ContentPlaceHolder ID="LeftColumn" runat="server">
+		</asp:ContentPlaceHolder>
+	</div>
+	<div id="rightColumn">
+		<asp:ContentPlaceHolder ID="RightColumn" runat="server">
+			<h2>Un alt fel de exerciţiu de admiraţie</h2>
+			<asp:Image ImageUrl="~/Images/Exercitiu-de-admiratie2.jpg" CssClass="Feature" AlternateText="Foto mama 2" runat="server" />
+			<p>De fiecare dată când vin acasă, sun scurt la uşă, gândindu-mă că poate baieţelul meu doarme; dar de cele mai multe ori îl aud
+			chiuind şi spune: <i>Bibi</i> (adica bona lui)<i>, a venit mami! Aduc camionul!</i> Când intru în casă, el mă întâmpină vijelios călare
+			pe betoniera-jucărie şi incepe să spună repede...
+			<asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server">citeşte mai departe</asp:HyperLink></p>
+			<br />
+			
+			<h2>Redirecţionază 2% din impozit către Asociaţia Neurocare</h2>
+			<p>Dacă aţi realizat venituri din salarii, completaţi formularul 230.
+			<asp:HyperLink NavigateUrl="~/doneaza.aspx#formular230" runat="server">detalii...</asp:HyperLink></p>
+			<div class="DownloadItem">
+				<asp:HyperLink NavigateUrl="~/Files/Formular230_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" runat="server">
+					<asp:Image ImageUrl="~/App/Images/PdfIcon.png" AlternateText="Pdf Icon" runat="server" /></asp:HyperLink>
+				<asp:HyperLink NavigateUrl="~/Files/Formular230_Neurocare.pdf" CssClass="Text" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" runat="server">
+					Descarcă formularul 230</asp:HyperLink>
+			</div>
+			<br />
+			<p>Dacă aţi realizat venituri din alte surse, completaţi formularul 200.
+			<asp:HyperLink NavigateUrl="~/doneaza.aspx#formular200" runat="server">detalii...</asp:HyperLink></p>
+			<div class="DownloadItem">
+				<asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" runat="server">
+					<asp:Image ImageUrl="~/App/Images/PdfIcon.png" AlternateText="Pdf Icon" runat="server" /></asp:HyperLink>
+				<asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" CssClass="Text" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" runat="server">
+					Descarcă formularul 200</asp:HyperLink>
+			</div>
+
+		</asp:ContentPlaceHolder>
+	</div>
+</asp:Content>
+
