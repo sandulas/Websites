@@ -26,6 +26,7 @@ public partial class Main : System.Web.UI.MasterPage
 			case "~/default.aspx":
 				HeaderNr = 1;
 				MenuItem1.Attributes.Add("class", "Selected");
+				FacebookLink.Visible = false;
 				break;
 			case "~/scop-si-obiective.aspx":
 				HeaderNr = 2;

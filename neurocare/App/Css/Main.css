@@ -163,7 +163,7 @@ IMG
 	background: #34a34c;
 }
 
-#main #menu #FacebookLink
+#main #menu .FacebookLink
 {
 	float: right;
 	padding: 6px 10px;
