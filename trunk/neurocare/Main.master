@@ -10,7 +10,7 @@
 		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
 	</asp:ContentPlaceHolder>
 		
-	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=3" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=4" />
 	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
 	
 	<style type="text/css">
@@ -77,6 +77,8 @@
 		<li id="MenuItem4" style="position: relative;" runat="server">
 			<asp:HyperLink NavigateUrl="~/presa/" runat="server">Presă</asp:HyperLink>
 			<ul class="SubmenuList">
+				<li><asp:HyperLink NavigateUrl="~/presa/instructor-de-schi-tratat-de-dr-dan-teleanu.aspx" runat="server">
+					Instructor de schi tratat de Dr. Dan Teleanu</asp:HyperLink></li>
 				<li><asp:HyperLink NavigateUrl="~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx" runat="server">
 					Bărbatul care a învins patru forme de cancer într-un an</asp:HyperLink></li>
 			</ul>

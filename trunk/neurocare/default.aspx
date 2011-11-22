@@ -28,7 +28,8 @@
 	<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
 	<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
 	<p><b>Dr. Magda Sandu</b> - Medic rezident neurologie pediatrică.</p>
-	<p><b>Dr. Mihaela Chitilă</B> - Medic rezident pediatrie.</p>
+	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
+	<p><b>Flavia Lungu</b> - Elevă.</p>
 
 	<br /><br /><br /><br /><br />
 </asp:Content>

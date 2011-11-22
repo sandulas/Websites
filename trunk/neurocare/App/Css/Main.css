@@ -141,6 +141,7 @@ IMG
 {
 	display: none;
 	position: absolute;
+	z-index: 100;
 	left: -2px;
 	background: #43d161;
 	margin-top: 29px;
