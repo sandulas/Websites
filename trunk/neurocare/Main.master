@@ -85,8 +85,8 @@
 		<li id="MenuItem6" runat="server"><asp:HyperLink NavigateUrl="~/doneaza.aspx" runat="server">Donează</asp:HyperLink></li>
 		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server">Contact</asp:HyperLink></li>
 	</ul>
-	<a id="FacebookLink" href="http://www.facebook.com/profile.php?id=100000258778892" target="_blank">
-		<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Logo Facebook" /></a>
+	<asp:HyperLink ID="FacebookLink" CssClass="FacebookLink" NavigateUrl="http://www.facebook.com/asociatianeurocare" Target="_blank" runat="server">
+		<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Logo Facebook" /></asp:HyperLink>
 </div>
 
 <div id="content" class="<%= ContentCssClass%>">
