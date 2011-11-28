@@ -2,7 +2,7 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-	<title>LA Training Room - Blog</title>
+	<title>LA Training Room - Blog<%= BlogTitle%></title>
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
@@ -29,7 +29,7 @@
 		<img src="App/Images/BlogTop.jpg" class="Content" style="margin-left: 20px; float: left; margin-top: 2px;" alt="Photo" />
 	</div>
 	
-	<h1>LA Training Room's Blog</h1>
+	<h1>LA Training Room's Blog<%= BlogTitle%></h1>
 	
 	<asp:PlaceHolder ID="BlogListHolder" Visible="false" runat="server">	
 		<asp:Repeater ID="BlogRepeater" runat="server">

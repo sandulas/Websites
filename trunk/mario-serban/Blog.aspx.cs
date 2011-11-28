@@ -10,6 +10,7 @@ public partial class BlogPage : System.Web.UI.Page
 {
 	int? id;
 	protected DataRow BlogDataRow;
+	protected string BlogTitle;
 
 	protected void Page_Load(object sender, EventArgs e)
   {
@@ -17,6 +18,8 @@ public partial class BlogPage : System.Web.UI.Page
 
 		try { id = int.Parse(Request.QueryString["id"]); }
 		catch { id = null; }
+
+		BlogTitle=string.Empty;
 
 		if (id == null)
 		{
@@ -27,6 +30,7 @@ public partial class BlogPage : System.Web.UI.Page
 		{
 			BlogDataRow = Blog.Get((int)id);
 			BlogItemHolder.DataBind();
+			BlogTitle = " - " + BlogDataRow["Title"].ToString();
 		}
   }
 	protected override void OnPreRender(EventArgs e)
