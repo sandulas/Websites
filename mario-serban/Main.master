@@ -5,7 +5,8 @@
 <head runat="server">
 	<title runat="server" visible="false" />
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	
+	<meta name="robots" content="noodp">
+
 	<asp:ContentPlaceHolder id="head" runat="server">
 		<title>LA Training Room</title>
 	</asp:ContentPlaceHolder>
