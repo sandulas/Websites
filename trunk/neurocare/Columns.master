@@ -12,6 +12,7 @@
 		</asp:ContentPlaceHolder>
 	</div>
 	<div id="rightColumn">
+
 		<asp:ContentPlaceHolder ID="RightColumn" runat="server">
 			<h2>Un alt fel de exerciţiu de admiraţie</h2>
 			<asp:Image ImageUrl="~/Images/Exercitiu-de-admiratie2.jpg" CssClass="Feature" AlternateText="Foto mama 2" runat="server" />
@@ -39,8 +40,8 @@
 				<asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" CssClass="Text" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" runat="server">
 					Descarcă formularul 200</asp:HyperLink>
 			</div>
-
 		</asp:ContentPlaceHolder>
+
 	</div>
 </asp:Content>
 

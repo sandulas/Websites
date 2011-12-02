@@ -51,3 +51,34 @@ oferă senzaţia că ţin în palmă o inimă bătând, că simt emoţia lor dev
 <p class="Author">Dr. Magda Sandu, martie 2011</p>
 
 </asp:Content>
+
+<asp:Content ContentPlaceHolderID="RightColumn" runat="server">
+
+	<h2>Povestea Sorinei</h2>
+	<asp:Image ImageUrl="~/Images/Sorina2.jpg" CssClass="Feature" AlternateText="Foto Sorina 2" runat="server" />
+	<p>Era o dimineaţă ca oricare alta; sau cel puţin aşa părea... De la Dorohoi, via Bacău, venea o fetiţă de 4 ani adusă in braţe
+	de către mămica ei. Am intrat în salon pentru vizita de dimineaţă. Mama stătea in picioare lângă pătuţul cu gratii, iar copilul,
+	speriat parca de tot ce e in jurul său, nu putea să mergă, avea trei membre paralizate, iar ochii...
+	<asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server">citeşte mai departe</asp:HyperLink></p>
+	<br />
+			
+	<h2>Redirecţionază 2% din impozit către Asociaţia Neurocare</h2>
+	<p>Dacă aţi realizat venituri din salarii, completaţi formularul 230.
+	<asp:HyperLink NavigateUrl="~/doneaza.aspx#formular230" runat="server">detalii...</asp:HyperLink></p>
+	<div class="DownloadItem">
+		<asp:HyperLink NavigateUrl="~/Files/Formular230_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" runat="server">
+			<asp:Image ImageUrl="~/App/Images/PdfIcon.png" AlternateText="Pdf Icon" runat="server" /></asp:HyperLink>
+		<asp:HyperLink NavigateUrl="~/Files/Formular230_Neurocare.pdf" CssClass="Text" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" runat="server">
+			Descarcă formularul 230</asp:HyperLink>
+	</div>
+	<br />
+	<p>Dacă aţi realizat venituri din alte surse, completaţi formularul 200.
+	<asp:HyperLink NavigateUrl="~/doneaza.aspx#formular200" runat="server">detalii...</asp:HyperLink></p>
+	<div class="DownloadItem">
+		<asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" runat="server">
+			<asp:Image ImageUrl="~/App/Images/PdfIcon.png" AlternateText="Pdf Icon" runat="server" /></asp:HyperLink>
+		<asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" CssClass="Text" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" runat="server">
+			Descarcă formularul 200</asp:HyperLink>
+	</div>
+
+</asp:Content>
