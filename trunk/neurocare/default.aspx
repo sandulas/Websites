@@ -30,8 +30,10 @@
 	<p><b>Dr. Magda Sandu</b> - Medic rezident neurologie pediatrică.</p>
 	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
 	<p><b>Flavia Lungu</b> - Elevă.</p>
+	<p><b>Alexandra Ciobanu</b></p>
+	<p><b>Dr. Matei Marga</b></p>
 
-	<br /><br /><br /><br /><br />
+	<br /><br />
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn" runat="server">
