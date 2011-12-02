@@ -8,9 +8,10 @@
 
 <h2>Cazuri</h2>
 <ul>
-	<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server">Povestea Sorinei</asp:HyperLink></li>
-	<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server">Darius Preda</asp:HyperLink></li>
+	<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server">Povestea Sarei</asp:HyperLink></li>
 	<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server">Un alt fel de exerciţiu de admiraţie</asp:HyperLink></li>
+	<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server">Darius Preda</asp:HyperLink></li>
+	<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server">Povestea Sorinei</asp:HyperLink></li>
 </ul>
 
 </asp:Content>
