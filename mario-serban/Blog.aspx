@@ -63,7 +63,7 @@
 			<div class="bottom"></div>
 		</div>
 
-		<div class="PadT10 FLeft"><app:Button NavigateUrl="~/blog.aspx" Text="&lt; Back to Blog List" runat="server" /></div>
+		<div class="PadT10 PadB10 FLeft"><app:Button NavigateUrl="~/blog.aspx" Text="&lt; Back to Blog List" runat="server" /></div>
 	</asp:PlaceHolder>
 	
 </asp:Content>
