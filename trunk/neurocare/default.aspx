@@ -26,12 +26,13 @@
 	<h3>Voluntari</h3>
 
 	<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
-	<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
-	<p><b>Dr. Magda Sandu</b> - Medic neurologie pediatrică.</p>
-	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
-	<p><b>Flavia Lungu</b> - Elevă.</p>
+	<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
 	<p><b>Alexandra Ciobanu</b></p>
-	<p><b>Dr. Matei Marga</b></p>
+	<p><b>Flavia Lungu</b> - Elevă.</p>
+	<p><b>Dr. Matei Margărita</b> - Medic endocrinolog.</p>
+	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
+	<p><b>Dr. Magda Sandu</b> - Medic neurolog pediatru.</p>
+	<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
 
 	<br /><br />
 </asp:Content>
