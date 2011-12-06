@@ -8,7 +8,7 @@ using System.Data;
 
 public partial class BlogPage : System.Web.UI.Page
 {
-	int? id;
+	protected int? id;
 	protected DataRow BlogDataRow;
 	protected string BlogTitle;
 

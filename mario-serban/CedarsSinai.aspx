@@ -2,12 +2,12 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ContentPlaceHolderID="head" Runat="Server">
-	<title>Special promotion for Cedar-Sinai employees</title>
+	<title>Special promotion for Cedars-Sinai employees</title>
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
-	<h1>Special promotion for Cedar-Sinai employees:</h1>
+	<h1>Special promotion for Cedars-Sinai employees:</h1>
 
 	<a href="http://www.cedars-sinai.edu/" target="_blank"><img src="Images/About/Cedars-Sinai.jpg" class="ThumbnailRight" alt="Cedars Sinai" /></a>
 	

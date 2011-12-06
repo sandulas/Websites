@@ -22,7 +22,7 @@
 			</div>
 			<div class="middle">
 				Mario Serban is the cofounder of LA Training Room. He is a former Trainer and Massage Therapist for The Los Angeles
-				Kings Hockey Club and Cedar-Sinai Medical Center.
+				Kings Hockey Club and Cedars-Sinai Medical Center.
 			</div>
 			<div class="bottom"></div>
 		</div>
@@ -59,6 +59,10 @@
 			</div>
 			<div class="middle">
 				<%# BlogDataRow["Text"].ParagraphFormat()%>
+				
+				<br /><br />
+				<b>Comments:</b>
+				<fb:comments href="http://latrainingroom.com/blog.aspx?id=<%# id%>" num_posts="10" width="514"></fb:comments>
 			</div>
 			<div class="bottom"></div>
 		</div>

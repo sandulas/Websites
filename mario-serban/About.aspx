@@ -44,7 +44,7 @@
 	athletic conditioning of countless hockey team players. He planned, designed and implemented comprehensive pre and post
 	event treatments, conditioning and rehabilitation techniques.</p>
 	
-	<p style="text-align: justify;"><br />Mario also works for <b>Cedar-Sinai Medical Center</b>
+	<p style="text-align: justify;"><br />Mario also works for <b>Cedars-Sinai Medical Center</b>
 	<a href="http://www.cedars-sinai.edu/" target="_blank"><img src="Images/About/Cedars-Sinai.jpg" class="ThumbnailRight" alt="Cedars Sinai" /></a>
 	as a Stress Management Therapist. He was part of the research team within the Psychiatry department and Physical Therapy. He was part of a study recently published on
 	<a href="http://healthland.time.com/2011/01/19/the-lab-rat-gets-petted-how-massage-works/" target="_blank">Time Magazine</a>.
