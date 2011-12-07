@@ -15,26 +15,19 @@
 	<p>De aceea, ne-am adunat forţele pentru a fi mai puternici...<br />
 	Noi suntem Asociaţia Neurocare şi vă asteptăm să vă alăturaţi nouă!</p>
 
-	<br />
-	<h3>Membri fondatori</h3>
-
-	<p><b>Dr. Raluca Teleanu</b> - Medic primar neurologie pediatrică.</p>
-	<p><b>Dr. Dan Teleanu</b> -	Medic primar neurochirurg, "Spitalul Universitar de Urgenţă" Bucureşti.</p>
-	<p><b>As. Adina Istrate</b> - Asistent şef secţia neurologie pediatrică.</p>
-
-	<br />
-	<h3>Voluntari</h3>
-
-	<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
-	<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
-	<p><b>Alexandra Ciobanu</b></p>
-	<p><b>Flavia Lungu</b> - Elevă.</p>
-	<p><b>Dr. Matei Margărita</b> - Medic endocrinolog.</p>
-	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
-	<p><b>Dr. Magda Sandu</b> - Medic neurolog pediatru.</p>
-	<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
-
 	<br /><br />
+	<h2 class="PadB5">Presă</h2>
+	<asp:Image ImageUrl="~/Images/Home/doctore-esti-un-erou.jpg" CssClass="General MarR16" ImageAlign="Left" Width="250" Height="135"
+	AlternateText="Dr. Dan Teleanu, membru fondator Neurocare, finalist in campania Pro TV &quot;Doctore, esti un erou!&quot;" runat="server" />
+	<b>Doctore, esti un erou!</b><br /><br />
+	Dr. Dan Teleanu, membru fondator Neurocare, participa in campania Pro TV "Doctore, esti un erou!".
+	
+	<br /><br />
+	<a href="http://erou.stirileprotv.ro/index.php?uid=912725" target="_blank">Votează</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+	<asp:HyperLink NavigateUrl="~/Presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">Află mai multe...</asp:HyperLink>
+
+
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn" runat="server">
