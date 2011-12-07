@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" CodeFile="Columns2.master.cs" Inherits="Columns2" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+	<asp:ContentPlaceHolder ID="head" runat="server">
+		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
+	</asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
+	
+	<div id="leftColumn2">
+		<asp:ContentPlaceHolder ID="LeftColumn" runat="server">
+		</asp:ContentPlaceHolder>
+	</div>
+	
+	<div id="rightColumn2">
+		<asp:ContentPlaceHolder ID="RightColumn" runat="server">
+		</asp:ContentPlaceHolder>
+	</div>
+</asp:Content>
+

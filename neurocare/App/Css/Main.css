@@ -190,10 +190,24 @@ IMG
 	padding: 5px 20px;
 	min-height: 504px;
 }
+#main #leftColumn2
+{
+	float: left;
+	width: 406px;
+	border-right: solid 2px #fff;
+	padding: 5px 20px;
+	min-height: 504px;
+}
 #main #rightColumn
 {
 	float: left;
 	width: 292px;
+	padding: 5px 20px;
+}
+#main #rightColumn2
+{
+	float: left;
+	width: 406px;
 	padding: 5px 20px;
 }
 #main #footer
@@ -281,4 +295,12 @@ DIV.DownloadItem IMG
 .LargeText
 {
 	font-size: 14px;
+}
+.MarR16
+{
+	margin-right: 16px;
+}
+.PadB5
+{
+	padding-bottom: 5px;
 }
