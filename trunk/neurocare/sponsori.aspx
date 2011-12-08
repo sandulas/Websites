@@ -8,11 +8,12 @@
 
 <h2>Sponsori</h2>
 <ul>
+	<li><a href="http://zenyth.ro/" target="_blank">Zenyth Pharmaceuticals</a></li>
 	<li><a href="http://asociatia.drumulpotcoavei.ro/" target="_blank">Asociaţia Zona Drumul Potcoavei</a></li>
 	<li>Familia Corina şi Florin Mălureanu</li>
-	<li><a href="http://zenyth.ro/" target="_blank">Zenyth Pharmaceuticals</a></li>
 	<li>Adela Chirică</li>
 	<li>Nicolae Sota</li>
+	<li><a href="http://www.elaptepraf.ro" target="_blank" title="lapte praf humana">Elaptepraf.ro (lapte praf)</a></li>
 </ul>
 
 </asp:Content>

@@ -39,7 +39,7 @@
 	<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
 	<p><b>Alexandra Ciobanu</b></p>
 	<p><b>Flavia Lungu</b> - Elevă.</p>
-	<p><b>Dr. Matei Margărita</b> - Medic endocrinolog.</p>
+	<p><b>Dr. Matei Margărita</b> - Medic specialist endocrinolog.</p>
 	<p><b>Mihai Rădulescu</b> - Student medicină.</p>
 	<p><b>Dr. Magda Sandu</b> - Medic neurolog pediatru.</p>
 	<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
