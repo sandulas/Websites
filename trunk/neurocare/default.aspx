@@ -19,13 +19,11 @@
 	<h2 class="SectionHeader">Presă</h2>
 	<div class="OverflowAuto PadB10">
 		<asp:Image ImageUrl="~/Images/Home/doctore-esti-un-erou.jpg" CssClass="General MarR16" ImageAlign="Left" Width="250" Height="135"
-		AlternateText="Dr. Dan Teleanu, membru fondator Neurocare, finalist in campania Pro TV &quot;Doctore, esti un erou!&quot;" runat="server" />
+		AlternateText="Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV &quot;Doctore, eşti un erou!&quot;" runat="server" />
 		<b>Doctore, esti un erou!</b><br /><br />
-		Dr. Dan Teleanu, membru fondator Neurocare, participa in campania Pro TV "Doctore, esti un erou!".
+		<p>Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV "Doctore, eşti un erou!".</p>
+		<p>Rezultatele vor fi publicate în curând.</p>
 	
-		<br /><br />
-		<a href="http://erou.stirileprotv.ro/index.php?uid=912725" target="_blank">Votează</a>
-		&nbsp;&nbsp;|&nbsp;&nbsp;
 		<asp:HyperLink NavigateUrl="~/Presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">Află mai multe...</asp:HyperLink>
 	</div>
 
