@@ -22,7 +22,14 @@
 		AlternateText="Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV &quot;Doctore, eşti un erou!&quot;" runat="server" />
 		<b>Doctore, esti un erou!</b><br /><br />
 		<p>Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV "Doctore, eşti un erou!".</p>
-		<p>Rezultatele vor fi publicate în curând.</p>
+		<br /><br /><br /><br />
+		<p><b>Campania şi-a desemnat câştigătorii!</b><br />
+		Cei trei medici eroi primesc burse de excelență din partea Petrom:<br />
+		Dr. Cătălin Cârstoveanu – 10.000 Euro<br />
+		Dr. Horațiu Suciu – 8.000 Euro<br />
+		Dr. Dan Teleanu – 5.000 Euro<br /><br />
+
+		Cele trei burse sunt acordate în ordinea voturilor primite în concurs (vot public + vot juriu Petrom/Pro TV).</p>
 	
 		<asp:HyperLink NavigateUrl="~/Presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">Află mai multe...</asp:HyperLink>
 	</div>
