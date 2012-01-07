@@ -134,4 +134,7 @@
 		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
 	</div>
 	
+	<asp:HyperLink NavigateUrl="~/Articole/vindecarea-omului-bolnav.aspx" runat="server">
+		<asp:Image ImageUrl="~/Images/Articole/vindecarea-omului-bolnav.jpg" CssClass="General MarT16" Width="288" Height="200"	AlternateText="Vindecarea Omului Bolnav" runat="server" /></asp:HyperLink>
+
 </asp:Content>

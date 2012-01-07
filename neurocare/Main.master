@@ -10,7 +10,7 @@
 		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
 	</asp:ContentPlaceHolder>
 		
-	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=6" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=7" />
 	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
 	
 	<style type="text/css">
