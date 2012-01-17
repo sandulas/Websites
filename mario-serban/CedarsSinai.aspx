@@ -12,11 +12,7 @@
 	<a href="http://www.cedars-sinai.edu/" target="_blank"><img src="Images/About/Cedars-Sinai.jpg" class="ThumbnailRight" alt="Cedars Sinai" /></a>
 	
 	<div class="FLeft" style="width: 370px;">
-	<p>Get any Massage treatment at full price and get the second one (of equal or lesser value) for free.</p>
-
-	<p>Guaranteed satisfaction or your money back.</p>
-
-	<p>Purchase 12 Training or Pilates sessions and receive 5 additional sessions for free.	To qualify you must
+	<p>All massage and training services are 50% off for all Cedars-Sinai employees. To qualify you must
 	have Cedars-Sinai employee badge or proof that you are a contractor or vendor for Cedars-Sinai.</p>
 	
 	<p>We know how hard you work so go ahead and take advantage of this offer!</p>
