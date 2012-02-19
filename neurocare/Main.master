@@ -1,5 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 
 <head runat="server">
@@ -59,7 +60,7 @@
 		<asp:HyperLink NavigateUrl="~/" runat="server">
 			<img src="<%= ResolveUrl("~/App/Images/Logo.gif")%>" width="236" height="81" alt="Logo Neurocare" /></asp:HyperLink>
 	</div>
-	<div id="headerMessage"><p>Fii alături de noi - pentru viaţă!</p></div>
+	<div id="headerMessage"><p><%= "motto".T("Master") %></p></div>
 </div>
 
 <div id="menu">
