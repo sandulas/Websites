@@ -37,7 +37,7 @@ namespace Neurocare
 		{
 			string path = "~/App/Translations/";
 
-			return path + languageId + name + ".xml";
+			return path + languageId + "." + name + ".xml";
 		}
 	}
 
