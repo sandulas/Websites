@@ -1,126 +1,102 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Columns.master" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-	<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
+	<title><%= "Title".T("Home") %></title>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">
 
-	<h2 class="SectionHeader">Cine suntem?</h2>
-	<p>Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii...<br />
-	Noi suntem oameni, care nu ne mai putem uita indiferenţi la durerea lor...<br />
-	Noi suntem cei pe care ei îi privesc cu speranţa în ochi şi de la care cer ajutor....<br />
-	Noi suntem hotărâţi să schimbăm destine...</p>
-
-	<p>De aceea, ne-am adunat forţele pentru a fi mai puternici...<br />
-	Noi suntem Asociaţia Neurocare şi vă asteptăm să vă alăturaţi nouă!</p>
-
+	<h2 class="SectionHeader"><%= "Head1".T("Home")%></h2>
+	<%= "Content1".T("Home")%>
 	<br />
-	<h2 class="SectionHeader">Presă</h2>
-	<div class="OverflowAuto PadB10">
-		<asp:Image ImageUrl="~/Images/Home/doctore-esti-un-erou.jpg" CssClass="General MarR16" ImageAlign="Left" Width="250" Height="135"
-		AlternateText="Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV &quot;Doctore, eşti un erou!&quot;" runat="server" />
-		<b>Doctore, esti un erou!</b><br /><br />
-		<p>Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV "Doctore, eşti un erou!".</p>
-		<br /><br /><br /><br />
-		<p><b>Campania şi-a desemnat câştigătorii!</b><br />
-		Cei trei medici eroi primesc burse de excelență din partea Petrom:<br />
-		Dr. Cătălin Cârstoveanu – 10.000 Euro<br />
-		Dr. Horațiu Suciu – 8.000 Euro<br />
-		Dr. Dan Teleanu – 5.000 Euro<br /><br />
 
-		Cele trei burse sunt acordate în ordinea voturilor primite în concurs (vot public + vot juriu Petrom/Pro TV).</p>
-	
-		<asp:HyperLink NavigateUrl="~/Presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">Află mai multe...</asp:HyperLink>
+	<h2 class="SectionHeader"><%= "Head2".T("Home")%></h2>
+	<div class="OverflowAuto PadB10">
+		<%= "Content2".T("Home") %>
 	</div>
 
 	<br />
-	<h2 class="SectionHeader">Wish list</h2>
+	<h2 class="SectionHeader"><%= "Head3".T("Home")%></h2>
 	
 	<ol class="HoverInfoList">
 		<li>
 			<a href="javascript:;">
-				Neuroendoscop Karl Storz
+				<%= "Content3Title1".T("Home")%>
 				<span>
-					<p>În visele noastre frumoase și optimiste se află un neuroendoscop Karl Storz cu accesorii atât pentru craniu cât și pentru patologie spinală.</p>
-					<p>Acest aparat performant ar putea salva viața unor bolnavi, care nu pot fi și nu trebuie operați in mod clasic; este scump, dar merită tot
-					efortul!</p>
-					<p class="NoPadding">Nu sunt multe centre în țară unde se face acest lucru. Uneori nu e suficientă <b>doar dorința</b> de a face bine, trebuie să
-					ai și mijloacele necesare!</p>
+					<%= "Content3Description1".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li>
 			<a href="javascript:;">
-				Cameră de filmat portabilă
+				<%= "Content3Title2".T("Home")%>
 				<span>
-					Ne este necesară o cameră de filmat mică, portabilă, pentru a putea supraveghea manifestările pe care le prezintă anumiți copii. Înregistrarea
-					unei crize epileptice, de exemplu, ne poate ajuta în mod esențial la elucidarea diagnosticului.
+					<%= "Content3Description2".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li>
 			<a href="javascript:;">
-				Canapea pentru secție
+				<%= "Content3Title3".T("Home")%>
 				<span>
-					Avem mare nevoie de o canapea pentru a oferi un loc de așteptare confortabil pacienților.
+					<%= "Content3Description3".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li>
 			<a href="javascript:;">
-				Jucării
+				<%= "Content3Title4".T("Home")%>
 				<span>
-					Jucăriile sunt esențiale pentru a inveseli copiii pe durata internării.
+					<%= "Content3Description4".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li>
 			<a href="javascript:;">
-				Perne
+				<%= "Content3Title5".T("Home")%>
 				<span>
-					Ne-ar mai trebui căteva perne pentru paturile de spital; avem, dar trebuie schimbate periodic.
+					<%= "Content3Description5".T("Home")%>
 				</span>
 			</a>
 		</li>
 
 		<li class="Col2 Top">
 			<a href="javascript:;">
-				Păturici pentru sugari
+				<%= "Content3Title6".T("Home")%>
 				<span>
-					Nu avem în dotarea spitalului pături pentru sugari, astfel că în prezent părinții trebuie să le aducă de acasă.
+					<%= "Content3Description6".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li class="Col2">
 			<a href="javascript:;">
-				Carusel pentru paturile sugarilor			
+				<%= "Content3Title7".T("Home")%>
 				<span>
-					Un carusel cu figurine i-ar înveseli pe cei mai mici pacienți ai noștri.
+					<%= "Content3Description7".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li class="Col2">
 			<a href="javascript:;">
-				Paturi de spital cu saltele							
+				<%= "Content3Title8".T("Home")%>
 				<span>
-					Avem mare nevoie de câteva paturi de spital cu saltele; e foarte important ca micii noștri pacienți să aibă paturi comfortabile.
+					<%= "Content3Description8".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li class="Col2">
 			<a href="javascript:;">
-				Televizoare si DVD playere
+				<%= "Content3Title9".T("Home")%>
 				<span>
-					Ne-au mai ramas două saloane în care nu avem televizoare și DVD playere. Timpul trece altfel în spital când poți privi și la televizor.					
+					<%= "Content3Description9".T("Home")%>
 				</span>
 			</a>
 		</li>
 		<li class="Col2">
 			<a href="javascript:;">
-				Picturi murale
+				<%= "Content3Title10".T("Home")%>
 				<span>
-					Ne dorim mult să pictăm pereții din saloane cu personaje dragi copiilor, pentru a inveseli puțin atmosfera.
+					<%= "Content3Description10".T("Home")%>
 				</span>
 			</a>
 		</li>

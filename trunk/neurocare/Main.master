@@ -8,7 +8,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	
 	<asp:ContentPlaceHolder id="head" runat="server">
-		<title><%= "title".T("Common") %></title>
+		<title><%= "Title".T("Common") %></title>
 	</asp:ContentPlaceHolder>
 		
 	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=7" />
@@ -60,36 +60,36 @@
 		<asp:HyperLink NavigateUrl="~/" runat="server">
 			<img src="<%= ResolveUrl("~/App/Images/Logo.gif")%>" width="236" height="81" alt="Logo Neurocare" /></asp:HyperLink>
 	</div>
-	<div id="headerMessage"><p><%= "motto".T("Master") %></p></div>
+	<div id="headerMessage"><p><%= "Motto".T("Master") %></p></div>
 </div>
 
 <div id="menu">
 	<ul>
-		<li id="MenuItem1" runat="server"><asp:HyperLink NavigateUrl="~/" runat="server"><%= "menuHome".T("Master") %></asp:HyperLink></li>
-		<li id="MenuItem2" runat="server"><asp:HyperLink NavigateUrl="~/scop-si-obiective.aspx" runat="server"><%= "menuScop".T("Master") %></asp:HyperLink></li>
+		<li id="MenuItem1" runat="server"><asp:HyperLink NavigateUrl="~/" runat="server"><%= "Menu1".T("Master") %></asp:HyperLink></li>
+		<li id="MenuItem2" runat="server"><asp:HyperLink NavigateUrl="~/scop-si-obiective.aspx" runat="server"><%= "Menu2".T("Master") %></asp:HyperLink></li>
 		<li id="MenuItem3" style="position: relative;" runat="server">
-			<asp:HyperLink NavigateUrl="~/cazuri/" runat="server"><%= "menuCazuri".T("Master") %></asp:HyperLink>
+			<asp:HyperLink NavigateUrl="~/cazuri/" runat="server"><%= "Menu3".T("Master") %></asp:HyperLink>
 			<ul class="SubmenuList">
-				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server">Povestea Sarei</asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server">Un alt fel de exerciţiu de admiraţie</asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server">Darius Preda</asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server">Povestea Sorinei</asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server"><%= "Menu31".T("Master") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server"><%= "Menu32".T("Master") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server"><%= "Menu33".T("Master") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server"><%= "Menu34".T("Master") %></asp:HyperLink></li>
 			</ul>
 		</li>
 		<li id="MenuItem4" style="position: relative;" runat="server">
-			<asp:HyperLink NavigateUrl="~/presa/" runat="server"><%= "menuPresa".T("Master") %></asp:HyperLink>
+			<asp:HyperLink NavigateUrl="~/presa/" runat="server"><%= "Menu4".T("Master") %></asp:HyperLink>
 			<ul class="SubmenuList">
 				<li><asp:HyperLink NavigateUrl="~/presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">
-					Dr. Dan Teleanu la "Doctore, ești un erou!"</asp:HyperLink></li>
+					<%= "Menu41".T("Master") %></asp:HyperLink></li>
 				<li><asp:HyperLink NavigateUrl="~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx" runat="server">
-					Bărbatul care a învins patru forme de cancer într-un an</asp:HyperLink></li>
+					<%= "Menu42".T("Master") %></asp:HyperLink></li>
 				<li><asp:HyperLink NavigateUrl="~/presa/instructor-de-schi-tratat-de-dr-dan-teleanu.aspx" runat="server">
-					Instructor de schi tratat de Dr. Dan Teleanu</asp:HyperLink></li>
+					<%= "Menu43".T("Master") %></asp:HyperLink></li>
 			</ul>
 		</li>
-		<li id="MenuItem5" runat="server"><asp:HyperLink NavigateUrl="~/sponsori.aspx" runat="server"><%= "menuSponsori".T("Master") %></asp:HyperLink></li>
-		<li id="MenuItem6" runat="server"><asp:HyperLink NavigateUrl="~/doneaza.aspx" runat="server"><%= "menuDoneaza".T("Master") %></asp:HyperLink></li>
-		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server"><%= "menuContact".T("Master") %></asp:HyperLink></li>
+		<li id="MenuItem5" runat="server"><asp:HyperLink NavigateUrl="~/sponsori.aspx" runat="server"><%= "Menu5".T("Master") %></asp:HyperLink></li>
+		<li id="MenuItem6" runat="server"><asp:HyperLink NavigateUrl="~/doneaza.aspx" runat="server"><%= "Menu6".T("Master") %></asp:HyperLink></li>
+		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server"><%= "Menu7".T("Master") %></asp:HyperLink></li>
 	</ul>
 	<asp:HyperLink ID="FacebookLink" CssClass="FacebookLink" NavigateUrl="http://www.facebook.com/asociatianeurocare" Target="_blank" runat="server">
 		<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Logo Facebook" /></asp:HyperLink>
@@ -100,7 +100,7 @@
 	</asp:ContentPlaceHolder>
 </div>
 
-<div id="footer">Copyright © 2010 Neurocare. All rights reserved.</div>
+<div id="footer"><%= "Copyright".T("Master") %></div>
 
 </div>
 
