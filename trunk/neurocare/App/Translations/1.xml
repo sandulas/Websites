@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <translations>
   <Common>
-    <moreon><![CDATA[More On]]></moreon>
-    <more><![CDATA[More]]></more>
-    <home><![CDATA[Home]]></home>
+    <title><![CDATA[Asociaţia Neurocare - Fii alături de noi - pentru viaţă!]]></title>
   </Common>
   <Master PreviewUrl="~/">
     <motto><![CDATA[Fii alături de noi - pentru viaţă!]]></motto>
-    <menu1><![CDATA[Home]]></menu1>
-    <menu2><![CDATA[Scop şi obiective]]></menu2>
-  </Master>
+		<menuHome><![CDATA[Home]]></menuHome>
+		<menuScop><![CDATA[Scop şi obiective]]></menuScop>
+		<menuCazuri><![CDATA[Cazuri]]></menuCazuri>
+		<menuPresa><![CDATA[Presă]]></menuPresa>
+		<menuSponsori><![CDATA[Sponsori]]></menuSponsori>
+		<menuDoneaza><![CDATA[Donează]]></menuDoneaza>
+		<menuContact><![CDATA[Contact]]></menuContact>
+	</Master>
   <Home PreviewUrl="~/">
     <head1><![CDATA[Cine suntem?]]></head1>
     <head2><![CDATA[Presă]]></head2>

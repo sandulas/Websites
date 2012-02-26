@@ -14,8 +14,6 @@ public partial class Main : System.Web.UI.MasterPage
 
 	protected void Page_Load(object sender, EventArgs e)
 	{
-		Response.Write(@"<b style=""font-size: 20px;"">" + "TestText".T("TestSection", Translation.NamedXDoc("dyn")) + "</b>");
-		
 		if (Request.Url.Host.ToLower() == "www.neurocare.ro")
 		{
 			string destination = Request.Url.AbsoluteUri.ToLower().Replace("http://www.neurocare.ro", "http://neurocare.ro");
