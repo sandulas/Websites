@@ -14,6 +14,7 @@
 	<li>Adela Chirică</li>
 	<li>Nicolae Sota</li>
 	<li><a href="http://www.elaptepraf.ro" target="_blank" title="lapte praf humana">Elaptepraf.ro (lapte praf)</a></li>
+	<li><a href="http://www.romegacontrol.ro" target="_blank">Ro-Mega Control</a></li>
 </ul>
 
 </asp:Content>

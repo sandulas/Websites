@@ -120,7 +120,7 @@ completeze corespunzator.</p>
 sau dacă aţi obţinut venituri asimilate salariilor (indemnizaţia administratorului, indemnizaţia directorilor, asociaţilor unici, suma din
 profitul net, cuvenită administratorilor la companii/societăţi naţionale, remuneraţia primită de preşedintele asociaţiei de proprietari,
 etc.:</a></b></p>
-<p>- Descărcaţi aici <asp:HyperLink NavigateUrl="~/Files/Formular230_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Pagina doneaza']);" runat="server">Formularul 230</asp:HyperLink>
+<p>- Descărcaţi aici <asp:HyperLink NavigateUrl="~/Files/Formular230_2012_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Pagina doneaza']);" runat="server">Formularul 230</asp:HyperLink>
 "Cerere privind destinaţia sumei reprezentând pâna la 2% din impozitul pe venitul anual şi deducerea
 cheltuielilor efectuate pentru economisirea în sistem colectiv pentru domeniul locativ" .pdf (poate fi obţinut gratuit şi de la orice
 administraţie financiară).<br />
@@ -151,7 +151,7 @@ liberale – medic, avocat, notar, expert contabil, arhitect, chirii, căştigur
 etc.)</a></b>, aveţi obligaţia legală (cu excepţia PFA norme de venit) să depuneţi la administraţia financiară o Declaraţie privind veniturile
 realizate de dvs. în anul anterior, Formularul 200. Cu acelaşi formular, într-o rubrică separată, se poate dona 2% din impozitul datorat astfel
 (mai multe detalii la: <a href="http://declaratia200.ro/" target="_blank">http://declaratia200.ro/</a>):</p>
-<p>- Descărcaţi aici <asp:HyperLink NavigateUrl="~/Files/Formular200_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Pagina doneaza']);" runat="server">Formularul 200</asp:HyperLink>
+<p>- Descărcaţi aici <asp:HyperLink NavigateUrl="~/Files/Formular200_2012_Neurocare.pdf" onClick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Pagina doneaza']);" runat="server">Formularul 200</asp:HyperLink>
 "Declaraţie privind veniturile realizate" .pdf (poate fi obţinut gratuit şi de la orice administraţie financiară).<br />
 - Tipăriţi formularul (5 pagini) în 2 exemplare.</p>
 <p>Declaraţia se completează înscriind cu majuscule, citeţ şi corect, datele prevăzute de formular.<br />
