@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 	<asp:ContentPlaceHolder ID="head" runat="server">
-		<title>Asociaţia Neurocare - Fii alături de noi - pentru viaţă!</title>
+		<title><%= "Title".T("Common") %></title>
 	</asp:ContentPlaceHolder>
 </asp:Content>
 

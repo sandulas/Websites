@@ -307,7 +307,11 @@ namespace Neurocare
 
 		public static string TText(this string text, XElement section)
 		{
-			return section.Element(text).Value;
+			string ret = section.Element(text).Value;
+			
+			ret = ret.Replace("##app_root##", AppTools.Request.ApplicationPath);
+			
+			return ret;
 		}
 		
 		public static string TText(this string text, XElement section, params object[] parameters)
