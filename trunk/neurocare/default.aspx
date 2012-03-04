@@ -104,12 +104,16 @@
 
 </asp:Content>
 
-<asp:Content ContentPlaceHolderID="RightColumn" runat="server">
+<asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
 	
 	<div style="background: #f6f6f6;">
 		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
 	</div>
 	
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
+
 	<asp:HyperLink NavigateUrl="~/Articole/vindecarea-omului-bolnav.aspx" runat="server">
 		<asp:Image ImageUrl="~/Images/Articole/vindecarea-omului-bolnav.jpg" CssClass="General MarT16" Width="288" Height="200"	AlternateText="Vindecarea Omului Bolnav" runat="server" /></asp:HyperLink>
 

@@ -2,7 +2,39 @@
 <translations>
   <Common>
     <Title><![CDATA[Asociaţia Neurocare - Fii alături de noi - pentru viaţă!]]></Title>
-  </Common>
+		<RightHead1><![CDATA[Un alt fel de exerciţiu de admiraţie]]></RightHead1>
+		<RightContent1>
+			<![CDATA[
+			<img src="##app_root##/Images/Exercitiu-de-admiratie2.jpg" class="Feature" alt="Foto mama 2" />
+			<p>De fiecare dată când vin acasă, sun scurt la uşă, gândindu-mă că poate baieţelul meu doarme; dar de cele mai multe ori îl aud
+			chiuind şi spune: <i>Bibi</i> (adica bona lui)<i>, a venit mami! Aduc camionul!</i> Când intru în casă, el mă întâmpină vijelios călare
+			pe betoniera-jucărie şi incepe să spună repede...
+			<a href="##app_root##/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx">citeşte mai departe</a></p>
+			]]>
+		</RightContent1>
+		<RightHead2><![CDATA[Redirecţionază 2% din impozit către Asociaţia Neurocare]]></RightHead2>
+		<RightContent2>
+			<![CDATA[
+			<p>Dacă aţi realizat venituri din salarii, completaţi formularul 230.
+			<a href="##app_root##/doneaza.aspx#formular230" runat="server">detalii...</a></p>
+			<div class="DownloadItem">
+				<a href="##app_root##/Files/Formular230_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);">
+					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
+				<a href="##app_root##/Files/Formular230_2012_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);">
+					Descarcă formularul 230</a>
+			</div>
+			<br />
+			<p>Dacă aţi realizat venituri din alte surse, completaţi formularul 200.
+			<a href="##app_root##/doneaza.aspx#formular200">detalii...</a></p>
+			<div class="DownloadItem">
+				<a href="##app_root##/Files/Formular200_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);">
+					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
+				<a href="##app_root##/Files/Formular200_2012_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);">
+					Descarcă formularul 200</a>
+			</div>
+			]]>
+		</RightContent2>
+	</Common>
   <Master PreviewUrl="~/">
     <Motto><![CDATA[Fii alături de noi - pentru viaţă!]]></Motto>
 		<Menu1><![CDATA[Home]]></Menu1>
