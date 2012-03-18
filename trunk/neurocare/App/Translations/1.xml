@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <translations>
   <Common>
+		<TitlePrefix><![CDATA[Asociaţia Neurocare - ]]></TitlePrefix>
     <Title><![CDATA[Asociaţia Neurocare - Fii alături de noi - pentru viaţă!]]></Title>
 		<RightHead1><![CDATA[Un alt fel de exerciţiu de admiraţie]]></RightHead1>
 		<RightContent1>
@@ -40,10 +41,6 @@
 		<Menu1><![CDATA[Home]]></Menu1>
 		<Menu2><![CDATA[Scop şi obiective]]></Menu2>
 		<Menu3><![CDATA[Cazuri]]></Menu3>
-		<Menu31><![CDATA[Povestea Sarei]]></Menu31>
-		<Menu32><![CDATA[Un alt fel de exerciţiu de admiraţie]]></Menu32>
-		<Menu33><![CDATA[Darius Preda]]></Menu33>
-		<Menu34><![CDATA[Povestea Sorinei]]></Menu34>
 		<Menu4><![CDATA[Presă]]></Menu4>
 		<Menu41><![CDATA[Dr. Dan Teleanu la "Doctore, ești un erou!"]]></Menu41>
 		<Menu42><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Menu42>
@@ -152,4 +149,219 @@
 			]]>
 		</Content3Description10>
 	</Home>
+	<Contact>
+		<Title><![CDATA[Asociaţia Neurocare - Contact]]></Title>
+		<HeadLeft><![CDATA[Contact]]></HeadLeft>
+		<ContentLeft>
+			<![CDATA[
+			<h3>Asociaţia Neurocare</h3>
+			<p>Strada Clucerului Nr. 1, Sector 1, Bucureşti</p>
+			<p><b>CUI:</b><br />
+			27768141</p>
+
+			<p><b>Cont (IBAN):</b><br />
+			RO21BRDE445SV26604894450<br />
+			Cont deschis la BRD, sucursala Triumf Bucureşti</p>
+
+			<p><b>Email:</b><br />
+			<a href="mailto:office@neurocare.ro">office@neurocare.ro</a></p>
+			<p><b>Telefon:</b><br />
+			0724 726 756</p>
+			]]>
+		</ContentLeft>
+		<HeadRight1><![CDATA[Membri fondatori]]></HeadRight1>
+		<ContentRight1>
+			<![CDATA[
+			<p><b>Dr. Raluca Teleanu</b> - Medic primar neurologie pediatrică.</p>
+			<p><b>Dr. Dan Teleanu</b> -	Medic primar neurochirurg, "Spitalul Universitar de Urgenţă" Bucureşti.</p>
+			<p><b>As. Adina Istrate</b> - Asistent şef secţia neurologie pediatrică.</p>
+			]]>
+		</ContentRight1>
+		<HeadRight2><![CDATA[Voluntari]]></HeadRight2>
+		<ContentRight2>
+			<![CDATA[
+			<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
+			<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
+			<p><b>Alexandra Ciobanu</b></p>
+			<p><b>Flavia Lungu</b> - Elevă.</p>
+			<p><b>Dr. Matei Margărita</b> - Medic specialist endocrinolog.</p>
+			<p><b>Mihai Rădulescu</b> - Student medicină.</p>
+			<p><b>Dr. Magda Sandu</b> - Medic neurolog pediatru.</p>
+			<p><b>Dr. Dana Vasile</b> - Medic specialist neurologie pediatrică.</p>
+			]]>
+		</ContentRight2>
+	</Contact>
+	<Cazuri>
+		<Title><![CDATA[Asociaţia Neurocare - Cazuri]]></Title>
+		<Head><![CDATA[Cazuri]]></Head>
+		<Item1Title><![CDATA[Povestea Sorinei]]></Item1Title>
+		<Item2Title><![CDATA[Darius Preda]]></Item2Title>
+		<Item3Title><![CDATA[Un alt fel de exerciţiu de admiraţie]]></Item3Title>
+		<Item4Title><![CDATA[Povestea Sarei]]></Item4Title>
+		<Item1Content>
+			<![CDATA[
+			<p>Era o dimineaţă ca oricare alta; sau cel puţin aşa părea... De la Dorohoi, via Bacău, venea o fetiţă de 4 ani adusă in braţe de către
+			mămica ei. Am intrat în salon pentru vizita de dimineaţă. Mama stătea in picioare lângă pătuţul cu gratii, iar copilul, speriat parca
+			de tot ce e in jurul său, nu putea să mergă, avea trei membre paralizate, iar ochii... ochii aceia cu irisul lângă baza nasului mă
+			priveau speriaţi, cu lacrimile curgând pe obraji!</p><br />
+
+			<img src="##app_root##/Images/Sorina1.jpg" class="Content" alt="" />
+
+			<p>Prima mea intrebare a fost: fetiţa a fost dintotdeauna aşa? Iar răspunsul a fost nu. Copilul începuse să aibă ameţeli, tulburări de
+			mers, iar mai apoi imposibilitatea de a merge, concomitent cu apariţia strabismului convergent bilateral de aproape 3 luni.Pentru a
+			mă convinge, mama îmi arată o filmare făcută de ziua Sorinei şi văd o fetiţă în rochiţă albastră, superbă, care alerga fericită către
+			locul unde ştia că o aşteaptă prietenii şi familia ei. La aproape o lună de la de la acest moment ceva se întamplă cu Sorina. ALTFEL.</p>
+			<br />
+
+			<p>Sorina nu era la prima întâlnire cu spitalul: destinul ei se scria la şase luni de la naştere, cand moartea i-a fost incredibil de
+			aproape. Este diagnosticată cu Mononucleoză infecţioasă şi ziarele locale de la acel moment o prezentau ca pe un caz disperat cu
+			puţine şanse de viaţă. A fost în comă. S-a aflat că măduva osoasă a fetiţei are un defect care nu o ajută să aibă o imunitate
+			competentă.</p>
+			<br />
+			<img src="##app_root##/Images/Sorina2.jpg" class="Content" alt="" />
+
+			<p>Dumnezeu a vrut să trăiască atunci, însă la momentul întălnirii noastre situaţia era serioasă. După investigaţii amănunţite, aflăm că
+			întreg sistemul nervos central era afectat, probabil de un virus, iar noi nu ştiam cât de stabilă era starea ei. Însă încrederea unui
+			om minunat care ne susţinea şi ne privea cu speranţă, mama Sorinei, a făcut să găsim soluţia pentru a reda fetiţei viaţa.</p>
+			<br />
+
+			<p>Drama intervine, parcă infinit mai meschină, abia acum: totul se poate relua oricând de la capăt! Medicii hematologi care o îngrijesc
+			pe Sorina îi fac periodic teste, pentru a verifica competenţa măduvei osoase... dar putem oare şti?</p>
+			<br />
+
+			<p>Ce putem face noi pentru un copil şi o mămică din Dorohoi, unde apa le-a venit in vara lui 2010 până la scara? Ele au strâns jucării
+			şi au gătit pentru copiii cu casele inundate! Au putut!</p>
+			]]>
+		</Item1Content>
+		<Item1Author><![CDATA[Dr. Magda Sandu, decembrie 2010]]></Item1Author>
+		<Item2Content>
+			<![CDATA[
+			<img src="##app_root##/Images/Darius1.jpg" class="Content" alt="" />
+
+			<p>De fiecare dată când un copil vine la spitalul nostru, sunt multe lucruri pe care le observi la prima intalnire...din punct de
+			vedere uman şi medical. De ce Darius mi-a atins sufletul? Pentru că ochii lui tot timpul zâmbesc. Poate doar în urma crizelor
+			epileptice se umbresc pentru o scurtă vreme. Chiar dacă, de obicei, fiecare criză epileptică înseamnă ştergerea progreselor făcute
+			cu mult exerciţiu, copilul acesta de doi ani iţi dăruieşte din priviri maximum de afecţiune şi speranţă.</p>
+			<br />
+
+			<p>La patru luni de viaţă, Darius intră în status epileptic undeva într-un sat din Dâmboviţa. Asta înseamnă că a convulsionat mai
+			mult de 15 minute şi viaţa lui se putea sfârşi atunci. A ajuns la Bucureşti, în spitalul nostru investigaţiile arătând că suferise
+			un accident vascular cerebral hemoragic cu hemipareză dreaptă. Este o boală genetică, având în vedere că unul din bunici a avut
+			accident vascular la 4 ani? Investigaţiile pe aceasta linie costa foarte mult.</p>
+			<br />
+			<img src="##app_root##/Images/Darius2.jpg" class="Content" alt="" />
+
+			<p>Noi ne-am străduit în spital să desluşim cât mai mult din ceea ce ar putea să îi rezerve viitorul lui Darius. Dar dorinţele noastre
+			de a-l ajuta se izbesc inevitabil de acelaşi obstacol - e prea scump să ai un copil bolnav. Preţul sufletesc nu ajunge. Astfel că
+			trebuie să ne mulţumim cu a-l ajuta să nu mai facă crize epileptice (cu trei medicamente anticonvulsivante) şi cu kinetoterapie pentru
+			piciorul şi mâna dreaptă.</p>
+			<br />
+
+			<p>În momentul ăsta ochii lui vorbesc mai mult decât o mie de cuvinte, el dorind să meargă (acum doar cu ghete ortopedice – prea scumpe
+			pentru ca părinţii să i le procure la timp), să se joace, să fie sănătos, acasă.</p>
+			<br />
+
+			<p>De aproximativ 2 ani, trăiesc el şi mama lui, mai mult în spital. Noi îl vedem mai mult decât toată familia sa.</p>
+			]]>
+		</Item2Content>
+		<Item2Author><![CDATA[Dr. Magda Sandu, ianuarie 2011]]></Item2Author>
+		<Item3Content>
+			<![CDATA[
+			<p>De fiecare dată când vin acasă, sun scurt la uşă, gândindu-mă că poate baieţelul meu doarme; dar de cele mai multe ori îl aud
+			chiuind şi spune: <i>Bibi</i> (adica bona lui)<i>, a venit mami! Aduc camionul!</i> Când intru în casă, el mă întâmpină vijelios călare
+			pe betoniera-jucărie şi incepe să spună repede, sărind peste multe din cuvinte, că a facut boacăne...şi mi le înşiră într-un
+			suflet...are doi ani şi jumătate.</p>
+			<br />
+			<img src="##app_root##/Images/Exercitiu-de-admiratie1.jpg" class="Content" alt="" />
+
+			<p>În sufletul meu urcă lacrimi şi-mi spun: <i>Doamne, îţi mulţumesc!</i> Imediat gândul îmi fuge către mama lui George, sau a lui
+			Darius, sau a Cristinei, sau a Ionelei...(copii care vin în spitalul nostru) şi nu pot să nu mă intreb: de ce ele nu au acelaşi noroc?
+			De ce trebuie să fie copiii bolnavi? Cărui scop divin ar putea servi o suferinţă de copil?</p>
+			<br />
+
+			<p>Poate că nu voi reuşi să înţeleg niciodată asta, însă în căutarea unui răspuns pot incerca să învăţ cum e să fii mamă...de la ele!
+			Ceea ce voi scrie acum este un umil exerciţiu de admiraţie pentru nişte femei, care nu contenesc în a mă uimi. Ele aşteaptă cu atât de
+			multă speranţă în ochi, de fiecare dată când ne vedem, un semn că viitorul va fi altfel decât prezentul. De cate ori poate, şi-au
+			văzut cu ochii sufletului copiii mergând la gradiniţă, sau la şcoală în prima zi, sau cu coroniţa pe cap la serbare, spunând poezii
+			sau suflând în lumânările de pe tort? De câte ori şi-au văzut copiii dormind şi realitatea părea ireală? În inima lor dor întrebări;
+			mi le mai adresează uneori, dar ştiu că nu se aşteaptă să le dau un răspuns credibil...poate doar o alinare, un cuvânt, că cineva
+			înţelege ce înseamnă să te sublimezi ca fiinţă, ca femeie, într-o entitate unică: Mama.</p>
+			<br />
+			<img src="##app_root##/Images/Exercitiu-de-admiratie2.jpg" class="Content" alt="" />
+
+			<p>Dacă voi, cei care cititi întâmplător aceste rânduri, credeţi că puteţi defini "sacrificiul", mai gândiţi-vă! V-aţi putea uita cu
+			desăvârşire ca fiinte, necontând NIMIC în afara unui zâmbet, al unei strângeri de mână sau al unui pas timid făcut de copilul vostru?
+			De fiecare dată când vorbesc cu Mamele acestor copii, simt că eu aş vrea să le intreb atâtea! Le-aş asculta ore în şir povestind şi
+			le-aş privi în continuu îmbrăţisându-şi sufletele dragi. Zic suflete, pentru că mă gândesc la George, pe care boala lui nu îl lasă,
+			la 4 ani, să îşi îmbrăţişeze mama; sau măcar să o cheme când are nevoie de ea. Dar nici nu-i nevoie, căci Ea este tot timpul acolo.
+			El este suflet mai presus de orice...La aproape trei ani, a învăţat să îi zâmbească mamei.</p>
+			<br />
+			<img src="##app_root##/Images/Exercitiu-de-admiratie3.jpg" class="Content" alt="" />
+
+			<p>Mă gândesc la Ileana Ispas şi la Ionela Agavriloaie, pentru care anul trebuie să aibă 365 de 8 martie şi tot nu ar fi de ajuns.
+			La mama lui Alexandru Nuţă, care îmi zâmbeşte în fiecare dimineaţă când intru în salon, chiar dacă copilul ei face crize în fiecare
+			zi. Ea zâmbeşte pentru ca el să o vadă zâmbind şi nu plângând, în timp ce îl mângâie. Pentru ca el să poată merge mai departe.</p>
+			<br />
+
+			<p>Pentru toate acestea şi pentru fiecare lecţie pe care ele mi-o oferă, le mulţumesc! Într-o lume mascată şi superficială, ele îmi
+			oferă senzaţia că ţin în palmă o inimă bătând, că simt emoţia lor devenind emoţia mea. Poţi oare recompensa asta vreodată?</p>
+			]]>
+		</Item3Content>
+		<Item3Author><![CDATA[Dr. Magda Sandu, martie 2011]]></Item3Author>
+		<Item4Content>
+		<![CDATA[
+		<p>Sara, o fetiță în vârstă de 4 luni care nu și-a privit în ochi niciodată mama...chemată în Ceruri mult prea devreme, chiar când se năștea micuța.</p>
+		<br />
+
+		<p>Am cunoscut-o în urmă cu o lună când a fost adusă în clinică – sever afectată neurologic printr-o naștere extrem de laborioasă, lipsită de căldura
+		sufletului și pieptului matern, nici măcar nu putea să bea lăpticul singură – trebuia să îi fie administrat pe sondă direct în stomăcel.</p>
+
+		<p>Era însoțită de o bunică extraordinară, cu o putere psihică greu de imaginat. Deși greu încercată căci își pierduse fiica de curând, îi oferea
+		micuței tot sprijinul pentru a putea face față sorții grele – neîntrerupt lângă ea, o hrănea pe sondă, o schimba, o legăna, încerca să îi ofere
+		alinare în orice clipă. Și nu a fost ușor, căci micuța era agitată, cu respirație greoaie, făcea convulsii numeroase zilnice.</p>
+		<br />
+
+		<p>Timp de o lună ne-am străduit să îi oprim crizele. Și vârsta, și greutatea mică nu ne permiteau să folosim o gamă prea variată de anticonvulsivante.</p>
+
+		<p>Cele două bunici ale fetiței nu au dormit zile în șir, făcând cu schimbul lângă pătuțul Sarei. Ziua asistând la lupta noastră cu crizele,
+		cu tulburările de respirație și de alimentație, noaptea încercând să aline agitația micuței care nu dormea nici un minut.</p>
+
+		<p>Este dificil să privești un sugar care doarme tot timpul încordat, cu pumnii strânși, parcă s-ar lupta continuu pentru viața lui.</p>
+		<br />
+
+		<p>Dar iată că Bunul Dumnezeu ne-a ajutat și după nesfârșite încercări convulsiile s-au rărit și ne-am facut curaj să-i scoatem sonda, să încercăm
+		să îi dăm lăpticul la biberon. Nu a fost posibil, căci Sara nu știa nici să sugă, nici să înghită. Dar nu am renunțat. Cu răbdare, infirmierele și
+		asistentele noastre au reușit să îi dea lăpticul cu seringa - prima masă de acest fel a durat o oră...</p>
+		<br />
+
+		<p>Nu mi-am putut imagina până acum bucuria de a vedea că un pacient primește de trei zile laptele cu seringa sau cu biberon special. Iar imaginea
+		Sarei dormind prima dată relaxată, cu mânuțele ei mici destinse, ca un îngeraș, îmi stăruie zi și noapte în minte.</p>
+		<br />
+
+		<p>Deși știu că suntem încă în luptă continuă ca fetița aceasta cu față de îngeraș să recupereze din marea traumă a nașterii, mă încred în Dumnezeu
+		că acești mici pași sunt unii făcuți spre o stare tot mai bună a micii noastre paciente.</p>
+
+		<p>Și nu mă pot opri să mă rog continuu ca băiețelul meu de trei ani să fie sănătos, ca și bebelușul pe care sunt nerăbdătoare să îl privesc pentru
+		prima dată peste mai puțin de 2 luni, iar eu să pot să le ofer copiilor mei tot ce e mai bun pentru ei.</p>
+		]]>
+	</Item4Content>
+		<Item4Author><![CDATA[Dr. Diana Epure, noiembrie 2011]]></Item4Author>
+		<RightHead1><![CDATA[Povestea Sorinei]]></RightHead1>
+		<RightContent1>
+			<![CDATA[
+			<img src="##app_root##/Images/Sorina2.jpg" class="Feature" alt="Foto mama 2" />
+			<p>Era o dimineaţă ca oricare alta; sau cel puţin aşa părea... De la Dorohoi, via Bacău, venea o fetiţă de 4 ani adusă in braţe
+			de către mămica ei. Am intrat în salon pentru vizita de dimineaţă. Mama stătea in picioare lângă pătuţul cu gratii, iar copilul,
+			speriat parca de tot ce e in jurul său, nu putea să mergă, avea trei membre paralizate, iar ochii...
+			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">citeşte mai departe</a></p>
+			]]>
+		</RightContent1>
+
+		<X><![CDATA[]]></X>
+		<X><![CDATA[]]></X>
+	
+
+
+</Cazuri>
+	
 </translations>
