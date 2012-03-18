@@ -70,10 +70,10 @@
 		<li id="MenuItem3" style="position: relative;" runat="server">
 			<asp:HyperLink NavigateUrl="~/cazuri/" runat="server"><%= "Menu3".T("Master") %></asp:HyperLink>
 			<ul class="SubmenuList">
-				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server"><%= "Menu31".T("Master") %></asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server"><%= "Menu32".T("Master") %></asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server"><%= "Menu33".T("Master") %></asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server"><%= "Menu34".T("Master") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server"><%= "Item4Title".T("Cazuri")%></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx" runat="server"><%= "Item3Title".T("Cazuri")%></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/darius-preda.aspx" runat="server"><%= "Item2Title".T("Cazuri")%></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sorinei.aspx" runat="server"><%= "Item1Title".T("Cazuri")%></asp:HyperLink></li>
 			</ul>
 		</li>
 		<li id="MenuItem4" style="position: relative;" runat="server">
