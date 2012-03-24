@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Columns2.master" AutoEventWireup="true" CodeFile="contact.aspx.cs" Inherits="contact" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-	<title><%= "Title".T("Contact") %></title>
+	<title><%= "TitlePrefix".T("Contact") + "Title".T("Contact")%></title>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">

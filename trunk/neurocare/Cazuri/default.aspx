@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Columns.master" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-	<title><%= "Title".T("Cazuri") %></title>
+	<title><%= "TitlePrefix".T("Cazuri") + "Title".T("Cazuri")%></title>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">

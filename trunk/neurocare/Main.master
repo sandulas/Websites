@@ -79,12 +79,9 @@
 		<li id="MenuItem4" style="position: relative;" runat="server">
 			<asp:HyperLink NavigateUrl="~/presa/" runat="server"><%= "Menu4".T("Master") %></asp:HyperLink>
 			<ul class="SubmenuList">
-				<li><asp:HyperLink NavigateUrl="~/presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server">
-					<%= "Menu41".T("Master") %></asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx" runat="server">
-					<%= "Menu42".T("Master") %></asp:HyperLink></li>
-				<li><asp:HyperLink NavigateUrl="~/presa/instructor-de-schi-tratat-de-dr-dan-teleanu.aspx" runat="server">
-					<%= "Menu43".T("Master") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server"><%= "Item3Title".T("Presa") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx" runat="server"><%= "Item2Title".T("Presa") %></asp:HyperLink></li>
+				<li><asp:HyperLink NavigateUrl="~/presa/instructor-de-schi-tratat-de-dr-dan-teleanu.aspx" runat="server"><%= "Item1Title".T("Presa") %></asp:HyperLink></li>
 			</ul>
 		</li>
 		<li id="MenuItem5" runat="server"><asp:HyperLink NavigateUrl="~/sponsori.aspx" runat="server"><%= "Menu5".T("Master") %></asp:HyperLink></li>

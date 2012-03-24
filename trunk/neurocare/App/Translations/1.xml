@@ -150,7 +150,7 @@
 		</Content3Description10>
 	</Home>
 	<Contact>
-		<Title><![CDATA[Asociaţia Neurocare - Contact]]></Title>
+		<Title><![CDATA[Contact]]></Title>
 		<HeadLeft><![CDATA[Contact]]></HeadLeft>
 		<ContentLeft>
 			<![CDATA[
@@ -192,7 +192,7 @@
 		</ContentRight2>
 	</Contact>
 	<Cazuri>
-		<Title><![CDATA[Asociaţia Neurocare - Cazuri]]></Title>
+		<Title><![CDATA[Cazuri]]></Title>
 		<Head><![CDATA[Cazuri]]></Head>
 		<Item1Title><![CDATA[Povestea Sorinei]]></Item1Title>
 		<Item2Title><![CDATA[Darius Preda]]></Item2Title>
@@ -356,12 +356,504 @@
 			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">citeşte mai departe</a></p>
 			]]>
 		</RightContent1>
+	</Cazuri>
+	<Presa>
+		<TitlePrefix><![CDATA[Asociaţia Neurocare - Presă - ]]></TitlePrefix>
+		<Title><![CDATA[Presă]]></Title>
+		<Head><![CDATA[Presă]]></Head>
+		<Item1Title><![CDATA[Instructor de schi tratat de Dr. Dan Teleanu]]></Item1Title>
+		<Item1Head><![CDATA[Vali Căciulă îşi revine!]]></Item1Head>
+		<Item2Title><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Item2Title>
+		<Item2Head><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Item2Head>
+		<Item3Title><![CDATA[Dr. Dan Teleanu la "Doctore, ești un erou!"]]></Item3Title>
+		<Item3Head><![CDATA[Medicul Dan Teleanu, neurochirurgul care a inteles ca aparatura de top nu este totul]]></Item3Head>
+		<Item1Content>
+			<![CDATA[
+			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
 
-		<X><![CDATA[]]></X>
-		<X><![CDATA[]]></X>
-	
+			<p>Veşti din ce în ce mai bune pentru cei care îl cunosc pe Vali Căciulă. Operat de două ori pe creier, instructorul de schi din
+			Sinaia se simte din ce în ce mai bine. <i>"Starea sa de sănătate este din ce în ce mai bună. A început să mănânce. Sunt optimist!"</i>,
+			spune Codruţ Căciulă, fiul marelui instructor de schi.</p>
 
+			<p>Acelaşi optimism îl afişează şi medicul <b>Dan Teleanu</b>, cel care l-a repus pe picioare pe Căciulă Senior în cadrul Secţiei
+			de Neurochirurgie de la Spitalul Universitar din Bucureşti. "<i>Acum se simte mai bine. Se deplasează la toaletă, mănâncă singur,
+			vorbeşte... A făcut progrese mari, chiar dacă încă mai are probleme din când în când. Vineri sau luni s-ar putea să-l externăm"</i>,
+			a declarat medicul care l-a ridicat din zăpadă pe Vali Căciulă şi l-a pus din nou pe schiuri.</p>
 
-</Cazuri>
-	
+			<p>Mai departe, instructorul de schi trebuie să urmeze un program de recuperare foarte strict. Costurile pentru acest proces sunt
+			foarte ridicate, astfel că toţi cei care doresc să-l ajute pe sinăian o pot face trimiţând bani în conturile:
+			RO82INGB0000999900635852 - pentru lei şi pentru euro - RO39INGB0000999901661043 deschise la ING Bank. Conturile sunt deschise pe
+			numele Căciulă Constantin Codruţ.</p>
+			]]>
+		</Item1Content>
+		<Item1Author>
+			<![CDATA[
+			Sursa: schiromania.ro, 23 Februarie 2011<br />
+			<a href="http://www.schiromania.ro/2011/02/23/vali-caciula-isi-revine/" target="_blank">http://www.schiromania.ro/2011/02/23/vali-caciula-isi-revine/</a>
+			]]>
+		</Item1Author>
+		<Item2Content>
+			<![CDATA[
+			<h3>Ultimul impas a fost depăşit acum două săptămâni, când i s-a îndepărtat tumora cerebrală.</h3>
+
+			<img src="##app_root##/Images/Presa/Articol1.jpg" class="General" align="middle" width="425" height="262"><br />
+			<p class="Author">Foto: Silviu Ciobanu</p>
+
+			<p>Slăbuţ la trup şi cu capul bandajat, Florian se ridică sprinten din pat când mă vede intrând în salon. Soţia este alături de el şi
+			asta-l face să treacă mai uşor peste necaz. Până anul trecut nu avusese niciodată probleme de sănătate. În aprilie 2010, s-a dus la o
+			clinică privată din Galaţi să-şi scoată o gâlmă ca o boabă de fasole care-i apăruse la subraţ. În timp ce aştepta rezultatele
+			biopsiei, într-o noapte a simţit o durere groaznică de cap. În scurt timp, bărbatul de 42 de ani avea să afle că suferă de melanom,
+			de tumoră la creier şi de metastaze la plămâni. <i>"Medicii au spus atunci că tumorile la creier nu se pot opera. Am făcut
+			chimioterapie şi cobaltoterapie şi, după câteva luni, o parte dintre ele au dispărut de tot. În urma tratamentului, au dispărut şi
+			metastazele de la plămâni"</i>, spune Florian. În decembrie, anul trecut, Florian a aflat că avea metastaze şi pe intestinul subţire.
+			Avea greţuri, tot ce mânca îi venea înapoi, şi avea dureri care-i treceau cu algocalmin. S-a operat şi a scăpat şi de aceste
+			metastaze.</p>
+
+			<h3>Operaţia la creier a durat patru ore</h3>
+
+			<p>Florian a venit la Spitalul Universitar din Bucureşti în urmă cu două săptămâni pentru a vedea ce se poate face cu tumora care-i
+			mai rămăsese la creier. Medicul i-a spus că se poate opera. <i>"Intervenţia a durat patru ore şi a constat în extirparea metastazei
+			cerebrale. Operaţia este complexă, are risc de sângerare şi trebuie să fim foarte atenţi să nu atingem structuri din creier care l-ar
+			putea lăsa pe pacient cu deficit postoperator neurologic"</i>, explică Dan Teleanu, medic primar neurochirurg la Spitalul Universitar din
+			Bucureşti. Acesta mai spune că, în cazul lui Florian, şansele de supravieţuire depind de cât de bine este controlat melanomul.
+			Florian nu are voie să mai consume alcool şi cafea şi trebuie să se ferească să mai stea cu capul în soare. În caz contrar, riscă să
+			aibă crize epileptice.</p>
+
+			<h3>"Nenorocirile astea se întâmplă când eşti mai liniştit"</h3>
+
+			<p>Stilul de viaţă dezordonat, alimentaţia nesănătoasă şi poluarea fac ca tumorile cerebrale să apară şi la persoane de 30-40 de ani.
+			În unele cazuri, tumorile pot avea cauze secundare, ca în situaţia lui Florian. Spre exemplu, o femeie care a avut cancer la sân sau
+			un bărbat cu cancer pulmonar riscă să facă şi metastaze cerebrale. Tumorile mai pot apărea şi fără un motiv foarte bine cunoscut.
+			"Tumorile cerebrale benigne pot apărea la femeile cu multe sarcini din cauze hormonale sau la pacienţi de 60-70 de ani", spune Dan
+			Teleanu.</p>
+
+			<p>Cea mai periculoasă formă de cancer la creier, glioblastomul, apare însă mai frecvent la bărbaţi, iar rata de supravieţuire este
+			de 8 luni. Durerile de cap, crizele epileptice, tulburările de vedere, pareza pe partea tumorii şi un deficit de câmp vizual sunt
+			semnele unei tumori cerebrale. Pentru a surprinde boala din timp, medicii recomandă un control neurologic o dată pe an, după vârsta
+			de 35 de ani. <i>"Nenorocirile astea se întâmplă când eşti mai liniştit. Eram fericit la maximum când am aflat că sunt bolnav. Acum îmi
+			doresc să trăiesc măcar până la 50 de ani, să mă pun pe picioare, să mă duc la serviciu şi să am grijă de fetiţa mea de 10 ani"</i>,
+			spune Florian care nu-şi explică de ce s-a îmbolnăvit. <i>"Alcool beam ocazional şi n-am mai pus gura pe ţigară din 1995. Mişcare am
+			făcut mereu. Doar de dulciuri ce am mai abuzat, pentru că-mi plac foarte mult. Poate că m-am îmbolnăvit pentru că am stat mult în
+			soare. De mic îmi plăcea să înot şi apoi am lucrat toată viaţa pe vapor în soare"</i>, caută el să găsească un răspuns.</p>
+
+			<p><i>"Operaţia prin care se îndepărtează tumora cerebrală are risc de sângerare şi trebuie să fim foarte atenţi să nu atingem
+			structuri din creier care l-ar putea lăsa pe pacient cu deficit postoperator neurologic."</i><br />
+			<b>DAN TELEANU</b>, neurochirurg</p>
+			]]>
+		</Item2Content>
+		<Item2Author>
+			<![CDATA[
+			Sursa: romanialibera.ro, 15 Martie 2011<br />
+			<a href="http://www.romanialibera.ro/stil-de-viata/sanatate/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an-219465.html" target="_blank">
+			http://www.romanialibera.ro/stil-de-viata/sanatate/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an-219465.html</a>]]></Item2Author>
+		<Item3Content>
+			<![CDATA[
+			<iframe src='http://www.stirileprotv.ro/lbin/video_embed.php?media_id=60529786&section=20330&video_section_id=' frameborder='0' style='width: 400px; height: 330px;' scrolling="no"></iframe>
+
+			<br /><br />
+			<h3>De 15 ani, un urias bland vindeca o parte a corpului nostru despre care specialistii declara ca stim prea putin - creierul uman.</h3>
+
+			<br />
+			<p>Sunt interventii pe care putini stiu sa le faca, dar si mai putini au curajul sa le inceapa.</p>
+
+			<p>Chirurgia pe creier era, cand a facut el facultatea, pura avangarda. De atunci, Dan Teleanu a vazut si a tratat sute de tumori canceroase.</p>
+
+			<p>Sunt interventii pe care putini stiu sa le faca, dar si mai putini au curajul sa le inceapa.</p>
+
+			<p>La 44 de ani, e privit ca un exemplu rar de blandete de cei al caror viitorul atarna de un fir de par. Adica de biopsia care le da un
+			verdict - a fost sau n-a fost malign? In cateva luni petrecute in Germania, medicul a inteles insa ca aparatura de top nu e totul.</p>
+
+			<p>S-a verificat si la Cornel, un pacient de 28 de ani, care a dus pe picioare o simpla durere de cap. In poze, problema la creier s-a vazut
+			greu. Tanarul crede ca a avut noroc.</p>
+
+			<p>Un alt bolnav operat de Teleanu si vindecat, in numai un an, de patru forme de cancer, ar spune ca a dat peste un om daruit.</p>
+
+			<p>Are doi copii, pe care ii vede mai putin decat ar vrea si ar merita cu totii.</p>
+
+			<p>Si de fapt, tot de la sotie, neurolog pediatru, cere ajutor pentru pacientii copii.</p>
+			]]>
+		</Item3Content>
+		<Item3Author>
+			<![CDATA[
+			Sursa: stirileprotv.ro, 23 Noiembrie 2011<br />
+			<a href="http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html" target="_blank">
+			http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html</a>]]></Item3Author>
+	</Presa>
+	<Articole>
+		<TitlePrefix><![CDATA[Asociaţia Neurocare - Articole - ]]></TitlePrefix>
+		<Item1Title><![CDATA[Vindecarea omului bolnav]]></Item1Title>
+		<Item1Content>
+			<![CDATA[
+			Dr. Radu Țincu (<a href="mailto:r_tincu@yahoo.com">r_tincu@yahoo.com</a>)<br /><br />
+			<img src="##app_root##/Images/Articole/vindecarea-omului-bolnav.jpg" class="General MarR12" align="left" width="250" />
+
+			<p>Boala este consecinţa stilului de viaţă anormal, a exceselor şi a păcatului. Prin păcat dobândim boala sufletească, iar de aici
+			nu este decât un pas până la ȋmbolnăvirea trupului. Trebuie să ne ȋngrijim de suflet. Ne facem griji de boala trupească, dar nu ne
+			sperie ȋmpietrirea sufletului. În cartea de faţă se ȋncearcă o analiză a factorilor care ne ȋmbolnăvesc sufleteşte şi trupeşte, dar
+			şi modul cum trebuie să reacţionăm ȋn momentele dificile din viaţă. Cum trebuie să ne rugăm şi mai ales cui. În ultimele capitole
+			găsim scurte povestiri despre vieţile Sfinţilor Tămăduitori, dar şi rugăciuni trebuincioase omului bolnav.</p>
+			<br />
+
+			<h2>Fragmente</h2>
+
+			<h3>Boala trupească</h3>
+
+			Trăim ȋntr-o societate de consum care a ȋnceput să consume carne umană. Oamenii au mai mult decât oricând o dorinţă patologică de a avea
+			bani. Nu este nimic anormal ȋn a avea un trai decent şi civilizat, dar acum omul ȋşi doreşte cu mult mai mult decât are nevoie. Nu ştie
+			ce să mai facă cu banii. Această dorinţă bolnavă, nu poate fi satisfăcută cu uşurinţă, omul trebuie să renunţe la o mulţime de lucruri,
+			să depună eforturi inumane. Fără să ne dăm seama am devenit robii banului. Un ban care o dată câştigat ȋl folosim pentru continuare
+			procesului nostru de distrugere. Aceste eforturi ale părinţilor, ȋi fac pe aceştia să nu mai aibă timp să comunice cu copii lor. Se
+			produce o ruptură greu reparabilă ȋntre părinţi şi copii. Este primul pas spre căderea tinerilor ȋn mrejele anturajului. Încep să
+			folosească substanţe care să le creeze o lume a lor, o lume pe care şi-o doresc, dar nu o pot avea ȋn viaţa reală.</p>
+
+			<p>Boala trupească nu este şi nu poate fi despărţită de boala sufletească. Există o relaţie foarte apropiată ȋntre trup şi suflet. De
+			multe ori trupul este o oglindire a stării sufletului. Păcatele noastre sunt cauzatoare de suferinţă. O suferinţă capabilă fie, să ne
+			purifice, fie să rămână doar o durere fizică.</p>
+
+			<p>Ne ȋngrijim atât de mult de trupul nostru, facem eforturi imense. Nu ne gândim la sufletul nostru. Plângem de durerile fizice, ne
+			tânguim, dar nu ne facem grijă de durerea sufletului, care va fi aici, dar şi dincolo. Fugim de durerea fizică, dar ne desfătăm ȋn păcat!
+			Suferinţa fizică am dobândit-o după căderea lui Adam şi a Evei. Această modificare, făcută de Dumnezeu a avut rostul de a ne arăta
+			diferenţa dintre omul creat şi Dumnezeul creator. În Rai nu exista, iniţial suferinţă.</p>
+			<br />
+
+			<h3>Boala sufletească</h3>
+
+			Spuneam că există o corelaţie foarte strânsă ȋntre trup şi suflet. Dacă toţi simţim durerile corpului, nu toţi reuşim să simţim şi să
+			ȋnţelegem durerile sufletului. Cea mai de temut boală a sufletului este păcatul.</p>
+
+			<p><b>Păcatul este ca un virus!</b><br />
+			Intrăm ȋn contact cu un virus, ne contaminează dupa care nu mai vrea să ne părăsească. La fel acţionează şi păcatul.</p>
+
+			<p><b>Cum putem preveni acest lucru?</b><br />
+			Fiind ca un virus avem nevoie de vaccin. Un vaccin pentru suflet, ȋmpotriva păcatului. Există un astfel de vaccin ? O, sigur că da.
+			A fost inventat ȋnainte de om ! Vaccinul se numeşte credinţa ȋn Dumnezeu. Prima doză de vaccin o primim la botez.</p>
+
+			<p><b>Doctorul</b><br />
+			Pentru durerile trupului ne adresăm medicilor. În cazul bolilor sufletului trebuie să alergăm la biserică. Este spitalul de urgenţă
+			al sufletelor noastre. Dumnezeu nu tămăduieşte doar sufletul.</p>
+
+			<p><b>Medicamentele amare</b><br />
+			Nu toate pastilele sunt dulci şi uşor de luat, dar cu toate acestea facem eforturi şi le ȋnghiţim. Ştim că un leac amar ne poate vindeca.
+			La fel sunt şi pastilele pentru suflet. Sunt amare, dar benefice.</p>
+			<br />
+
+			<h3>Rugăciunea omului bolnav</h3>
+
+			<p><b>Ce este rugăciunea?</b><br />
+			Rugăciunea este lucrarea lui Dumnezeu, prin ea dobândim viaţa. Este dialogul nostru cu Dumnezeu. Pentru a ne menţine harul duhului sfânt,
+			pe care ȋl primim ȋn momentul botezului, trebuie să avem ȋn inimă rugăciunea.</p>
+
+			<p><b>Vorbirea ȋn timpul slujbei</b><br />
+			La Biserică mergem pentru a vorbi cu Dumnezeu, nu cu vecina sau vecinul nostru. De obicei vorbim pentru că nu am dobândit harul rugăciunii.</p>
+
+			<p>Când inima este curată, simţim focul lăuntric, dar atunci când avem sufletul ȋncărcat de patimi, supărări, nu mai avem acel foc, iar ȋn
+			inimă pătrunde răceala. Ne rugăm, dar nu simţim. Rezolvarea este simplă. Să identificăm problema care ne apasă inimă şi să o eliminăm.</p>
+
+			<p><b>Vrăjitoria</b><br />
+			Vrăjitoarele sunt persoane posedate de diavol. Tot ajutorul pe care vi-l promit, este de la diavol. Pot fi persoane de orice fel, sex, pregătire
+			profesională. Iniţial sunt calmi, aparent prietenoşi, dar ȋn realitate singurele sentimente pe care le au sunt cele de ură. Vorbesc frumos,
+			mieros, chiar cu evlavie, dar este o falsă evlavie. Se comportă aşa pentru că sunt slugile necuratului, care este foarte viclean. Viclenia lor
+			este o armă, iar mulţi dintre noi nu suntem capabili să le vedem adevărata faţă neagră şi rea. Pot fi atât de falşi şi vicleni, ȋncât unii
+			dintre ei/ele pot să meargă ȋn Biserică, să aprindă lumânări, să postească. Toate aceste lucruri le fac pentru că diavolul a avut neruşinarea de
+			a se transforma ȋn ȋnger de lumină, pentru a putea păcăli. De multe ori vă pot oferi tot felul de lucruri cadou. Nu trebuie să primim nimic de
+			la vrăjitor, chiar şi icoane, cărţi sfinte. Mulţi dintre cei care fac lucrarea diavolului, vă pot face o serie de prevederi, care să vă convingă.
+			Rudele, prietenii vă pot recomandă o vrăjitoare cunoscută, pe care, chiar ei au solicitat-o. Refuzaţi şi apropiaţi-vă de Biserică, diavolul vă
+			dă târcoale.</p>
+
+			<p>Preotul trebuie să ȋl căutăm când suntem bolnavi! Preoţia este o taină, o lucrare a Sfântului Duh. Hirotonia unui preot se face de către
+			episcopi, care sunt urmaşii apostolilor. Apostolul Pavel a hirotonit preoţi.</p>
+			<br />
+
+			<h3>Sfântul Maslu</h3>
+
+			<p>Sfântul Maslu este o taină prin care omul bolnav se poate vindeca. De unde ştim că este o taină? Chiar din Sfânta Scriptură.</p>
+
+			<p>"Este cineva bolnav ȋntre voi? Să cheme preoţii Bisericii şi să se roage pentru el, ungându-l cu untdelemn, ȋn numele Domnului".
+			( Iacov 5, 14-15).</p>
+			<br />
+
+			<h3>Iisus-tămăduitorul sufletelor şi al trupurilor noastre</h3>
+
+			<p>În existenţă Sa pământească Iisus a ȋnfăptuit multe minuni. A vindecat oameni, fără posibilitate de tămăduire, a ȋnviat morţi, a stăpânit
+			forţele naturii. În acest capitol vom face referire la vindecările pe care le-a făcut Mântuitorul nostru. A vindecat atât trupuri, schilodite de
+			boală, dar şi suflete ȋmpovorate de păcat şi posedate de duhuri necurate.</p>
+
+			<p>Maica Domnului este "mai cinstită decât heruvimii şi mai mărită fără de asemănare decât serafimii". Este mai ȋnaltă decât ȋngerii şi mai sus
+			decât cerurile. Atât de curată şi neprihănită este ȋncât este mai presus decât făpturile cereşti, fără de trup. Ea, Maria, Pururea Fecioară care
+			este om. Un om dincolo de ȋngeri. Ce sfinţenie trebuie să aibă Fecioara!</p>
+
+			<p>Fecioara este grabnic ajutătoare. Ea ne iubeşte şi ne ȋnţelege condiţia umana, pentru că este om ca şi noi. Îngerii care sunt făpturi fără trup
+			şi fără de păcat, nu ne pot ȋnţelege acţiunile umane. Dar, Maica Domnului, om fiind, cunoaşte firea umană, ştie cât de greu este să rezişti ȋn
+			faţă păcatului. Ea doreşte să ne ajute, se roagă pentru noi ȋn faţa Fiului ei, singura condiţie este ca noi să o căutăm, să o rugăm, să o iubim.
+			Să ştim că fiecare păcat pe care ȋl avem o ȋntristează pe Fecioară.</p>
+
+			<p>Preasfântă Născătoare de Dumnezeu, miluieşte-ne pe noi!</p>
+			<br />
+
+			<h3>Sfinţi tămăduitori</h3>
+			<p>Sfinţii sunt mijlocitori ai noştri ȋn faţa lui Dumnezeu. Vieţile lor pământene sunt adevărate căi de urmat pentru noi. Modul ȋn care au trăit
+			sfinţii trebuie ȋmprumutat. Sunt dovezile clare că omul se poate mântui urmând ȋnvăţăturile Sfintei Scripturi.</p>
+
+			<p><b>Sfântul Nectarie din Eghina</b><br />
+			Acest sfânt s-a născut pe data de 1 octombrie 1846 ȋn Grecia, ȋn localitatea Silivria. A fost crescut ȋn educaţie creştină. Studiază teologia.
+			Devine profesor de religie ȋn insula Hios.</p>
+
+			<p>. A plecat ȋntru Domnul pe 8 noiembrie 1920. După adormire multe minuni s-au ȋnfăptuit la Biserica sa. Multă lume bolnavă şi-a găsit leacul acolo.
+			Trupul său a rămas nestricat şi trimiţând frumoasă mireasmă. În data de 3 septembrie moaştele sale au fost aşezate ȋn Biserica Mânăstirii. În anul
+			1961 Sinodul Bisericii Ortodoxe din Grecia l-a aşezat ȋn ceata Sfinţilor. Sunt numeroase minuni ale Sfântului, aşa că nu am să ȋncerc acum să vă
+			conving cu exemple. Dacă aş ȋncepe să scriu minunile Sfântului, nu aş reuşi să termin cartea niciodată, pentru că Sfântul Nectarie ȋnfăptuieşte o
+			minune chiar ȋn acest moment. Moaştele Sfântului Nectarie se găsesc la Sfânta Mânăstire Radu Vodă din Bucureşti( str. Radu Vodă nr. 24 A, sector 4
+			Bucureşti). Sfântul Nectarie este numit taumaturg, adică vindecător. Nu este nevoie să căutăm prin cărţi şi să citim minunile pe care le-a făcut,
+			este suficient să mergem la Mânăstirea Radu Vodă şi vom găsi acolo oameni care ne pot ȋmpărtăşi experienţele lor şi modul cum acest Sfânt i-a ajutat.</p>
+
+			<p>Sfântul Nectarie este zid de apărare şi izvorâtor de tămăduiri. Prin el reuşim să ȋnvingem răutatea lumii. Sfântul Nectarie ne-a fost trimis de
+			Mântuitorul pentru a ne aduce vindecări. Prin acest Sfânt am rănit pe cei duşmănoşi.</p>
+			<br />
+
+			<p><b>Sfântul Luca al Crimeei</b><br />
+			Sfântul Luca s-a născut ȋn anul 1877, ȋntr-o familie nobilă. Tânărul se hotărăşte să urmeze facultatea de medicină. Face acest gest pentru că simţea
+			nevoia să ȋşi ajute semenii. Ajunge medic chirurg şi ȋşi ȋncepe cariera medicală, ca doctor la Crucea Roşie. Era voluntar.</p>
+
+			<p>În anul 1921 este hirotonit preot, lucru care este cel puţin surprinzător pentru conducerea comunistă. A primit numele monahal de Luca (numele real
+			este Voino-Lasenetki). În anul 1923 părintele Luca ajunge episcop al regiunii.</p>
+
+			<p>. Sfântul Luca a adormit ȋn Domnul ȋn anul 1961. Este canonizat ȋn anul 1966, iar Moaştele sale au fost aşezate ȋn Catedrala din Simferopol. De
+			atunci şi până acum multe minuni au apărut şi mulţi bolnavi au fost tămăduiţi la racla Sfântului. La un moment dat, am dobândit ideea frumoasă de a
+			ȋncepe demersurile pentru a putea aduce părticele din sfintele sale moaşte la Capela Spitalului Floreasca, din Bucureşti. Ne rugăm ca Sfântul Luca să
+			reverse peste cei bolnavi şi greu ȋncercaţi de suferinţă, vindecările sale miraculoase !</p>
+			]]>
+		</Item1Content>
+		<Item1Author><![CDATA[Dr. Radu Țincu<br /><a href="mailto:r_tincu@yahoo.com">r_tincu@yahoo.com</a>]]></Item1Author>
+	</Articole>
+	<Doneaza>
+		<Title><![CDATA[Doneaza]]></Title>
+		<Content>
+			<![CDATA[
+			<h2 class="NoPadding">PUTEŢI FACE O DONAŢIE ÎN BANI!</h2>
+			<i>(pentru persoanele fizice)</i><br /><br />
+
+			<p>Donaţi periodic sau ocazional o sumă de bani pentru o cauză pe care o puteţi alege dumneavoastră.</p>
+			<p>Donaţiile vor fi folosite în folosul persoanelor vulnerabile ,care ni se adreseaza. Va suntem profund recunoscatori! Fară sprijinul
+			Dvs financiar, multe activităţi de susţinere materiala a pacientilor  nu ar fi putea avea loc.</p>
+
+			<h3>Cum puteţi dona?</h3>
+
+			<p>- Contactându-ne la 0724 726 756<br />
+			- Prin virament bancar în contul Asociaţiei Neurocare<br />
+				&nbsp;&nbsp;Cont Lei: RO21BRDE445SV26604894450 (cont deschis la BRD, sucursala Triumf Bucureşti)</p>
+		
+			<br /><br />
+			<h2 class="NoPadding">PUTEŢI FACE O SPONSORIZARE!</h2>
+			<i>(pentru persoanele juridice)</i><br /><br />
+
+			<h3 class="NoPadding">Dacă sunteţi factor de decizie într-o companie, sponsorizaţi una din acţiunile asociaţiei, iar suma oferită vi se poate deduce din impozit.</h3>
+			<p>O parte dintre proiectele derulate de Asociaţia Neurocare beneficiază de sprijin financiar din partea unor persoane juridice  din România.
+			Apreciem foarte mult implicarea lor socială! Şi firma d-voastră poate să susţină pacientiii să înceapă o viaţă nouă!</p>
+
+			<h3>Cine poate sponsoriza?</h3>
+			<p>Orice agent economic care are profit poate alege ca o parte din impozitul pe profit datorat statului să fie direcţionat către un ONG.
+			În cazul contribuabililor persoane juridice, adică al agenţilor economici, există o serie de cheltuieli deductibile. Chiar dacă deductibilitatea
+			acestor cheltuieli nu reprezintă un adevarat stimulent fiscal ea ajută totuşi în luarea deciziei de a sprijini o organizaţie neguvernamentală.</p>
+
+			<h3>Cât de mare este suma care poate fi dedusă?</h3>
+			<p>Încheiaţi un contract de sponsorizare cu Asociaţia Neurocare şi vă deduceţi 20% din impozitul pe profit datorat statului, în limita a 3% din
+			cifra de afaceri a companiei. (art. 31 alin. 4 din Legea 571/2003 privind Codul Fiscal) Practic, acest lucru înseamnă că platiţi impozitul
+			diminuat cu contravaloarea sponsorizărilor din anul respectiv.</p>
+
+			<h3>Care este baza legală?</h3>
+			<p>Sponsorizarea reprezintă actul juridic prin care două persoane convin cu privire la transferul dreptului de proprietate asupra unor bunuri
+			materiale sau mijloace financiare în vederea susţinerii unor activităţi fără scop lucrativ desfăşurate de către una dintre părţi, denumită
+			beneficiarul sponsorizării. Potrivit legii nr. 32/1994 privind sponsorizarea, cu modificările şi completările ulterioare, sponsorizarea se
+			realizează pe bază de contract încheiat în formă scrisă între sponsor şi beneficiar, cu specificarea obiectului, valorii şi duratei sponsorizării,
+			precum şi a drepturilor şi obligaţiilor părţilor.<br />
+			În cazul unei sponsorizări constând în bunuri materiale, acestea vor fi evaluate, prin actul juridic încheiat, la valoarea lor reală în
+			momentul predării către beneficiar.</p>
+			<p>Orice firmă are dreptul să acorde sponsorizări şi peste limitele menţionate, însă pentru suma ce depaşeşte limita indicată se plăteşte impozit
+			pe profit.<br />
+			Sponsorizarea trebuie să fie înregistrată în contabilitate în anul pentru care se face plata impozitului (anul anterior momentului plăţii
+			efective). Prevederile articolului 31, alin. 4 din Legea 571/2003 privin Codul Fiscal, sunt aplicabile tuturor contribuabililor plătitori de
+			impozite pe profit, indiferent de sursele din care aceştia realizează veniturile, din Romania sau din străinatate.<br />
+			Sunt deductibile şi cheltuielile de reclamă şi publicitate efectuate în scopul popularizării firmei sau produselor în baza unui contract scris.
+			Sunt incluse în această categorie şi bunurile sau serviciile promoţionale. (art. 21.(2) d) din Legea 571/2003 privind Codul Fiscal). <br />
+			Pot fi astfel cuprinse în categoria cheltuielilor cu reclama şi deduse din baza impozabilă acţiuni cum ar fi sprijinirea unui eveniment ONG la care
+			participă un numar mai mare de persoane (concurs, inaugurare, concert, acţiune de 1 Iunie, Craciun etc). Tot aici pot fi incluse şi donaţiile de
+			produse deoarece în categoria reclamei se încadrează şi bunurile şi serviciile oferite cu titlu gratuit ca mostre. În acelaşi context pot fi
+			incluse şi sprijinirea unor publicaţii ale unor organizaţii neguvernamentale cu condiţia ca în ele să se regăsească numele/sigla/mesajul
+			sponsorului.</p>
+
+			<h3>Ce trebuie sa faceţi?</h3>
+			<p>Procedura de sponsorizare este foarte simplă. Totul se rezumă la încheierea unui contract de sponsorizare între firma şi Asociaţia Neurocare,
+			în baza căruia banii pot fi deduşi din impozitul pe profit. Virati suma în contul Asociatiei Neurocare şi specificaţi activitatea pe care doriţi
+			să o sprijiniţi. În urma folosirii sumei donate, veţi primi un raport asupra modului în care banii dumneavoastră au fost cheltuiţi şi al
+			impactului pe care l-au avut în viaţa noastra si a pacientilor nostri.</p>
+
+			<h3>Care sunt avantajele dumneavoastră ca angajator?</h3>
+			<p>Aveţi controlul asupra unei părţi din banii pe care îi datoraţi statului.<br />
+			Numele societăţii pe care o conduceţi va apărea în Raportul Anual al Asociaţiei Neurocare care este făcut public comunităţii în pagina de web.<br />
+			Această sponsorizare este un mijloc de motivare a angajaţilor care pot astfel să simtă că societatea pentru care lucrează este responsabilă
+			din punct de vedere social şi se implică.</p>
+			<p>Dacă doriţi să sponsorizaţi o activitate a asociaţiei sau aveţi nevoie de mai multe informaţii referitoare la sponsorizări, contactaţi-ne.
+			Ne-ar onora să ne fiţi alături! Vă mulţumim!</p>
+		
+			<br /><br />
+			<h2 class="NoPadding">PUTEŢI DIRECŢIONA 2% DIN IMPOZITUL PE VENIT!</h2>
+			<i>(pentru persoanele fizice)</i><br /><br />
+
+			<h3>Directionaţi 2% din impozitul pe care îl plătiţi statului spre finanţarea programelor asociaţiilor.</h3>
+			<h3>Ce reprezinta 2%?</h3>
+			<p>Contribuabilii persoane fizice pot dispune asupra destinaţiei unei sume reprezentând pana la 2% din impozitul pe venitul anual datorat statului,
+			conform art. 57 alin. (4) si art. 84 alin. (2) din Ordonanţa de Urgenţă a Guvernului nr. 138/2004 pentru modificarea şi completarea Legii privind
+			Codul Fiscal nr. 571/2003 şi aplicată prin Legea nr. 163/2005. Astfel persoanele fizice pot sponsoriza entităţile nonprofit care funcţionează
+			conform O.G. 26/2000 cu privire la asociaţii şi fundaţii.</p>
+
+			<h3>Alegeti cum să fie folosit 2% din impozit!</h3>
+			<p>Puteţi decide în mod direct ce se întămplă cu impozitele plătite de dvs. direcţionând 2% către o organizaţie neguvernamentală.<br />
+			Această operaţiune nu vă costă nimic. Astfel vă puteţi implica fără nici un fel de costuri suplimentare, în sustinerea unor cauze sociale
+			importante.<br />
+			Aveţi de completat şi depus doar un formular la Fisc până la data de 15 mai 2011. Dacă nu folosiţi această opţiune, suma respectivă rămâne să fie
+			încasată şi gestionată de stat.</p>
+
+			<h3>Ce nu este prevederea 2%?</h3>
+			<p>Direcţionarea a 2% din impozitul pe venit nu este o donaţie şi nicio sponsorizare!<br />
+			Este vorba de o sumă datorată statului (ca impozit) dar puteţi decide modul şi cui va fi ea alocată.<br />
+			2% NU inseamnă costuri suplimentare pentru contribuabil, ci o parte din ceea ce oricum statul ia. Cu alte cuvinte, în loc să ia 100%, statul
+			primeşte de la dvs. doar 98%, iar restul de 2% îl direcţionează acolo unde îi spuneţi dvs.<br />
+			Direcţionarea a 2% nu este o metodă legală de fraudă fiscală! Nu aveţi dreptul să cereţi nici un fel de beneficii financiare sau de altă natură
+			organizaţiei către care aţi direcţionat 2%.<br />
+			2% NU au nicio legatură cu cei 2% pe care îi direcţionaţi către fondul de pensii private.</p>
+
+			<h3>De ce să direcţionaţi 2% către Asociaţia Neurocare?</h3>
+			<p>Puteţi astfel să ajutaţi pacientii si pe noi sa oferim asistenta medicala de calitate şi să decideţi către cine merg impozitele dvs.
+			Direcţionarea a 2% nu este o obligaţie ci reprezintă o opţiune care contribuie la eficientizarea cheltuirii banului public.<br />
+			Nici o autoritate a statului, nici o organizaţie sau angajatorul dvs., nu vă pot obliga să faceţi acest lucru.<br />
+			Fiind o organizaţie nonprofit, resursele nostre sunt limitate iar marea majoritate a activităţilor noastre sunt realizate prin sponsorizări
+			şi donaţii.</p>
+
+			<h3>Cum să direcţionaţi 2% Asociaţia Neurocare?</h3>
+			<p>Declaraţia de venit global se depune la Administraţia Finanţelor Publice personal sau prin poştă (din localitatea în care aveţi domiciliul
+			în buletin sau cartea de identitate).<br />
+			Adresele administraţiilor financiare sunt publicate pe site-ul ANAF.</p>
+			<p><b>Atenţie!</b><br />
+			Dacă nu stiţi suma exactă reprezentând cei 2%, lasaţi casuţa respectivă necompletată. Organele fiscale au obligaţia să o calculeze şi să o
+			completeze corespunzator.</p>
+ 
+			<p><b><a name="formular230" class="Anchor">Dacă sunteţi salariat(a), angajat pe bază de contract individual de muncă sau funcţionar public
+			sau dacă aţi obţinut venituri asimilate salariilor (indemnizaţia administratorului, indemnizaţia directorilor, asociaţilor unici, suma din
+			profitul net, cuvenită administratorilor la companii/societăţi naţionale, remuneraţia primită de preşedintele asociaţiei de proprietari,
+			etc.:</a></b></p>
+			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular230_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Pagina doneaza']);">Formularul 230</a>
+			"Cerere privind destinaţia sumei reprezentând pâna la 2% din impozitul pe venitul anual şi deducerea
+			cheltuielilor efectuate pentru economisirea în sistem colectiv pentru domeniul locativ" .pdf (poate fi obţinut gratuit şi de la orice
+			administraţie financiară).<br />
+			- Tipăriţi formularul (1 pagina) în două exemplare.</p>
+
+			<p>Declaraţia se completează înscriind cu majuscule, citeţ şi corect, datele prevăzute de formular.<br />
+			Completaţi ambele exemplare astfel:</p>
+			<p>Anul: 2010<br />
+			I. DATE DE IDENTIFICARE A CONTRIBUABILULUI: nume, iniţiala tatălui, prenume, CNP, adresa de domiciliu.</p>
+			<p>II. DESTINAŢIA SUMEI REPREZENTÂND PANÂ LA 2% DIN IMPOZITUL ANUAL, POTRIVIT ART. 57 ALIN. (4) DIN LEGEA NR. 571/2003, se bifează casuţa
+			corespunzatoare:<br />
+			(1. Bursă privată: nu se bifează şi se lasă necompletat/se barează).<br />
+			2. Susţinerea unei entităţi nonprofit/unităţi de cult: Suma — se completează cu suma donată sau nu se completază, în situaţia în care nu se
+			cunoaşte suma care poate fi virată, organul fiscal va calcula şi vira suma conform legii. Denumirea completă a entităţii nonprofit/unităţii de
+			cult. Codul de identificare fiscală al entitatii nonprofit/unităţii de cult. Cont bancar (IBAN) al entităţii nonprofit/unităţii de cult.</p>
+			<p>III. Se lasă necompletat/se barează.<br />
+			- Semnaţi.<br />
+			- Pentru veniturile realizate în anul 2010, formularul de redirecţionare a 2% din impozitul pe venit se completează în doua exemplare, din care
+			una se depune la organul fiscal în a cărui rază teritorială aveţi adresa de domiciliul potrivit legii sau adresa unde locuiţi efectiv, în cazul
+			în care aceasta este diferită de domiciliu (pentru persoanele fizice care au domiciliul fiscal în România), sau la organul fiscal în a cărui
+			rază teritorială se află sursa de venit, pentru ceilalţi contribuabili persoane fizice.<br />
+			- Formularele se depun până la data de 15 mai 2011 inclusiv, direct la registratura organului fiscal, la oficiul poştal, prin scrisoare
+			recomandată sau la sediul nostru iar noi o vom depune pentru dvs. la Administraţia Financiară.<br />
+			- Copia se pastrează de către dvs.</p>
+
+			<p><b><a name="formular200" class="Anchor">Dacă aţi realizat în anul 2010 venituri din alte surse (PFA sistem real, PFA norme de venit, profesii
+			liberale – medic, avocat, notar, expert contabil, arhitect, chirii, căştiguri din investiţii, drepturi de autor, activităţi agricole,
+			etc.)</a></b>, aveţi obligaţia legală (cu excepţia PFA norme de venit) să depuneţi la administraţia financiară o Declaraţie privind veniturile
+			realizate de dvs. în anul anterior, Formularul 200. Cu acelaşi formular, într-o rubrică separată, se poate dona 2% din impozitul datorat astfel
+			(mai multe detalii la: <a href="http://declaratia200.ro/" target="_blank">http://declaratia200.ro/</a>):</p>
+			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular200_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Pagina doneaza']);">Formularul 200</a>
+			"Declaraţie privind veniturile realizate" .pdf (poate fi obţinut gratuit şi de la orice administraţie financiară).<br />
+			- Tipăriţi formularul (5 pagini) în 2 exemplare.</p>
+			<p>Declaraţia se completează înscriind cu majuscule, citeţ şi corect, datele prevăzute de formular.<br />
+			Completaţi ambele exemplare astfel:</p>
+			<p>Anul: 2010<br />
+			I. DATE DE IDENTIFICARE A CONTRIBUABILULUI: nume, iniţiala tatălui, prenume, CNP, adresa de domiciliu.</p>
+			<p>II. DATE PRIVIND VENITURILE REALIZATE PE SURSE ŞI CATEGORII DE VENIT: se completează cu informaţii despre veniturile realizate în anul anterior
+			conform instrucţiunilor.</p>
+			<p>III. DESTINAŢIA SUMEI REPREZENTÂND 2% DIN IMPOZITUL DATORAT PE VENITUL NET ANUAL IMPOZABIL/CAŞTIGUL NET ANUAL, se bifează casuţa
+			corespunzatoare:<br />
+			(1. Bursa privată: nu se bifează şi se lasă necompletat/se barează).<br />
+			2. Susţinerea unei entităţi nonprofit/unităţi de cult: Suma — se completează cu suma donată sau nu se completază, în situaţia în care nu se
+			cunoaşte suma care poate fi virată, organul fiscal va calcula şi vira suma  conform legii. Denumirea completă a entităţii nonprofit/unităţii de
+			cult. Codul de identificare fiscală al entităţii nonprofit/unităţii de cult. Cont bancar (IBAN) al entităţii nonprofit/unităţii de cult.</p>
+			<p>IV. Se lasă necompletat/se barează/se completează numai în cazul în care obligaţiile de declarare a veniturilor se îndeplinesc de catre
+			reprezentantul fiscal desemnat de contribuabil.<br />
+			- Anexati documentele care justifică veniturile realizate.<br />
+			- Semnaţi.<br />
+			- Pentru veniturile realizate în anul 2010, formularul de redirecţionare a 2% din impozitul pe venit se completează în două exemplare, din care
+			una se depune la organul fiscal în a cărui rază teritorială aveţi adresa de domiciliu potrivit legii sau adresa unde locuiţi efectiv, în cazul
+			în care aceasta este diferită de domiciliu (pentru persoanele fizice care au domiciliul fiscal în România), sau la organul fiscal în a cărui
+			rază teritorială se află sursa de venit, pentru ceilalţi contribuabili persoane fizice.<br />
+			- Formularele se depun până la data de 15 mai 2011 inclusiv, direct la registratura organului fiscal, la oficiul poştal, prin scrisoare
+			recomandată sau la sediul nostru iar noi o vom depune pentru dvs. la Administraţia Financiară.<br />
+			- Copia se pastreaza de catre dvs.</p>
+ 
+			<p><b>Dacă aţi realizat venituri şi din salarii şi din alte surse</b> completaţi şi depuneţi ambele formulare 230 si 200, cel târziu până la
+			data de 15 mai 2011.</p>
+ 
+			<h3>Care sunt datele noastre?</h3>
+			<p>Denumire entitate nonprofit: Asociaţia Neurocare<br />
+			Codul de identificare fiscală a entităţii nonprofit: 27768141<br />
+			Cont bancar (IBAN) al entităţii nonprofit: RO21BRDE445SV26604894450 (cont deschis la BRD, sucursala Triumf Bucureşti)</p>
+ 
+			<p>Vă rugăm să completaţi cu atenţie toate datele, inclusiv datele organizaţiei: nume, cod fiscal şi cont bancar.<br />
+			Atentie! Contul bancar în format IBAN are 24 de caractere!</p>
+ 
+			<p>Pentru mai multe informaţii legate de activitaţile noastre, vă rugăm nu ezitaţi să ne contactaţi!<br />
+			Ne-ar onora să ne fiţi alături! Vă mulţumim!</p>
+			]]>
+		</Content>
+	</Doneaza>
+	<Scop>
+		<Title><![CDATA[Scop şi obiective]]></Title>
+		<Head><![CDATA[Scop şi obiective]]></Head>
+		<Content>
+			<![CDATA[
+			<ul>
+				<li>Atragerea de fonduri materiale şi financiare pentru finanţarea activitatii desfasurate de catre medicii asociatiei in sectiile de neurologie /neurochirurgie din spitale;</li>
+				<li>Atragerea de fonduri materiale şi financiare pentru finanţarea activitatii instituţiilor şi organizaţiilor care preiau persoanele cu afectiuni neurologice/neurochirirgicale;</li>
+				<li>Atragerea de fonduri materiale şi financiare pentru finanţarea activitatii instituţiilor şi organizaţiilor culturale şi sportive pentru proiectele care privesc persoanele cu afectiuni neurologice/neurochirugicale;</li>
+				<li>Infiinţarea şi finanţarea unor centre medicale moderne de diagnostic, tratament şi cercetare a afectiunilor neurologice/neurochirugicale;</li>
+				<li>înfiinţarea şi finanţarea centrelor de recuperare pentru persoanele cu afectiuni neurologice/neurochirurgicale;</li>
+				<li>organizarea de activităţi lucrative pentru persoanele cu afectiuni neurologice/neurochirurgicale;</li>
+				<li>organizarea de cursuri pentru instruirea specialiştilor, asistenţilor sociali, voluntarilor cu preocupări în afectiuni neurologice/neurochirugicale, precum şi a întreţinătorilor persoanele cu afectiuni neurologice/neurochirugicale;</li>
+				<li>organizarea de activităţi care să sensibilizeze societatea civilă şi să influenţeze mentalitatea acesteia privitor la persoanele cu afectiuni neurologice/neurochirugicale;</li>
+				<li>asigurarea managementului unor organizaţii şi asociaţii neguvernamentale din domeniul social, educativ, cultural-sportiv, pentru proiecte relative la persoanele cu afectiuni neurologice/neurochirugicale;</li>
+				<li>organizarea de simpozioane, mese rotunde, întâlniri şi contacte între specialiştii români şi străini;</li>
+				<li>traducerea, editarea, tipărirea şi publicarea de cărţi, reviste, CD-uri şi alte materiale audio-video de specialitate, pentru sprijinirea activităţilor asociatiei;</li>
+				<li>înfiinţarea unei biblioteci de specialitate în folosul specialiştilor sau a oricărei persoane cu preocupări în domeniul neurologiei/neurochirugie;</li>
+				<li>constituirea de fonduri pentru acordarea de burse de studii specialiştilor  în formare;</li>
+				<li>întreţinerea unor relaţii de colaborare cu alte fundaţii, organizaţii şi asociaţii din ţară şi străinătate.</li>
+			</ul>
+			]]>
+		</Content>
+	</Scop>
+	<Sponsori>
+		<Title><![CDATA[Sponsori]]></Title>
+		<Head><![CDATA[Sponsori]]></Head>
+		<Content>
+			<![CDATA[
+			<ul>
+				<li><a href="http://zenyth.ro/" target="_blank">Zenyth Pharmaceuticals</a></li>
+				<li><a href="http://asociatia.drumulpotcoavei.ro/" target="_blank">Asociaţia Zona Drumul Potcoavei</a></li>
+				<li>Familia Corina şi Florin Mălureanu</li>
+				<li>Adela Chirică</li>
+				<li>Nicolae Sota</li>
+				<li><a href="http://www.elaptepraf.ro" target="_blank" title="lapte praf humana">Elaptepraf.ro (lapte praf)</a></li>
+				<li><a href="http://www.romegacontrol.ro" target="_blank">Ro-Mega Control</a></li>
+			</ul>
+			]]>
+		</Content>
+	</Sponsori>
 </translations>

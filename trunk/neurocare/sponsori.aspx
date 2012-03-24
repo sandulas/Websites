@@ -1,20 +1,12 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Columns.master" AutoEventWireup="true" CodeFile="sponsori.aspx.cs" Inherits="sponsori" %>
 
 <asp:Content ContentPlaceHolderID="head" runat="server">
-	<title>Asociaţia Neurocare - Sponsori</title>
+	<title><%= "TitlePrefix".T("Sponsori") + "Title".T("Sponsori")%></title>
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">
 
-<h2>Sponsori</h2>
-<ul>
-	<li><a href="http://zenyth.ro/" target="_blank">Zenyth Pharmaceuticals</a></li>
-	<li><a href="http://asociatia.drumulpotcoavei.ro/" target="_blank">Asociaţia Zona Drumul Potcoavei</a></li>
-	<li>Familia Corina şi Florin Mălureanu</li>
-	<li>Adela Chirică</li>
-	<li>Nicolae Sota</li>
-	<li><a href="http://www.elaptepraf.ro" target="_blank" title="lapte praf humana">Elaptepraf.ro (lapte praf)</a></li>
-	<li><a href="http://www.romegacontrol.ro" target="_blank">Ro-Mega Control</a></li>
-</ul>
+<h2><%= "Head".T("Sponsori")%></h2>
+<%= "Content".T("Sponsori")%>
 
 </asp:Content>
