@@ -115,6 +115,6 @@
 <asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
 
 	<asp:HyperLink NavigateUrl="~/articole/vindecarea-omului-bolnav.aspx" runat="server">
-		<asp:Image ImageUrl="~/Images/Articole/vindecarea-omului-bolnav.jpg" CssClass="General MarT16" Width="288" Height="200"	AlternateText="Vindecarea Omului Bolnav" runat="server" /></asp:HyperLink>
+		<asp:Image ImageUrl="~/Images/Articole/vindecarea-omului-bolnav.jpg" CssClass="General MarT16" Width="288" Height="200"	runat="server" /></asp:HyperLink>
 
 </asp:Content>
