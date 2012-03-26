@@ -91,5 +91,16 @@ public partial class Main : System.Web.UI.MasterPage
 
 		if (Page.Master.GetType() == typeof(ASP.main_master)) ContentCssClass = "ContentFull";
 		else ContentCssClass = "ContentColumns";
+
+	}
+
+	protected void RoButton_Click(object sender, EventArgs e)
+	{
+		Session["Language"] = 1;
+	}
+
+	protected void EnButton_Click(object sender, EventArgs e)
+	{
+		Session["Language"] = 2;
 	}
 }
