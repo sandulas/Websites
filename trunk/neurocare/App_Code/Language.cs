@@ -23,7 +23,14 @@ namespace Neurocare
 
 		public static int GetCurrent()
 		{
-			return (int)Languages.Romanian;
+			try
+			{
+				return (int)AppTools.Session["Language"];
+			}
+			catch
+			{
+				return (int)Languages.Romanian;
+			}
 		}
 
 		public static string GetPath(int languageId)
