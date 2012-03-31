@@ -60,11 +60,9 @@
 		<asp:HyperLink NavigateUrl="~/" runat="server">
 			<img src="<%= ResolveUrl("~/App/Images/Logo.gif")%>" width="236" height="81" alt="Logo Neurocare" /></asp:HyperLink>
 	</div>
-	<div style="float: right; padding: 70px 210px 0 0;">
-	<asp:LinkButton Id="RoButton" OnClick="RoButton_Click" runat="server">
-		<asp:Image ImageUrl="~/App/Images/Ro.jpg" style="margin-left: 20px;" runat="server" /></asp:LinkButton>
-	<asp:LinkButton Id="EnButton" OnClick="EnButton_Click" runat="server">
-		<asp:Image ImageUrl="~/App/Images/En.jpg" style="margin-left: 20px;" runat="server" /></asp:LinkButton>
+	<div id="languages">
+		<asp:LinkButton Id="RoButton" OnClick="RoButton_Click" CssClass="Ro" runat="server">&nbsp;</asp:LinkButton>
+		<asp:LinkButton Id="EnButton" OnClick="EnButton_Click" CssClass="En" runat="server">&nbsp;</asp:LinkButton>
 	</div>
 	<div id="headerMessage"><p><%= "Motto".T("Master") %></p></div>
 </div>

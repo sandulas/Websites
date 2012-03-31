@@ -90,6 +90,36 @@ IMG
 	float: left;
 }
 
+#main #header #languages
+{
+	float: right; padding: 70px 210px 0 0;
+}
+#main #header #languages A
+{
+	margin-left: 20px;
+	display: block; float: left;
+	height: 27px;
+}
+#main #header #languages A:hover
+{
+	text-decoration: none;
+	background-position: 0 -27px;
+}
+#main #header #languages A.Selected
+{
+	background-position: 0 -27px;
+}
+#main #header #languages .Ro
+{
+	width: 86px;
+	background: url(../Images/Ro.jpg) no-repeat;
+}
+#main #header #languages .En
+{
+	width: 82px;
+	background: url(../Images/En.jpg) no-repeat;
+}
+
 #main #headerMessage
 {
 	padding: 30px 0px 0 150px;
