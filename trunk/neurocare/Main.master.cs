@@ -103,4 +103,20 @@ public partial class Main : System.Web.UI.MasterPage
 	{
 		Session["Language"] = 2;
 	}
+
+	protected override void OnPreRender(EventArgs e)
+	{
+		base.OnPreRender(e);
+		if (Language.GetCurrent() == (int)Languages.Romanian)
+		{
+			RoButton.CssClass = "Ro Selected";
+			EnButton.CssClass = "En";
+		}
+		if (Language.GetCurrent() == (int)Languages.English)
+		{
+			EnButton.CssClass = "En Selected";
+			RoButton.CssClass = "Ro";
+		}
+	}
+	 
 }
