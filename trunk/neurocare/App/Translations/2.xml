@@ -42,9 +42,6 @@
 		<Menu2><![CDATA[Aim and objectives]]></Menu2>
 		<Menu3><![CDATA[Cases]]></Menu3>
 		<Menu4><![CDATA[Media]]></Menu4>
-		<Menu41><![CDATA[xxx]]></Menu41>
-		<Menu42><![CDATA[The man who beat four cancer types in a year]]></Menu42>
-		<Menu43><![CDATA[xxx]]></Menu43>
 		<Menu5><![CDATA[Sponsors]]></Menu5>
 		<Menu6><![CDATA[Donate]]></Menu6>
 		<Menu7><![CDATA[Contact]]></Menu7>
@@ -188,258 +185,260 @@
 		</ContentRight2>
 	</Contact>
 	<Cazuri>
-		<Title><![CDATA[Cazuri]]></Title>
-		<Head><![CDATA[Cazuri]]></Head>
-		<Item1Title><![CDATA[Povestea Sorinei]]></Item1Title>
+		<Title><![CDATA[Cases]]></Title>
+		<Head><![CDATA[Cases]]></Head>
+		<Item1Title><![CDATA[Sorina's story]]></Item1Title>
 		<Item2Title><![CDATA[Darius Preda]]></Item2Title>
-		<Item3Title><![CDATA[Un alt fel de exerciţiu de admiraţie]]></Item3Title>
-		<Item4Title><![CDATA[Povestea Sarei]]></Item4Title>
+		<Item3Title><![CDATA[Paying homage]]></Item3Title>
+		<Item4Title><![CDATA[Sara's story]]></Item4Title>
 		<Item1Content>
 			<![CDATA[
-			<p>Era o dimineaţă ca oricare alta; sau cel puţin aşa părea... De la Dorohoi, via Bacău, venea o fetiţă de 4 ani adusă in braţe de către
-			mămica ei. Am intrat în salon pentru vizita de dimineaţă. Mama stătea in picioare lângă pătuţul cu gratii, iar copilul, speriat parca
-			de tot ce e in jurul său, nu putea să mergă, avea trei membre paralizate, iar ochii... ochii aceia cu irisul lângă baza nasului mă
-			priveau speriaţi, cu lacrimile curgând pe obraji!</p><br />
+			<p>It was a morning like any other; or at least it seemed so... From Dorohoi, via Bacău, a little girl came, carried in the arms of
+			her mother. I came into the ward for the morning visit. The mother was standing next to the bed, and the child, scared of everything
+			around her, couldn't walk, she had three paralysed limbs, and her eyes... Those eyes were watching me so fearfully, tears running
+			down her cheeks!</p><br />
 
 			<img src="##app_root##/Images/Sorina1.jpg" class="Content" alt="" />
 
-			<p>Prima mea intrebare a fost: fetiţa a fost dintotdeauna aşa? Iar răspunsul a fost nu. Copilul începuse să aibă ameţeli, tulburări de
-			mers, iar mai apoi imposibilitatea de a merge, concomitent cu apariţia strabismului convergent bilateral de aproape 3 luni.Pentru a
-			mă convinge, mama îmi arată o filmare făcută de ziua Sorinei şi văd o fetiţă în rochiţă albastră, superbă, care alerga fericită către
-			locul unde ştia că o aşteaptă prietenii şi familia ei. La aproape o lună de la de la acest moment ceva se întamplă cu Sorina. ALTFEL.</p>
+			<p>My first questions was: has the little girl always been like this? And the answer was 'no'. The child started to experience some
+			dizziness, walking disorders, and then the impossibility to walk at all, at the same time when an alternating convergent strabismus
+			appeared three months ago. In order to prove this, the mother showed me a video filmed on Sorina's birthday and I saw a beautiful
+			little girl in a blue dress, running happily towards the place where she knew her friends and family were waiting for her. Almost a
+			month later, something happened to Sorina. Something DIFFERENT.</p>
 			<br />
 
-			<p>Sorina nu era la prima întâlnire cu spitalul: destinul ei se scria la şase luni de la naştere, cand moartea i-a fost incredibil de
-			aproape. Este diagnosticată cu Mononucleoză infecţioasă şi ziarele locale de la acel moment o prezentau ca pe un caz disperat cu
-			puţine şanse de viaţă. A fost în comă. S-a aflat că măduva osoasă a fetiţei are un defect care nu o ajută să aibă o imunitate
-			competentă.</p>
+			<p>It wasn't Sorina's first experience with a hospital: her destiny was being written six months after she was born, when she was very
+			close to dying. She was diagnosed with infectious mononucleosis and the local newspapers presented her at the time as a desperate case
+			with few chances to survive. She was in a coma. It was discovered that the little girl's bone marrow had a defect that prevented her
+			from having a strong immune system.</p>
 			<br />
 			<img src="##app_root##/Images/Sorina2.jpg" class="Content" alt="" />
 
-			<p>Dumnezeu a vrut să trăiască atunci, însă la momentul întălnirii noastre situaţia era serioasă. După investigaţii amănunţite, aflăm că
-			întreg sistemul nervos central era afectat, probabil de un virus, iar noi nu ştiam cât de stabilă era starea ei. Însă încrederea unui
-			om minunat care ne susţinea şi ne privea cu speranţă, mama Sorinei, a făcut să găsim soluţia pentru a reda fetiţei viaţa.</p>
+			<p>God had wanted her to live then, but by the time we met the situation was serious. After detailed investigations, we discovered
+			that the whole central nervous system was affected, probably by a virus, and we couldn't tell how stable her condition was. But the
+			trust of an amazing person, who hopefully supported and watched us, Sorina's mother, helped us find the solution needed to give the
+			little girl her life back.</p>
 			<br />
 
-			<p>Drama intervine, parcă infinit mai meschină, abia acum: totul se poate relua oricând de la capăt! Medicii hematologi care o îngrijesc
-			pe Sorina îi fac periodic teste, pentru a verifica competenţa măduvei osoase... dar putem oare şti?</p>
+			<p>But the drama isn't gone even now, and it seems even more insidious: everything could start all over again! The hematologists that
+			take care of Sorina test her periodically, in order to check the capability of the bone marrow... But can we know for sure?</p>
 			<br />
 
-			<p>Ce putem face noi pentru un copil şi o mămică din Dorohoi, unde apa le-a venit in vara lui 2010 până la scara? Ele au strâns jucării
-			şi au gătit pentru copiii cu casele inundate! Au putut!</p>
+			<p>What can we do for a child and a mother from Dorohoi, where people were flooded in the summer of 2010? They collected toys and
+			cooked for the children with flooded houses! They could do something!</p>
 			]]>
 		</Item1Content>
-		<Item1Author><![CDATA[Dr. Magda Sandu, decembrie 2010]]></Item1Author>
+		<Item1Author><![CDATA[Dr. Magda Sandu, December 2010]]></Item1Author>
 		<Item2Content>
 			<![CDATA[
 			<img src="##app_root##/Images/Darius1.jpg" class="Content" alt="" />
 
-			<p>De fiecare dată când un copil vine la spitalul nostru, sunt multe lucruri pe care le observi la prima intalnire...din punct de
-			vedere uman şi medical. De ce Darius mi-a atins sufletul? Pentru că ochii lui tot timpul zâmbesc. Poate doar în urma crizelor
-			epileptice se umbresc pentru o scurtă vreme. Chiar dacă, de obicei, fiecare criză epileptică înseamnă ştergerea progreselor făcute
-			cu mult exerciţiu, copilul acesta de doi ani iţi dăruieşte din priviri maximum de afecţiune şi speranţă.</p>
+			<p>Every time a child comes to our hospital, there are many things you notice during the first meeting... both from a human and from
+			a medical point of view. Why has Darius touched my heart? Because his eyes smile all the time. Maybe just after his epileptic
+			seizures a shadow covers his eyes for a short while. Even if every epileptic seizure usually means the erasing of all the progress
+			obtained with a lot of effort, you can see in his eyes all the affection and hope this two-year-old child has to offer.</p>
 			<br />
 
-			<p>La patru luni de viaţă, Darius intră în status epileptic undeva într-un sat din Dâmboviţa. Asta înseamnă că a convulsionat mai
-			mult de 15 minute şi viaţa lui se putea sfârşi atunci. A ajuns la Bucureşti, în spitalul nostru investigaţiile arătând că suferise
-			un accident vascular cerebral hemoragic cu hemipareză dreaptă. Este o boală genetică, având în vedere că unul din bunici a avut
-			accident vascular la 4 ani? Investigaţiile pe aceasta linie costa foarte mult.</p>
+			<p>When he was 4 months old, Darius entered a status epilepticus in a village in Dâmboviţa. This means he had a seizure for more than
+			15 minutes and his life could have ended then. He arrived in Bucharest, and in our hospital the investigations revealed that he had
+			suffered a hemorrhagic stroke with right-side hemiparesis. Is it a genetic disorder, considering that one grandparent had a stroke
+			when he was 4 years old? The investigations needed in order to trace this are very expensive.</p>
 			<br />
 			<img src="##app_root##/Images/Darius2.jpg" class="Content" alt="" />
 
-			<p>Noi ne-am străduit în spital să desluşim cât mai mult din ceea ce ar putea să îi rezerve viitorul lui Darius. Dar dorinţele noastre
-			de a-l ajuta se izbesc inevitabil de acelaşi obstacol - e prea scump să ai un copil bolnav. Preţul sufletesc nu ajunge. Astfel că
-			trebuie să ne mulţumim cu a-l ajuta să nu mai facă crize epileptice (cu trei medicamente anticonvulsivante) şi cu kinetoterapie pentru
-			piciorul şi mâna dreaptă.</p>
+			<p>In this hospital we have tried to throw as much light as possible on what the future could hold for Darius. But our wishes to help
+			him always hit the same wall - it is too expensive to have a sick child. The price you pay with your heart is not enough. So we have
+			to content ourselves with helping him not have other epileptic seizures (with three anticonvulsants) and with kinesiotherapy for his
+			right hand and leg.</p>
 			<br />
 
-			<p>În momentul ăsta ochii lui vorbesc mai mult decât o mie de cuvinte, el dorind să meargă (acum doar cu ghete ortopedice – prea scumpe
-			pentru ca părinţii să i le procure la timp), să se joace, să fie sănătos, acasă.</p>
+			<p>At the present his eyes are telling more than a thousand words could; he wants to walk (now possible just with orthopedic
+			shoes - too expensive for his parents to buy in time), to play, to be healthy, to be at home.</p>
 			<br />
 
-			<p>De aproximativ 2 ani, trăiesc el şi mama lui, mai mult în spital. Noi îl vedem mai mult decât toată familia sa.</p>
+			<p>For approximately two years, he and his mother have lived mostly in the hospital. We see him more often than his own family does.</p>
 			]]>
 		</Item2Content>
-		<Item2Author><![CDATA[Dr. Magda Sandu, ianuarie 2011]]></Item2Author>
+		<Item2Author><![CDATA[Dr. Magda Sandu, January 2011]]></Item2Author>
 		<Item3Content>
 			<![CDATA[
-			<p>De fiecare dată când vin acasă, sun scurt la uşă, gândindu-mă că poate baieţelul meu doarme; dar de cele mai multe ori îl aud
-			chiuind şi spune: <i>Bibi</i> (adica bona lui)<i>, a venit mami! Aduc camionul!</i> Când intru în casă, el mă întâmpină vijelios călare
-			pe betoniera-jucărie şi incepe să spună repede, sărind peste multe din cuvinte, că a facut boacăne...şi mi le înşiră într-un
-			suflet...are doi ani şi jumătate.</p>
+			<p>Every time I come home I ring the doorbell just once, thinking that maybe my son is asleep; but most of the times I hear him
+			calling: <i>Bibi</i> (that's his nanny) <i>, mommy's home! I'll get the truck!</i> When I come in, he welcomes me as he's riding his
+			toy-truck and starts to tell me quickly, skipping words, that he's done some things he shouldn't have... and he tells me everything
+			hardly stopping to take a breath... he's two and a half years old.</p>
 			<br />
 			<img src="##app_root##/Images/Exercitiu-de-admiratie1.jpg" class="Content" alt="" />
 
-			<p>În sufletul meu urcă lacrimi şi-mi spun: <i>Doamne, îţi mulţumesc!</i> Imediat gândul îmi fuge către mama lui George, sau a lui
-			Darius, sau a Cristinei, sau a Ionelei...(copii care vin în spitalul nostru) şi nu pot să nu mă intreb: de ce ele nu au acelaşi noroc?
-			De ce trebuie să fie copiii bolnavi? Cărui scop divin ar putea servi o suferinţă de copil?</p>
+			<p>I feel like crying and I say: <i>God, thank you!</i> And I start thinking of the mothers of George, Darius, or Cristina, or
+			Ionela... (children who come in our hospital) and I can't stop asking myself: why aren't they as lucky as me? Why do children have
+			to be sick? What divine purpose could a child's suffering have?</p>
 			<br />
 
-			<p>Poate că nu voi reuşi să înţeleg niciodată asta, însă în căutarea unui răspuns pot incerca să învăţ cum e să fii mamă...de la ele!
-			Ceea ce voi scrie acum este un umil exerciţiu de admiraţie pentru nişte femei, care nu contenesc în a mă uimi. Ele aşteaptă cu atât de
-			multă speranţă în ochi, de fiecare dată când ne vedem, un semn că viitorul va fi altfel decât prezentul. De cate ori poate, şi-au
-			văzut cu ochii sufletului copiii mergând la gradiniţă, sau la şcoală în prima zi, sau cu coroniţa pe cap la serbare, spunând poezii
-			sau suflând în lumânările de pe tort? De câte ori şi-au văzut copiii dormind şi realitatea părea ireală? În inima lor dor întrebări;
-			mi le mai adresează uneori, dar ştiu că nu se aşteaptă să le dau un răspuns credibil...poate doar o alinare, un cuvânt, că cineva
-			înţelege ce înseamnă să te sublimezi ca fiinţă, ca femeie, într-o entitate unică: Mama.</p>
+			<p>I may never come to understand that, but while searching for an answer, I can try to learn how to be a mother... from them! What
+			I am about to write now is a humble homage for some women who never cease to amaze me. I can see the hope in their eyes, everytime
+			we meet, waiting for a sign that the future will be different than the present. How many times have they imagined their children
+			going to kindergarden or to their first day at school, at a school play reciting poems or blowing the candles on their birthday
+			cake? How many times have they watched their children sleeping and thought the reality was not real? Questions hurt their hearts;
+			they ask me these questions sometimes, but I know they don't expect me to give them a credible answer... maybe just a comforting
+			word, a sign that someone understands what it means to forget yourself as a being, as a woman, and become just this: Mother.</p>
 			<br />
 			<img src="##app_root##/Images/Exercitiu-de-admiratie2.jpg" class="Content" alt="" />
 
-			<p>Dacă voi, cei care cititi întâmplător aceste rânduri, credeţi că puteţi defini "sacrificiul", mai gândiţi-vă! V-aţi putea uita cu
-			desăvârşire ca fiinte, necontând NIMIC în afara unui zâmbet, al unei strângeri de mână sau al unui pas timid făcut de copilul vostru?
-			De fiecare dată când vorbesc cu Mamele acestor copii, simt că eu aş vrea să le intreb atâtea! Le-aş asculta ore în şir povestind şi
-			le-aş privi în continuu îmbrăţisându-şi sufletele dragi. Zic suflete, pentru că mă gândesc la George, pe care boala lui nu îl lasă,
-			la 4 ani, să îşi îmbrăţişeze mama; sau măcar să o cheme când are nevoie de ea. Dar nici nu-i nevoie, căci Ea este tot timpul acolo.
-			El este suflet mai presus de orice...La aproape trei ani, a învăţat să îi zâmbească mamei.</p>
+			<p>If you, who are accidentally reading these lines, if you think you can define "sacrifice", think again! Could you completely
+			forget yourselves as human beings, disregarding EVERYTHING ELSE except a smile, the holding of your hand, a timid step your child
+			took? Everytime I speak with the mothers of these children, I feel there are so many things I want to ask them! I would listen to
+			them and I would watch them for hours, hugging their beloved angels. I say angels because I'm thinking of George, whose illness
+			prevents him, a 4-year old boy, from hugging his mother; or even from calling her when he needs her. But he doesn't have to, because
+			She's always there for him... He is spirit more than anything... When he was almost three years old, he learned how to smile to
+			his mother.</p>
 			<br />
 			<img src="##app_root##/Images/Exercitiu-de-admiratie3.jpg" class="Content" alt="" />
 
-			<p>Mă gândesc la Ileana Ispas şi la Ionela Agavriloaie, pentru care anul trebuie să aibă 365 de 8 martie şi tot nu ar fi de ajuns.
-			La mama lui Alexandru Nuţă, care îmi zâmbeşte în fiecare dimineaţă când intru în salon, chiar dacă copilul ei face crize în fiecare
-			zi. Ea zâmbeşte pentru ca el să o vadă zâmbind şi nu plângând, în timp ce îl mângâie. Pentru ca el să poată merge mai departe.</p>
+			<p>I'm thinking of Ileana Ispas and of Ionela Agavriloaie, for which the year should have 365 Mother's Days and it still wouldn't be
+			enough. Of Alexandru Nuţă's mother, who smiles at me every morning when I come into the ward, although her son has daily seizures.
+			She smiles so he can see her smiling and not crying, while she soothes him. So he can keep going.</p>
 			<br />
 
-			<p>Pentru toate acestea şi pentru fiecare lecţie pe care ele mi-o oferă, le mulţumesc! Într-o lume mascată şi superficială, ele îmi
-			oferă senzaţia că ţin în palmă o inimă bătând, că simt emoţia lor devenind emoţia mea. Poţi oare recompensa asta vreodată?</p>
+			<p>For all these and for every lesson they are teaching me, I thank them! In a false and shallow world, they make me feel as if I
+			hold a beating heart in my hand, and their feelings become my feelings. Can I ever repay them for that?</p>
 			]]>
 		</Item3Content>
-		<Item3Author><![CDATA[Dr. Magda Sandu, martie 2011]]></Item3Author>
+		<Item3Author><![CDATA[Dr. Magda Sandu, March 2011]]></Item3Author>
 		<Item4Content>
 		<![CDATA[
-		<p>Sara, o fetiță în vârstă de 4 luni care nu și-a privit în ochi niciodată mama...chemată în Ceruri mult prea devreme, chiar când se năștea micuța.</p>
+		<p>Sara, a 4-month old baby girl who has never looked into her mother's eyes ... for her mother went to Heaven much too soon, giving birth to her.</p>
 		<br />
 
-		<p>Am cunoscut-o în urmă cu o lună când a fost adusă în clinică – sever afectată neurologic printr-o naștere extrem de laborioasă, lipsită de căldura
-		sufletului și pieptului matern, nici măcar nu putea să bea lăpticul singură – trebuia să îi fie administrat pe sondă direct în stomăcel.</p>
+		<p>I met her a month ago, when she was brought to the clinic - she had severe neurological disorders following an extremely difficult labour;
+		deprived of her mother's affection and breast feeding, she couldn't even drink her milk by herself - this had to be administered via a
+		feeding tube directly into her stomach.</p>
 
-		<p>Era însoțită de o bunică extraordinară, cu o putere psihică greu de imaginat. Deși greu încercată căci își pierduse fiica de curând, îi oferea
-		micuței tot sprijinul pentru a putea face față sorții grele – neîntrerupt lângă ea, o hrănea pe sondă, o schimba, o legăna, încerca să îi ofere
-		alinare în orice clipă. Și nu a fost ușor, căci micuța era agitată, cu respirație greoaie, făcea convulsii numeroase zilnice.</p>
+		<p>She was accompanied by her grandmother, an extraordinary woman with an unbelievable psychological strength. Although she had gone through a
+		horrible ordeal when recently losing her daughter, she offered her granddaughter all the necessary support to help her cope - she was always
+		by her side, feeding her through the tube, changing her, rocking her, trying to comfort her every minute. And it wasn't easy, as the baby girl
+		was agitated, had trouble breathing, and had numerous daily seizures.</p>
 		<br />
 
-		<p>Timp de o lună ne-am străduit să îi oprim crizele. Și vârsta, și greutatea mică nu ne permiteau să folosim o gamă prea variată de anticonvulsivante.</p>
+		<p>For a month we tried to stop her seizures. Both her age and her low weight didn't allow us to use a varied range of anticonvulsants.</p>
 
-		<p>Cele două bunici ale fetiței nu au dormit zile în șir, făcând cu schimbul lângă pătuțul Sarei. Ziua asistând la lupta noastră cu crizele,
-		cu tulburările de respirație și de alimentație, noaptea încercând să aline agitația micuței care nu dormea nici un minut.</p>
+		<p>The baby girl's two grandmothers didn't sleep for days in a row, taking turns in looking after Sara. By day they watched us fight with the
+		seizures, with the breathing and feeding disorders, and by night they tried to comfort the agitated little girl who didn't sleep at all.</p>
 
-		<p>Este dificil să privești un sugar care doarme tot timpul încordat, cu pumnii strânși, parcă s-ar lupta continuu pentru viața lui.</p>
+		<p>It is difficult to watch a newborn that always sleeps stiffly, with tense fists, as if she is incessantly fighting for her life.</p>
 		<br />
 
-		<p>Dar iată că Bunul Dumnezeu ne-a ajutat și după nesfârșite încercări convulsiile s-au rărit și ne-am facut curaj să-i scoatem sonda, să încercăm
-		să îi dăm lăpticul la biberon. Nu a fost posibil, căci Sara nu știa nici să sugă, nici să înghită. Dar nu am renunțat. Cu răbdare, infirmierele și
-		asistentele noastre au reușit să îi dea lăpticul cu seringa - prima masă de acest fel a durat o oră...</p>
+		<p>But God helped us and after numerous attempts the seizures became rarer and we tried to remover her feeding tube and use the baby bottle to
+		give her the milk. It wasn't possible, because Sara didn't know how to suck or to swallow. But we didn't give up. Patiently, our nurses managed
+		to give her the milk with a syringe - her first meal administed like this lasted an hour...</p>
 		<br />
 
-		<p>Nu mi-am putut imagina până acum bucuria de a vedea că un pacient primește de trei zile laptele cu seringa sau cu biberon special. Iar imaginea
-		Sarei dormind prima dată relaxată, cu mânuțele ei mici destinse, ca un îngeraș, îmi stăruie zi și noapte în minte.</p>
+		<p>I couldn't imagine until then the joy of seeing that a patient has received her milk through a syringe or a special baby bottle for three days.
+		And the image of Sara sleeping relaxed for the first time, with her tiny hands opened, like a little angel, is still with me day and night.</p>
 		<br />
 
-		<p>Deși știu că suntem încă în luptă continuă ca fetița aceasta cu față de îngeraș să recupereze din marea traumă a nașterii, mă încred în Dumnezeu
-		că acești mici pași sunt unii făcuți spre o stare tot mai bună a micii noastre paciente.</p>
+		<p>Although I know we are still fighting so that this baby girl with the face of an angel recovers after the trauma of her birth, I trust in God
+		that these small steps are leading towards a better medical condition of our little patient.</p>
 
-		<p>Și nu mă pot opri să mă rog continuu ca băiețelul meu de trei ani să fie sănătos, ca și bebelușul pe care sunt nerăbdătoare să îl privesc pentru
-		prima dată peste mai puțin de 2 luni, iar eu să pot să le ofer copiilor mei tot ce e mai bun pentru ei.</p>
+		<p>And I can't stop praying that my three-year old son continues to be healthy, as the baby that I'm looking forward to see for the first time
+		in less than 2 months, and that I should be able to offer my children everything they will need.</p>
 		]]>
-	</Item4Content>
-		<Item4Author><![CDATA[Dr. Diana Epure, noiembrie 2011]]></Item4Author>
-		<RightHead1><![CDATA[Povestea Sorinei]]></RightHead1>
+		</Item4Content>
+		<Item4Author><![CDATA[Dr. Diana Epure, November 2011]]></Item4Author>
+		<RightHead1><![CDATA[Sorina's story]]></RightHead1>
 		<RightContent1>
 			<![CDATA[
-			<img src="##app_root##/Images/Sorina2.jpg" class="Feature" alt="Foto mama 2" />
-			<p>Era o dimineaţă ca oricare alta; sau cel puţin aşa părea... De la Dorohoi, via Bacău, venea o fetiţă de 4 ani adusă in braţe
-			de către mămica ei. Am intrat în salon pentru vizita de dimineaţă. Mama stătea in picioare lângă pătuţul cu gratii, iar copilul,
-			speriat parca de tot ce e in jurul său, nu putea să mergă, avea trei membre paralizate, iar ochii...
-			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">citeşte mai departe</a></p>
+			<img src="##app_root##/Images/Sorina2.jpg" class="Feature" />
+			<p>It was a morning like any other; or at least it seemed so... From Dorohoi, via Bacău, a little girl came, carried in the arms of
+			her mother. I came into the ward for the morning visit. The mother was standing next to the bed, and the child, scared of everything
+			around her, couldn't walk, she had three paralysed limbs, and her eyes...
+			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">xxx</a></p>
 			]]>
 		</RightContent1>
 	</Cazuri>
 	<Presa>
-		<TitlePrefix><![CDATA[Asociaţia Neurocare - Presă - ]]></TitlePrefix>
-		<Title><![CDATA[Presă]]></Title>
-		<Head><![CDATA[Presă]]></Head>
-		<Item1Title><![CDATA[Instructor de schi tratat de Dr. Dan Teleanu]]></Item1Title>
-		<Item1Head><![CDATA[Vali Căciulă îşi revine!]]></Item1Head>
-		<Item2Title><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Item2Title>
-		<Item2Head><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Item2Head>
-		<Item3Title><![CDATA[Dr. Dan Teleanu la "Doctore, ești un erou!"]]></Item3Title>
-		<Item3Head><![CDATA[Medicul Dan Teleanu, neurochirurgul care a inteles ca aparatura de top nu este totul]]></Item3Head>
+		<TitlePrefix><![CDATA[Neurocare Association - Media - ]]></TitlePrefix>
+		<Title><![CDATA[Media]]></Title>
+		<Head><![CDATA[Media]]></Head>
+		<Item1Title><![CDATA[xxx]]></Item1Title>
+		<Item1Head><![CDATA[Vali Căciulă is getting better!]]></Item1Head>
+		<Item2Title><![CDATA[The man who beat four cancer types in a year]]></Item2Title>
+		<Item2Head><![CDATA[The man who beat four cancer types in a year]]></Item2Head>
+		<Item3Title><![CDATA[xxx]]></Item3Title>
+		<Item3Head><![CDATA[Doctor Dan Teleanu, the neurosurgeon who understood that cutting edge technology isn't everything]]></Item3Head>
 		<Item1Content>
 			<![CDATA[
-			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
+			<h3>The medical condition of Vali Căciulă, the most famous ski instructor in Romania, is continously improving.</h3>
 
-			<p>Veşti din ce în ce mai bune pentru cei care îl cunosc pe Vali Căciulă. Operat de două ori pe creier, instructorul de schi din
-			Sinaia se simte din ce în ce mai bine. <i>"Starea sa de sănătate este din ce în ce mai bună. A început să mănânce. Sunt optimist!"</i>,
-			spune Codruţ Căciulă, fiul marelui instructor de schi.</p>
+			<p>Better and better news for those who know Vali Căciulă. After two brain surgeries, the ski instructor from Sinaia feels better
+			every day. <i>"His health is continously improving. He started to eat. I'm optimistic!"</i>, says Codruţ Căciulă, the son of the
+			great ski instructor.</p>
 
-			<p>Acelaşi optimism îl afişează şi medicul <b>Dan Teleanu</b>, cel care l-a repus pe picioare pe Căciulă Senior în cadrul Secţiei
-			de Neurochirurgie de la Spitalul Universitar din Bucureşti. "<i>Acum se simte mai bine. Se deplasează la toaletă, mănâncă singur,
-			vorbeşte... A făcut progrese mari, chiar dacă încă mai are probleme din când în când. Vineri sau luni s-ar putea să-l externăm"</i>,
-			a declarat medicul care l-a ridicat din zăpadă pe Vali Căciulă şi l-a pus din nou pe schiuri.</p>
+			<p>His optimism is shared by the doctor <b>Dan Teleanu</b>, who operated on Căciulă Senior at the Neuorosurgery department of
+			Spitalul Universitar (University Hospital) from Bucharest. <i>"Now he feels better. He goes to the bathroom and eats by himself,
+			he talks... He made great progress, even if he still has problems from time to time. On Friday or Monday we could release him"</i>,
+			declared the doctor who picked up Vali Căciulă from the snow and put him back on the skis.</p>
 
-			<p>Mai departe, instructorul de schi trebuie să urmeze un program de recuperare foarte strict. Costurile pentru acest proces sunt
-			foarte ridicate, astfel că toţi cei care doresc să-l ajute pe sinăian o pot face trimiţând bani în conturile:
-			RO82INGB0000999900635852 - pentru lei şi pentru euro - RO39INGB0000999901661043 deschise la ING Bank. Conturile sunt deschise pe
-			numele Căciulă Constantin Codruţ.</p>
+			<p>After this, the ski instructor has to follow a very strict recovery programme. The costs of this process are very high, so anyone
+			who wants to help him can do this by donating money to the accounts: RO82INGB0000999900635852 - for lei and for euro -
+			RO39INGB0000999901661043 opened with ING Bank. The accounts are opened under the name Căciulă Constantin Codruţ.</p>
 			]]>
 		</Item1Content>
 		<Item1Author>
 			<![CDATA[
-			Sursa: schiromania.ro, 23 Februarie 2011<br />
+			Source: schiromania.ro, 23 February 2011<br />
 			<a href="http://www.schiromania.ro/2011/02/23/vali-caciula-isi-revine/" target="_blank">http://www.schiromania.ro/2011/02/23/vali-caciula-isi-revine/</a>
 			]]>
 		</Item1Author>
 		<Item2Content>
 			<![CDATA[
-			<h3>Ultimul impas a fost depăşit acum două săptămâni, când i s-a îndepărtat tumora cerebrală.</h3>
+			<h3>The last obstacle was overcome two weeks ago, when his brain tumor was removed.</h3>
 
 			<img src="##app_root##/Images/Presa/Articol1.jpg" class="General" align="middle" width="425" height="262"><br />
-			<p class="Author">Foto: Silviu Ciobanu</p>
+			<p class="Author">Photo: Silviu Ciobanu</p>
 
-			<p>Slăbuţ la trup şi cu capul bandajat, Florian se ridică sprinten din pat când mă vede intrând în salon. Soţia este alături de el şi
-			asta-l face să treacă mai uşor peste necaz. Până anul trecut nu avusese niciodată probleme de sănătate. În aprilie 2010, s-a dus la o
-			clinică privată din Galaţi să-şi scoată o gâlmă ca o boabă de fasole care-i apăruse la subraţ. În timp ce aştepta rezultatele
-			biopsiei, într-o noapte a simţit o durere groaznică de cap. În scurt timp, bărbatul de 42 de ani avea să afle că suferă de melanom,
-			de tumoră la creier şi de metastaze la plămâni. <i>"Medicii au spus atunci că tumorile la creier nu se pot opera. Am făcut
-			chimioterapie şi cobaltoterapie şi, după câteva luni, o parte dintre ele au dispărut de tot. În urma tratamentului, au dispărut şi
-			metastazele de la plămâni"</i>, spune Florian. În decembrie, anul trecut, Florian a aflat că avea metastaze şi pe intestinul subţire.
-			Avea greţuri, tot ce mânca îi venea înapoi, şi avea dureri care-i treceau cu algocalmin. S-a operat şi a scăpat şi de aceste
-			metastaze.</p>
+			<p>Thin and with a bandaged head, Florin quickly gets out of bed when he sees me coming into the ward. His wife is by his side and
+			this makes it easier for him to deal with his problems. Until last year he hadn't had any health issues. In April 2010 he went to a
+			private clinic in Galati to have a swelling mass removed - it was as big as a bean and it had appeared on his armpit. While he was
+			waiting for the biopsy results, he experienced a terrible headache one night. In a short time, the 42-year-old man would find out
+			that he suffered from melanoma, brain tumor and lung metastasis. <i>"The doctors said at the time that the brain tumors are
+			inoperable. I underwent chemotherapy and cobalt therapy and, after a few months, a part of them disappeared completely. After the
+			treatment, the lung metastasis disappeared as well"</i>, says Florian. In December last year Florian found out that he also had
+			small intestine metastasis. He felt nauseous, he couldn't keep the food down, and he had pains which would pass only with Metamizole.
+			After surgery these disappeared as well.</p>
 
-			<h3>Operaţia la creier a durat patru ore</h3>
+			<h3>The brain surgery lasted four hours</h3>
 
-			<p>Florian a venit la Spitalul Universitar din Bucureşti în urmă cu două săptămâni pentru a vedea ce se poate face cu tumora care-i
-			mai rămăsese la creier. Medicul i-a spus că se poate opera. <i>"Intervenţia a durat patru ore şi a constat în extirparea metastazei
-			cerebrale. Operaţia este complexă, are risc de sângerare şi trebuie să fim foarte atenţi să nu atingem structuri din creier care l-ar
-			putea lăsa pe pacient cu deficit postoperator neurologic"</i>, explică Dan Teleanu, medic primar neurochirurg la Spitalul Universitar din
-			Bucureşti. Acesta mai spune că, în cazul lui Florian, şansele de supravieţuire depind de cât de bine este controlat melanomul.
-			Florian nu are voie să mai consume alcool şi cafea şi trebuie să se ferească să mai stea cu capul în soare. În caz contrar, riscă să
-			aibă crize epileptice.</p>
+			<p>Florian came to Spitalul Universitar (University Hospital) in Bucharest two weeks ago to see what could be done about the brain
+			tumor. The doctor said it could be operated on. <i>"The surgery lasted four hours and it implied removing the brain metastasis. It
+			is a complex procedure, with bleeding risks, and we had to be very careful not to touch brain structures that would leave the patient
+			with a neurological postop deficit"</i>, as Dan Teleanu, neurosurgeon at the Spitalul Universitar (University Hospital) in Bucharest,
+			explains. He also says that, in Florin's case, the survival chances depend on how well the melanoma is controled. Florian is not
+			allowed to drink coffee or alcohol anymore, and he mustn't expose his head to the sun. Otherwise he risks having epileptic seizures.</p>
 
-			<h3>"Nenorocirile astea se întâmplă când eşti mai liniştit"</h3>
+			<h3>"These tragedies happen when you least expect them to"</h3>
 
-			<p>Stilul de viaţă dezordonat, alimentaţia nesănătoasă şi poluarea fac ca tumorile cerebrale să apară şi la persoane de 30-40 de ani.
-			În unele cazuri, tumorile pot avea cauze secundare, ca în situaţia lui Florian. Spre exemplu, o femeie care a avut cancer la sân sau
-			un bărbat cu cancer pulmonar riscă să facă şi metastaze cerebrale. Tumorile mai pot apărea şi fără un motiv foarte bine cunoscut.
-			"Tumorile cerebrale benigne pot apărea la femeile cu multe sarcini din cauze hormonale sau la pacienţi de 60-70 de ani", spune Dan
-			Teleanu.</p>
+			<p>A chaotic lifestyle, an unhealthy diet and pollution cause brain tumors to appear even with people who are 30-40 years old. In some
+			cases, the tumors can have secondary origins, as in Florian's case. For example, a woman who had breast cancer or a man with lung cancer
+			present the risk of brain metastasis as well. Tumors can also appear without a well-known cause. <i>"Benign brain tumors can appear
+			with women with multiple pregnancies due to hormonal issues or with patients who are 60-70 years old"</i>, says Dan Teleanu.</p>
 
-			<p>Cea mai periculoasă formă de cancer la creier, glioblastomul, apare însă mai frecvent la bărbaţi, iar rata de supravieţuire este
-			de 8 luni. Durerile de cap, crizele epileptice, tulburările de vedere, pareza pe partea tumorii şi un deficit de câmp vizual sunt
-			semnele unei tumori cerebrale. Pentru a surprinde boala din timp, medicii recomandă un control neurologic o dată pe an, după vârsta
-			de 35 de ani. <i>"Nenorocirile astea se întâmplă când eşti mai liniştit. Eram fericit la maximum când am aflat că sunt bolnav. Acum îmi
-			doresc să trăiesc măcar până la 50 de ani, să mă pun pe picioare, să mă duc la serviciu şi să am grijă de fetiţa mea de 10 ani"</i>,
-			spune Florian care nu-şi explică de ce s-a îmbolnăvit. <i>"Alcool beam ocazional şi n-am mai pus gura pe ţigară din 1995. Mişcare am
-			făcut mereu. Doar de dulciuri ce am mai abuzat, pentru că-mi plac foarte mult. Poate că m-am îmbolnăvit pentru că am stat mult în
-			soare. De mic îmi plăcea să înot şi apoi am lucrat toată viaţa pe vapor în soare"</i>, caută el să găsească un răspuns.</p>
+			<p>The most dangerous form of brain cancer, glioblastoma, is more frequent in men, and the survival rate is of 8 months. Headaches,
+			epileptic seizures, sight disorders, paresis on the side of the tumor and an eyesight deficit are the signs of a brain tumor. To catch
+			the disease eraly, the doctors recommend a neurological consult once a year after the age of 35. <i>"These tragedies happen when you
+			least expect them to. I had been very happy before I found out I was sick. Now I want to live until I am at least 50 years old, to get
+			well, to go to work and to take care of my 10-year-old daughter"</i>, says Florian, who can't find an explanation why he got sick.
+			<i>"I only drank alcohol occasionally and I haven't touched a cigarette since 1995. I have always done exercise. I just ate a lot of
+			sweets, because I have a sweet tooth. Maybe I got sick for having stayed in the sun too much. I have enjoyed swimming since I was a kid,
+			and then I worked on a ship in the sun all my life"</i>, he says as he tries to find an answer.</p>
 
-			<p><i>"Operaţia prin care se îndepărtează tumora cerebrală are risc de sângerare şi trebuie să fim foarte atenţi să nu atingem
-			structuri din creier care l-ar putea lăsa pe pacient cu deficit postoperator neurologic."</i><br />
-			<b>DAN TELEANU</b>, neurochirurg</p>
+			<p><i>"The surgery to remove the brain metastasis has bleeding risks, and we have to be very careful not to touch brain structures that
+			would leave the patient with a neurological postop deficit"</i><br />
+			<b>DAN TELEANU</b>, neurosurgeon</p>
 			]]>
 		</Item2Content>
 		<Item2Author>
 			<![CDATA[
-			Sursa: romanialibera.ro, 15 Martie 2011<br />
+			Source: romanialibera.ro, 15 March 2011<br />
 			<a href="http://www.romanialibera.ro/stil-de-viata/sanatate/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an-219465.html" target="_blank">
 			http://www.romanialibera.ro/stil-de-viata/sanatate/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an-219465.html</a>]]></Item2Author>
 		<Item3Content>
@@ -447,31 +446,30 @@
 			<iframe src='http://www.stirileprotv.ro/lbin/video_embed.php?media_id=60529786&section=20330&video_section_id=' frameborder='0' style='width: 400px; height: 330px;' scrolling="no"></iframe>
 
 			<br /><br />
-			<h3>De 15 ani, un urias bland vindeca o parte a corpului nostru despre care specialistii declara ca stim prea putin - creierul uman.</h3>
+			<h3>For 15 years, a kind giant has been healing a part of our body specialists declare they know too little about - the human brain.</h3>
 
 			<br />
-			<p>Sunt interventii pe care putini stiu sa le faca, dar si mai putini au curajul sa le inceapa.</p>
+			<p>There are interventions few know how to do, and even fewer have the courage to tackle them.</p>
 
-			<p>Chirurgia pe creier era, cand a facut el facultatea, pura avangarda. De atunci, Dan Teleanu a vazut si a tratat sute de tumori canceroase.</p>
+			<p>When he attended university, brain surgery was pure avant-gardism. Since then, Dan Teleanu has seen and treated hundreds of tumors.</p>
 
-			<p>Sunt interventii pe care putini stiu sa le faca, dar si mai putini au curajul sa le inceapa.</p>
+			<p>He's 44 years old, and he is seen as a rare example of kindness by those whose future hangs by a thread. That is, by the biopsy that
+			will give them a verdict - was it malignant or not? During a few months spent in Germany, the doctor understood that cutting edge
+			technology isn't everything.</p>
 
-			<p>La 44 de ani, e privit ca un exemplu rar de blandete de cei al caror viitorul atarna de un fir de par. Adica de biopsia care le da un
-			verdict - a fost sau n-a fost malign? In cateva luni petrecute in Germania, medicul a inteles insa ca aparatura de top nu e totul.</p>
+			<p>This was confirmed with Cornel, a 28-year-old patient who lived with a simple headache. In pictures, the brain issue was not easily
+			detected. The young man thinks he was lucky.</p>
 
-			<p>S-a verificat si la Cornel, un pacient de 28 de ani, care a dus pe picioare o simpla durere de cap. In poze, problema la creier s-a vazut
-			greu. Tanarul crede ca a avut noroc.</p>
+			<p>Another patient operated on by Teleanu and cured, in just a year, of four cancer types, would say that he met a gifted man.</p>
 
-			<p>Un alt bolnav operat de Teleanu si vindecat, in numai un an, de patru forme de cancer, ar spune ca a dat peste un om daruit.</p>
+			<p>He has two children, whom he sees less than he would like and than they would all deserve.</p>
 
-			<p>Are doi copii, pe care ii vede mai putin decat ar vrea si ar merita cu totii.</p>
-
-			<p>Si de fapt, tot de la sotie, neurolog pediatru, cere ajutor pentru pacientii copii.</p>
+			<p>But it is still his wife, a pediatric neurologist, that he asks for help with his patients who are children.</p>
 			]]>
 		</Item3Content>
 		<Item3Author>
 			<![CDATA[
-			Sursa: stirileprotv.ro, 23 Noiembrie 2011<br />
+			Source: stirileprotv.ro, 23 November 2011<br />
 			<a href="http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html" target="_blank">
 			http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html</a>]]></Item3Author>
 	</Presa>
