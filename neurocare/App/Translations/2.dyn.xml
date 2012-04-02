@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <translations>
 	<TestSection>
-		<TestText><![CDATA[Test Text from Custom XML]]></TestText>
+		<TestText><![CDATA[English text]]></TestText>
 	</TestSection>
 </translations>

@@ -364,6 +364,8 @@
 		<Item2Head><![CDATA[Bărbatul care a învins patru forme de cancer într-un an]]></Item2Head>
 		<Item3Title><![CDATA[Dr. Dan Teleanu la "Doctore, ești un erou!"]]></Item3Title>
 		<Item3Head><![CDATA[Medicul Dan Teleanu, neurochirurgul care a inteles ca aparatura de top nu este totul]]></Item3Head>
+		<Item4Title><![CDATA[Dr. Radu Țincu - Vindecarea omului bolnav]]></Item4Title>
+		<Item4Head><![CDATA[Vindecarea omului bolnav]]></Item4Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
@@ -473,11 +475,7 @@
 			Sursa: stirileprotv.ro, 23 Noiembrie 2011<br />
 			<a href="http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html" target="_blank">
 			http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html</a>]]></Item3Author>
-	</Presa>
-	<Articole>
-		<TitlePrefix><![CDATA[Asociaţia Neurocare - Articole - ]]></TitlePrefix>
-		<Item1Title><![CDATA[Vindecarea omului bolnav]]></Item1Title>
-		<Item1Content>
+		<Item4Content>
 			<![CDATA[
 			Dr. Radu Țincu (<a href="mailto:r_tincu@yahoo.com">r_tincu@yahoo.com</a>)<br /><br />
 			<img src="##app_root##/Images/Articole/vindecarea-omului-bolnav.jpg" class="General MarR12" align="left" width="250" />
@@ -617,9 +615,13 @@
 			ȋncepe demersurile pentru a putea aduce părticele din sfintele sale moaşte la Capela Spitalului Floreasca, din Bucureşti. Ne rugăm ca Sfântul Luca să
 			reverse peste cei bolnavi şi greu ȋncercaţi de suferinţă, vindecările sale miraculoase !</p>
 			]]>
-		</Item1Content>
-		<Item1Author><![CDATA[Dr. Radu Țincu<br /><a href="mailto:r_tincu@yahoo.com">r_tincu@yahoo.com</a>]]></Item1Author>
-	</Articole>
+		</Item4Content>
+		<Item4Author>
+			<![CDATA[
+			Dr. Radu Țincu<br />
+			<a href="mailto:r_tincu@yahoo.com">r_tincu@yahoo.com</a>]]>
+		</Item4Author>
+	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donează]]></Title>
 		<Content>
@@ -847,6 +849,9 @@
 				<li>Nicolae Sota</li>
 				<li><a href="http://www.elaptepraf.ro" target="_blank" title="lapte praf humana">Elaptepraf.ro (lapte praf)</a></li>
 				<li><a href="http://www.romegacontrol.ro" target="_blank">Ro-Mega Control</a></li>
+				<li>Adriana Stere</li>
+				<li>Daniel Angelescu</li>
+				<li>Ionela Iordachi</li>
 			</ul>
 			]]>
 		</Content>
