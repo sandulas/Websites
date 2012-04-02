@@ -308,8 +308,10 @@ namespace Neurocare
 		public static string TText(this string text, XElement section)
 		{
 			string ret = section.Element(text).Value;
-			
-			ret = ret.Replace("##app_root##", AppTools.Request.ApplicationPath);
+			if (AppTools.Request.ApplicationPath != "/")
+				ret = ret.Replace("##app_root##", AppTools.Request.ApplicationPath);
+			else
+				ret = ret.Replace("##app_root##", "");
 			
 			return ret;
 		}
