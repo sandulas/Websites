@@ -37,14 +37,6 @@
 		</li>
 		<li>
 			<a href="javascript:;">
-				<%= "Content3Title3".T("Home")%>
-				<span>
-					<%= "Content3Description3".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li>
-			<a href="javascript:;">
 				<%= "Content3Title4".T("Home")%>
 				<span>
 					<%= "Content3Description4".T("Home")%>
@@ -59,8 +51,7 @@
 				</span>
 			</a>
 		</li>
-
-		<li class="Col2 Top">
+		<li>
 			<a href="javascript:;">
 				<%= "Content3Title6".T("Home")%>
 				<span>
@@ -68,7 +59,8 @@
 				</span>
 			</a>
 		</li>
-		<li class="Col2">
+		
+		<li class="Col2 Top"">
 			<a href="javascript:;">
 				<%= "Content3Title7".T("Home")%>
 				<span>
@@ -101,7 +93,7 @@
 			</a>
 		</li>
 	</ol>
-	<br /><br /><br /><br />
+	<br /><br /><br /><br /><br/><br/>
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
