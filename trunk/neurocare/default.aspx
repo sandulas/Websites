@@ -97,9 +97,12 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
-	
 	<div style="background: #f6f6f6;">
 		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
 	</div>
 	<br /><br />
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
+	<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 288px;" runat="server" />
 </asp:Content>
