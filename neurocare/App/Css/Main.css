@@ -340,11 +340,6 @@ IMG.Content
 	float: left;
 	margin-right: 12px;
 }
-IMG.General
-{
-	border: solid 2px #fff;
-}
-
 IMG.Feature
 {
 	width: 100px;
@@ -353,6 +348,15 @@ IMG.Feature
 	float: left;
 	margin-right: 12px;
 }
+IMG.General
+{
+	border: solid 2px #fff;
+}
+IMG.GeneralWhite
+{
+	border: solid 2px #b8d5a6;
+}
+
 DIV.DownloadItem
 {
 	overflow: auto;
