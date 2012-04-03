@@ -11,7 +11,7 @@
 		<title>LA Training Room</title>
 	</asp:ContentPlaceHolder>
 		
-	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=2" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=3" />
 	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
 	<script type="text/javascript" src="App/Js/prototype.js"></script>
 	<script type="text/javascript" src="App/Js/scriptaculous.js?load=effects,builder"></script>

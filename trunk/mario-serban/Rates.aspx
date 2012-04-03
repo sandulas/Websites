@@ -17,8 +17,19 @@
 
 	<h1>LA Training Room Rates</h1>
 
-	<h2 class="PadT10">Fitness and Pilates</h2>
-	<p class="Color3"><b>If you are a first time costumer purchase 12 training or Pilates sessions and receive 5 additional sessions for free. Limited time offer.</b></p>
+	<h2 class="PadT10"><b>Fitness and Pilates</b></h2>
+	<p class="Color3 Big">Special Offer: 50% OFF on all fitness and Pilates training.</p>
+
+	<h2 class="PadT10">Pilates Mat Classes</h2>
+	<p class="NoPadding">Mat classes are for no more than 8 participants per session and are great for beginners to intermediate.<br />This is a great opportunity to strengthen your core, back and gluts.</p>
+	<p class="Color2 NoPadding">5 classes: $100 | 10 classes: $200</p>
+	<p class="Small">Please call the studio for scheduling and current times.</p>
+
+	<h2 class="PadT10">Shake your Booty Classes</h2>
+	<p class="NoPadding">This ultrafast pace fitness class is designed to work every little part of your body with great results. It includes plyometrics, Pilates and cardio with the objective to get you slim and fit.</p>
+	<p class="Color2">5 classes: $130 | 10 classes: $220</p>
+	<p class="NoPadding">No more than 6 per class.</p>
+	<p class="Small">Please call the studio for scheduling and current times.</p>
 
 	<h2 class="PadT10">Individual Training</h2>
 	<p class="NoPadding">In this one hour session we are working one-on-one with clients to design and implement a proper strength & conditioning program for each individual's level of exercise.</p>
@@ -36,8 +47,8 @@
 	<p class="NoPadding">This is a private one-on-one session with Mario and is designed to achieve core strength, flexibility and lean muscle tone.</p>
 	<p class="Color2">One hour: $45 | 6 sessions: $230 | 12 sessions: $420</p>  
 
-	<h2 class="PadT10">Massage Services</h2>
-	<p class="Color3"><b>If you are first time costumer get any Massage treatment at full price and get the second one (of equal or lesser value) for free. Limited time offer.</b></p>
+	<h2 class="PadT10"><b>Massage Services</b></h2>
+	<p class="Color3 Big">Special Offer: 50% OFF on your first hour massage.</p>
      
 	<h2 class="PadT10">Sports Massage</h2>
 	<p class="NoPadding">Sports Massage is a unique combination of muscle stretching and high impact massage    techniques designated for active people and athletes. The main purpose of this massage is to enhance muscle fitness and reduce potential injuries.</p>
@@ -63,6 +74,7 @@
 	<p class="NoPadding">This massage helps alleviate side effects from cancer treatment procedures. It also increases relaxation and decreases muscle tension.</p>
 	<p class="Color2">One Hour: $85 | Hour and a half: $130</p>
 
+	<br />
 	LATR has a 24 hours cancelation policy. Cash and all major credit cards are accepted.
 	By appointment only. To schedule a session or treatment please call: 323-272-3506.
 
