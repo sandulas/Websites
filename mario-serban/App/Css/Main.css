@@ -85,6 +85,15 @@ P.Color3
 {
 	color: #ee0000;
 }
+P.Big
+{
+	font-size: 18px;
+	line-height: 35px;
+}
+P.Small
+{
+	font-size: 11px;
+}
 INPUT.Text, TEXTAREA
 {
 	background: #ffffff;
@@ -97,7 +106,7 @@ INPUT.Text, TEXTAREA
 UL
 {
 	margin: 0;
-	padding-left:inherit;
+	padding-left: inherit;
 }
 LI
 {
@@ -197,7 +206,7 @@ LI
 	float: left;
 	width: 582px;
 	background: #ffffff;
-	min-height: 1050px;
+	min-height: 870px;
 }
 #mainimage
 {
@@ -238,6 +247,14 @@ LI
 
 /* Elements ***************************************************************************/
 
+.Box2
+{
+	background: #ffffff;
+	border: solid 1px #314350;
+	padding: 10px;
+	border-radius: 7px;
+	box-shadow: 0 0 6px 0px #aaaaaa;
+}
 
 .Box
 {

@@ -45,17 +45,23 @@
 		<li>Carpal Tunnel Syndrome</li>
 		<li>Tennis Elbow</li>
 	</ul>
+
+	<div style="position: relative;">
+		<div style="position: absolute; left: 280px; top: -150px; text-align: center; padding: 3px 10px;" class="Box2">
+			<b>Mario Serban on</b><br />
+			<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server">
+				<img src="<%= ResolveUrl("~/images/home/Shape-Magazine-Logo.gif")%>" alt="Shape Magezine Logo" /></asp:HyperLink><br />
+			&nbsp;&nbsp;&nbsp;<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server"><b>READ THE ARTICLE</b></asp:HyperLink>
+		</div>
+	</div>
 	
 	<br />
 	<p>Here at LATR our mission is to provide you with the best athletic training and the best sports and therapeutic massage ever! Don’t wait, book an
 	appointment with us at 323-272-3506.</p>
 	
 	<br />
-	<div style="text-align:center;">
-	<b>Mario Serban on</b><br />
-	<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server">
-		<img src="<%= ResolveUrl("~/images/home/Shape-Magazine-Logo.gif")%>" alt="Shape Magezine Logo" /></asp:HyperLink><br />
-	&nbsp;&nbsp;&nbsp;<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server"><b>READ THE ARTICLE</b></asp:HyperLink>
+	<div style="text-align:center; background: #f0f1f5;" class="Box2">
+		<a href="Rates.aspx"><p class="Color3 Big NoPadding">SpecialOffer: 50% OFF on your first hour massage</p></a>
 	</div>
 	
 	
