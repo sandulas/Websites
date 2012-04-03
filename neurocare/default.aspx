@@ -104,5 +104,6 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
-	<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 288px;" runat="server" />
+	<a href="http://sr-vojta.ro/" target="_blank">
+		<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 288px;" runat="server" /></a>
 </asp:Content>
