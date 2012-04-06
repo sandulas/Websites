@@ -23,13 +23,21 @@
 	<h2 class="PadT10">Pilates Mat Classes</h2>
 	<p class="NoPadding">Mat classes are for no more than 8 participants per session and are great for beginners to intermediate.<br />This is a great opportunity to strengthen your core, back and gluts.</p>
 	<p class="Color2 NoPadding">5 classes: $100 | 10 classes: $200</p>
-	<p class="Small">Please call the studio for scheduling and current times.</p>
+	<p class="Small">
+		Mon: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm<br />
+		Wed: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm<br />
+		Fri: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm
+	</p>
 
 	<h2 class="PadT10">Shake your Booty Classes</h2>
 	<p class="NoPadding">This ultrafast pace fitness class is designed to work every little part of your body with great results. It includes plyometrics, Pilates and cardio with the objective to get you slim and fit.</p>
 	<p class="Color2">5 classes: $130 | 10 classes: $220</p>
 	<p class="NoPadding">No more than 6 per class.</p>
-	<p class="Small">Please call the studio for scheduling and current times.</p>
+	<p class="Small">
+		Tue: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm<br />
+		Thu: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm<br />
+		Sat: 8am-9am | 9am-10am | 3pm-4pm | 4pm-5pm | 6pm-7pm | 7pm-8pm
+	</p>
 
 	<h2 class="PadT10">Individual Training</h2>
 	<p class="NoPadding">In this one hour session we are working one-on-one with clients to design and implement a proper strength & conditioning program for each individual's level of exercise.</p>
