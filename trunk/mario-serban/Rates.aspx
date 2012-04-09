@@ -18,7 +18,7 @@
 	<h1>LA Training Room Rates</h1>
 
 	<h2 class="PadT10"><b>Fitness and Pilates</b></h2>
-	<p class="Color3 Big">Special Offer: 50% OFF on all fitness and Pilates training.</p>
+	<%--<p class="Color3 Big">Special Offer: 50% OFF on all fitness and Pilates training.</p>--%>
 
 	<h2 class="PadT10">Pilates Mat Classes</h2>
 	<p class="NoPadding">Mat classes are for no more than 8 participants per session and are great for beginners to intermediate.<br />This is a great opportunity to strengthen your core, back and gluts.</p>
