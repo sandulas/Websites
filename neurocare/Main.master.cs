@@ -14,8 +14,8 @@ public partial class Main : System.Web.UI.MasterPage
 
 	protected void Page_Load(object sender, EventArgs e)
 	{
-		RoButton.Visible = false;
-		EnButton.Visible = false;
+		//RoButton.Visible = false;
+		//EnButton.Visible = false;
 		
 		if (Request.Url.Host.ToLower() == "www.neurocare.ro")
 		{

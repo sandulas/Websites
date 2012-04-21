@@ -5,8 +5,8 @@
 
     void Application_Start(object sender, EventArgs e) 
     {
-			//Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
-			//Translation.Reload();
+			Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
+			Translation.Reload();
 		}
     
     void Application_End(object sender, EventArgs e) 
@@ -36,8 +36,8 @@
     }
 		protected void Application_AcquireRequestState(object sender, EventArgs e)
 		{
-			Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
-			Translation.Reload();
+			//Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
+			//Translation.Reload();
 		}
 		       
 </script>

@@ -2,7 +2,7 @@
 <translations>
   <Common>
 		<TitlePrefix><![CDATA[Neurocare Association - ]]></TitlePrefix>
-    <Title><![CDATA[Neurocare Association - Join us - pentru viaţă!]]></Title>
+    <Title><![CDATA[Neurocare Association - Join us - for life!]]></Title>
 		<RightHead1><![CDATA[Paying homage]]></RightHead1>
 		<RightContent1>
 			<![CDATA[
@@ -10,34 +10,34 @@
 			<p>Every time I come home I ring the doorbell just once, thinking that maybe my son is asleep; but most of the times I hear him calling:
 			<i>Bibi</i> (that's his nanny)<i>, mommy's home! I'll get the truck!</i> When I come in, he welcomes me as he's riding his toy-truck and
 			starts to tell me quickly, skipping words...
-			<a href="##app_root##/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx">xxx</a></p>
+			<a href="##app_root##/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx">read more</a></p>
 			]]>
 		</RightContent1>
-		<RightHead2><![CDATA[xxx]]></RightHead2>
+		<RightHead2><![CDATA[Redirect 2% of your taxes to Asociatia Neurocare]]></RightHead2>
 		<RightContent2>
 			<![CDATA[
-			<p>xxx
-			<a href="##app_root##/doneaza.aspx#formular230" runat="server">xxx</a></p>
+			<p>If wages is your exclusive income, fill in the 230 form.
+			<a href="##app_root##/doneaza.aspx#formular230" runat="server">details...</a></p>
 			<div class="DownloadItem">
 				<a href="##app_root##/Files/Formular230_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);">
 					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
 				<a href="##app_root##/Files/Formular230_2012_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);">
-					xxx</a>
+					Download the 230 form</a>
 			</div>
 			<br />
-			<p>xxx
-			<a href="##app_root##/doneaza.aspx#formular200">xxx</a></p>
+			<p>If wages are not your exclusive income, fill in the 200 form.
+			<a href="##app_root##/doneaza.aspx#formular200">details...</a></p>
 			<div class="DownloadItem">
 				<a href="##app_root##/Files/Formular200_2012_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);">
 					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
 				<a href="##app_root##/Files/Formular200_2012_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);">
-					xxx</a>
+					Download the 200 form</a>
 			</div>
 			]]>
 		</RightContent2>
 	</Common>
   <Master PreviewUrl="~/">
-    <Motto><![CDATA[Join us - pentru viaţă!]]></Motto>
+    <Motto><![CDATA[Join us - for life!]]></Motto>
 		<Menu1><![CDATA[Home]]></Menu1>
 		<Menu2><![CDATA[Aim and objectives]]></Menu2>
 		<Menu3><![CDATA[Cases]]></Menu3>
@@ -82,63 +82,51 @@
 		<Content3Title1><![CDATA[Karl Storz neuroendoscope]]></Content3Title1>
 		<Content3Description1>
 			<![CDATA[
-			<p>xxx</p>
-			<p>xxx</p>
-			<p class="NoPadding">xxx</p>
+			<p>One of our optimistic and beautiful dream is to purchase a Karl Storz neuroendoscope, very useful in both cranial and spinal neurosurgery.</p>
+			<p>This device can save the life of many patients, impossible to be cured otherwise; it is expensive, but worthwhile!</p>
+			<p class="NoPadding">In our country, there are not many hospitals where this kind of surgery can be performed. The will to help is not enough, we have to be able to help!</p>
 			]]>
 		</Content3Description1>
 		<Content3Title2><![CDATA[Portable video camera]]></Content3Title2>
 		<Content3Description2>
 			<![CDATA[
-			xxx
+			We also need a small camcorder is order to film our patients and their behavior. Their seizures can be more easily analyzed and diagnosed.
 			]]>
 		</Content3Description2>
-		<Content3Title3><![CDATA[Ward sofa]]></Content3Title3>
-		<Content3Description3>
-			<![CDATA[
-			xxx
-			]]>
-		</Content3Description3>
 		<Content3Title4><![CDATA[Toys]]></Content3Title4>
 		<Content3Description4>
 			<![CDATA[
-			xxx
+			We use to give toys to our little patients, in order to make their stay more pleasant.
 			]]>
 		</Content3Description4>
 		<Content3Title5><![CDATA[Pillows]]></Content3Title5>
 		<Content3Description5>
 			<![CDATA[
-			xxx
+			We also need more pillows. The ones we have must be replaced soon.
 			]]>
 		</Content3Description5>
 		<Content3Title6><![CDATA[Blankets for the newborns]]></Content3Title6>
 		<Content3Description6>
 			<![CDATA[
-			xxx
+			We intend to buy more blankets for our smallest sick friends, because presently the parents bring their own.
 			]]>
 		</Content3Description6>
 		<Content3Title7><![CDATA[Bed carousel for the newborns]]></Content3Title7>
 		<Content3Description7>
 			<![CDATA[
-			xxx
+			The little ones also appreciate the roundabouts for their beds.
 			]]>
 		</Content3Description7>
 		<Content3Title8><![CDATA[Hospital beds with mattresses]]></Content3Title8>
 		<Content3Description8>
 			<![CDATA[
-			xxx
+			We want to change the beds along with their mattresses, because the present ones are too old.
 			]]>
 		</Content3Description8>
-		<Content3Title9><![CDATA[TVs and DVD players]]></Content3Title9>
-		<Content3Description9>
-			<![CDATA[
-			xxx
-			]]>
-		</Content3Description9>
 		<Content3Title10><![CDATA[Wall murals]]></Content3Title10>
 		<Content3Description10>
 			<![CDATA[
-			xxx
+			We want to paint the walls with familiar cartoon characters, to cheer up the atmosphere.
 			]]>
 		</Content3Description10>
 	</Home>
@@ -351,7 +339,7 @@
 			<p>It was a morning like any other; or at least it seemed so... From Dorohoi, via Bacău, a little girl came, carried in the arms of
 			her mother. I came into the ward for the morning visit. The mother was standing next to the bed, and the child, scared of everything
 			around her, couldn't walk, she had three paralysed limbs, and her eyes...
-			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">xxx</a></p>
+			<a href="##app_root##/cazuri/povestea-sorinei.aspx" runat="server">read more</a></p>
 			]]>
 		</RightContent1>
 	</Cazuri>
@@ -359,14 +347,12 @@
 		<TitlePrefix><![CDATA[Neurocare Association - Media - ]]></TitlePrefix>
 		<Title><![CDATA[Media]]></Title>
 		<Head><![CDATA[Media]]></Head>
-		<Item1Title><![CDATA[xxx]]></Item1Title>
+		<Item1Title><![CDATA[Ski instructor cured by Dr. Dan Teleanu]]></Item1Title>
 		<Item1Head><![CDATA[Vali Căciulă is getting better!]]></Item1Head>
 		<Item2Title><![CDATA[The man who beat four cancer types in a year]]></Item2Title>
 		<Item2Head><![CDATA[The man who beat four cancer types in a year]]></Item2Head>
-		<Item3Title><![CDATA[xxx]]></Item3Title>
+		<Item3Title><![CDATA[Dr. Dan Teleanu  in "Doctor, you are my hero!"]]></Item3Title>
 		<Item3Head><![CDATA[Doctor Dan Teleanu, the neurosurgeon who understood that cutting edge technology isn't everything]]></Item3Head>
-		<Item4Title><![CDATA[xxx]]></Item4Title>
-		<Item4Head><![CDATA[xxx]]></Item4Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>The medical condition of Vali Căciulă, the most famous ski instructor in Romania, is continously improving.</h3>
@@ -474,12 +460,6 @@
 			Source: stirileprotv.ro, 23 November 2011<br />
 			<a href="http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html" target="_blank">
 			http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html</a>]]></Item3Author>
-		<Item4Content>
-			<![CDATA[xxx]]>
-		</Item4Content>
-		<Item4Author>
-			<![CDATA[xxx]]>
-		</Item4Author>
 	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donate]]></Title>
@@ -702,6 +682,7 @@
 				<li>Adriana Stere</li>
 				<li>Daniel Angelescu</li>
 				<li>Ionela Iordachi</li>
+				<!--<li><a href="http://www.intesasanpaolobank.ro/" target="_blank">Intesa Sanpaolo Bank</a></li>-->
 			</ul>
 			]]>
 		</Content>
