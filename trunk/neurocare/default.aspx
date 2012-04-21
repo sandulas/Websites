@@ -51,7 +51,8 @@
 				</span>
 			</a>
 		</li>
-		<li>
+
+		<li class="Col2 Top">
 			<a href="javascript:;">
 				<%= "Content3Title6".T("Home")%>
 				<span>
@@ -59,8 +60,7 @@
 				</span>
 			</a>
 		</li>
-		
-		<li class="Col2 Top"">
+		<li class="Col2">
 			<a href="javascript:;">
 				<%= "Content3Title7".T("Home")%>
 				<span>
@@ -73,14 +73,6 @@
 				<%= "Content3Title8".T("Home")%>
 				<span>
 					<%= "Content3Description8".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li class="Col2">
-			<a href="javascript:;">
-				<%= "Content3Title9".T("Home")%>
-				<span>
-					<%= "Content3Description9".T("Home")%>
 				</span>
 			</a>
 		</li>
