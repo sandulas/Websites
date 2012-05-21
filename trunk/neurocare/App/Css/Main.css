@@ -268,7 +268,7 @@ IMG
 
 
 
-/* Specific */
+/* Hover Info List */
 
 .HoverInfoList LI.Col2
 {
@@ -309,6 +309,53 @@ IMG
 .HoverInfoList A:hover SPAN
 {
 	display: block;
+}
+
+
+
+/* Image Grid */
+.ImageGrid
+{
+	overflow: visible;
+}
+.ImageGrid div
+{
+	float: left;
+}
+.ImageGrid div div
+{
+	float: none;
+	display: table-cell; vertical-align: middle; text-align: center;
+}
+.ImageGrid div.Left
+{
+	background:url(../Images/ImgBgSquare.png);
+	width: 256px;
+	height: 210px;
+	margin: 5px 16px 16px -4px;
+}
+.ImageGrid div.Right
+{
+	background:url(../Images/ImgBgSquare.png);
+	width: 256px;
+	height: 210px;
+	margin: 5px -4px 16px 0;
+}
+
+.ImageGrid div.Left div, .ImageGrid div.Right div
+{
+	width: 256px; height: 210px; 
+}
+.ImageGrid div.Wide
+{
+	background:url(../Images/ImgBgWide.png);
+	width: 528px;
+	height: 100px;
+	margin: 0 0 12px -4px;
+}
+.ImageGrid div.Wide div
+{
+	width: 528px; height: 100px;
 }
 
 

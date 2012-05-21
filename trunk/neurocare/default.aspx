@@ -6,17 +6,11 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">
 
-	<h2 class="SectionHeader"><%= "Head1".T("Home")%></h2>
-	<%= "Content1".T("Home")%>
+	<h2 class="SectionHeader"><%= "HeadAbout".T("Home")%></h2>
+	<%= "ContentAbout".T("Home")%>
 	<br />
 
-	<h2 class="SectionHeader"><%= "Head2".T("Home")%></h2>
-	<div class="OverflowAuto PadB10">
-		<%= "Content2".T("Home") %>
-	</div>
-
-	<br />
-	<h2 class="SectionHeader"><%= "Head3".T("Home")%></h2>
+	<h2 class="SectionHeader"><%= "HeadWishList".T("Home")%></h2>
 	
 	<ol class="HoverInfoList">
 		<li>
@@ -85,7 +79,32 @@
 			</a>
 		</li>
 	</ol>
-	<br /><br /><br /><br /><br/><br/>
+
+	<br />
+	<h2 class="SectionHeader"><%= "HeadPartners".T("Home")%></h2>
+	<div class="ImageGrid">
+		<div class="Left">
+			<div>
+				<a href="http://sr-vojta.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 195px; height: 178px;" runat="server" /></a>
+			</div>
+		</div>
+		<div class="Right">
+			<div>
+				<a href="http://dravet.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" style="width: 194px; height: 178px;" runat="server" /></a>
+			</div>
+		</div>
+		<%--
+		<div class="Wide">
+			<div>
+				<a href="http://www.intesasanpaolobank.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" style="width: 496px; height: 62px;" runat="server" /></a>
+			</div>
+		</div>
+		--%>
+	</div>
+
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
@@ -96,6 +115,4 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
-	<a href="http://sr-vojta.ro/" target="_blank">
-		<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 288px;" runat="server" /></a>
 </asp:Content>
