@@ -48,8 +48,8 @@
 		<Copyright><![CDATA[Copyright © 2010 Neurocare. All rights reserved.]]></Copyright>
 	</Master>
   <Home PreviewUrl="~/">
-    <Head1><![CDATA[Cine suntem?]]></Head1>
-		<Content1>
+    <HeadAbout><![CDATA[Cine suntem?]]></HeadAbout>
+		<ContentAbout>
 			<![CDATA[
 			<p>Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii...<br />
 			Noi suntem oameni, care nu ne mai putem uita indiferenţi la durerea lor...<br />
@@ -59,27 +59,9 @@
 			<p>De aceea, ne-am adunat forţele pentru a fi mai puternici...<br />
 			Noi suntem Asociaţia Neurocare şi vă asteptăm să vă alăturaţi nouă!</p>
 			]]>
-		</Content1>
-    <Head2><![CDATA[Presă]]></Head2>
-		<Content2>
-			<![CDATA[
-			<img src="./Images/Home/doctore-esti-un-erou.jpg" class="General MarR16" align="left" style="width: 250px; height: 135px"
-			alt="Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV &quot;Doctore, eşti un erou!&quot;" />
-			<b>Doctore, esti un erou!</b><br /><br />
-			<p>Dr. Dan Teleanu, membru fondator Neurocare, a participat în campania Pro TV "Doctore, eşti un erou!".</p>
-			<br /><br /><br /><br />
-			<p><b>Campania şi-a desemnat câştigătorii!</b><br />
-			Cei trei medici eroi primesc burse de excelență din partea Petrom:<br />
-			Dr. Cătălin Cârstoveanu – 10.000 Euro<br />
-			Dr. Horațiu Suciu – 8.000 Euro<br />
-			Dr. Dan Teleanu – 5.000 Euro<br /><br />
-
-			Cele trei burse sunt acordate în ordinea voturilor primite în concurs (vot public + vot juriu Petrom/Pro TV).</p>
-	
-			<a href="./Presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx">Află mai multe...</a>
-			]]>
-		</Content2>
-		<Head3><![CDATA[Wish list]]></Head3>
+		</ContentAbout>
+		<HeadWishList><![CDATA[Wish list]]></HeadWishList>
+		<HeadPartners><![CDATA[Parteneri]]></HeadPartners>
 		<Content3Title1><![CDATA[Neuroendoscop Karl Storz]]></Content3Title1>
 		<Content3Description1>
 			<![CDATA[
