@@ -95,14 +95,12 @@
 					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" style="width: 194px; height: 178px;" runat="server" /></a>
 			</div>
 		</div>
-		<%--
 		<div class="Wide">
 			<div>
 				<a href="http://www.intesasanpaolobank.ro/" target="_blank">
 					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" style="width: 496px; height: 62px;" runat="server" /></a>
 			</div>
 		</div>
-		--%>
 	</div>
 
 </asp:Content>
