@@ -9,6 +9,7 @@
 <h2><%= "Head".T("Presa") %></h2>
 <ul>
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<li><asp:HyperLink NavigateUrl="~/Presa/dr-raluca-teleanu-la-traieste-sanatos.aspx" runat="server"><%= "Item5Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Presa/doctorita-raluca-teleanu-zana-mea-de-la-spitalul-victor-gomoiu.aspx" runat="server"><%= "Item4Title".T("Presa") %></asp:HyperLink></li>
 	<% } %>
 	<li><asp:HyperLink NavigateUrl="~/presa/dr-dan-teleanu-la-doctore-esti-un-erou.aspx" runat="server"><%= "Item3Title".T("Presa") %></asp:HyperLink></li>

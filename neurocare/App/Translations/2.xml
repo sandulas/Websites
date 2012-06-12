@@ -40,7 +40,7 @@
     <Motto><![CDATA[Join us - for life!]]></Motto>
 		<Menu1><![CDATA[Home]]></Menu1>
 		<Menu2><![CDATA[Aim and objectives]]></Menu2>
-		<Menu3><![CDATA[Cases]]></Menu3>
+		<Menu3><![CDATA[Life Stories]]></Menu3>
 		<Menu4><![CDATA[Media]]></Menu4>
 		<Menu5><![CDATA[Sponsors]]></Menu5>
 		<Menu6><![CDATA[Donate]]></Menu6>
@@ -147,7 +147,6 @@
 			<p><b>Dr. Diana Epure</b> -	Pediatric Neurology Specialist.</p>
 			<p><b>Dr. Mihaela Chitilă</B> - Pediatrician.</p>
 			<p><b>Alexandra Ciobanu</b></p>
-			<p><b>Flavia Lungu</b> - Pupil.</p>
 			<p><b>Dr. Matei Margărita</b> - Endocrinologist Specialist.</p>
 			<p><b>Mihai Rădulescu</b> - Medicine student.</p>
 			<p><b>Dr. Magda Sandu</b> - Pediatric Neurologist.</p>
@@ -156,8 +155,8 @@
 		</ContentRight2>
 	</Contact>
 	<Cazuri>
-		<Title><![CDATA[Cases]]></Title>
-		<Head><![CDATA[Cases]]></Head>
+		<Title><![CDATA[Life Stories]]></Title>
+		<Head><![CDATA[Life Stories]]></Head>
 		<Item1Title><![CDATA[Sorina's story]]></Item1Title>
 		<Item2Title><![CDATA[Darius Preda]]></Item2Title>
 		<Item3Title><![CDATA[Paying homage]]></Item3Title>
@@ -338,6 +337,8 @@
 		<Item3Head><![CDATA[Doctor Dan Teleanu, the neurosurgeon who understood that cutting edge technology isn't everything]]></Item3Head>
 		<Item4Title><![CDATA[We are sorry! This page is not available in English.]]></Item4Title>
 		<Item4Head><![CDATA[We are sorry! This page is not available in English.]]></Item4Head>
+		<Item5Title><![CDATA[We are sorry! This page is not available in English.]]></Item5Title>
+		<Item5Head><![CDATA[We are sorry! This page is not available in English.]]></Item5Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>The medical condition of Vali Căciulă, the most famous ski instructor in Romania, is continously improving.</h3>
@@ -447,7 +448,8 @@
 			http://stirileprotv.ro/stiri/11-septembrie/campanie-doctori.html</a>]]></Item3Author>
 		<Item4Content><![CDATA[&nbsp;]]></Item4Content>
 		<Item4Author><![CDATA[&nbsp;]]></Item4Author>
-
+		<Item5Content><![CDATA[&nbsp;]]></Item5Content>
+		<Item5Author><![CDATA[&nbsp;]]></Item5Author>
 	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donate]]></Title>
