@@ -40,7 +40,7 @@
     <Motto><![CDATA[Fii alături de noi - pentru viaţă!]]></Motto>
 		<Menu1><![CDATA[Home]]></Menu1>
 		<Menu2><![CDATA[Scop şi obiective]]></Menu2>
-		<Menu3><![CDATA[Cazuri]]></Menu3>
+		<Menu3><![CDATA[Povești de viață]]></Menu3>
 		<Menu4><![CDATA[Presă]]></Menu4>
 		<Menu5><![CDATA[Sponsori]]></Menu5>
 		<Menu6><![CDATA[Donează]]></Menu6>
@@ -150,7 +150,6 @@
 			<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
 			<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
 			<p><b>Alexandra Ciobanu</b></p>
-			<p><b>Flavia Lungu</b> - Elevă.</p>
 			<p><b>Dr. Matei Margărita</b> - Medic specialist endocrinolog.</p>
 			<p><b>Mihai Rădulescu</b> - Student medicină.</p>
 			<p><b>Dr. Magda Sandu</b> - Medic neurolog pediatru.</p>
@@ -159,8 +158,8 @@
 		</ContentRight2>
 	</Contact>
 	<Cazuri>
-		<Title><![CDATA[Cazuri]]></Title>
-		<Head><![CDATA[Cazuri]]></Head>
+		<Title><![CDATA[Povești de viață]]></Title>
+		<Head><![CDATA[Povești de viață]]></Head>
 		<Item1Title><![CDATA[Povestea Sorinei]]></Item1Title>
 		<Item2Title><![CDATA[Darius Preda]]></Item2Title>
 		<Item3Title><![CDATA[Un alt fel de exerciţiu de admiraţie]]></Item3Title>
@@ -336,6 +335,8 @@
 		<Item3Head><![CDATA[Medicul Dan Teleanu, neurochirurgul care a inteles ca aparatura de top nu este totul]]></Item3Head>
 		<Item4Title><![CDATA[Doctorița Raluca Teleanu, zâna mea de la Spitalul Victor Gomoiu]]></Item4Title>
 		<Item4Head><![CDATA[Doctorița Raluca Teleanu, zâna mea de la Spitalul Victor Gomoiu]]></Item4Head>
+		<Item5Title><![CDATA[Dr. Raluca Teleanu la "Trăiește sănătos" (Antena 2)]]></Item5Title>
+		<Item5Head><![CDATA[Dr. Raluca Teleanu la "Trăiește sănătos"]]></Item5Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
@@ -477,6 +478,19 @@
 			http://blog.salveazavieti.ro/?p=601</a>
 			]]>
 		</Item4Author>
+		<Item5Content>
+			<![CDATA[
+			<iframe width="520" height="390" src="http://www.youtube-nocookie.com/embed/nzxrFl3Pefs?rel=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			<br />
+			]]>
+		</Item5Content>
+		<Item5Author>
+			<![CDATA[
+			Sursa: antena2.ro, 8 Iunie 2012<br />
+			<a href="http://antena2.ro/video/traieste-sanatos-cresterea-copilului-bolile-ochilor_vueq71yferd" target="_blank">
+			http://antena2.ro/video/traieste-sanatos-cresterea-copilului-bolile-ochilor_vueq71yferd</a>
+			]]>
+		</Item5Author>
 	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donează]]></Title>
