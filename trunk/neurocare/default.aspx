@@ -86,25 +86,25 @@
 		<div class="Left Square">
 			<div>
 				<a href="http://www.colonhelp.ro/colonhelp-junior/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-colon-help-junior.jpg" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-colon-help-junior.jpg" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Middle Square">
 			<div>
 				<a href="http://dravet.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Right Square">
 			<div>
 				<a href="http://sr-vojta.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Wide">
 			<div>
 				<a href="http://www.intesasanpaolobank.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" style="height: 40px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 	</div>
