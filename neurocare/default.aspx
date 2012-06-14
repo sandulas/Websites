@@ -83,22 +83,28 @@
 	<br />
 	<h2 class="SectionHeader"><%= "HeadPartners".T("Home")%></h2>
 	<div class="ImageGrid">
-		<div class="Left">
+		<div class="Left Square">
 			<div>
-				<a href="http://sr-vojta.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 195px; height: 178px;" runat="server" /></a>
+				<a href="http://www.colonhelp.ro/colonhelp-junior/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-colon-help-junior.jpg" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
 			</div>
 		</div>
-		<div class="Right">
+		<div class="Middle Square">
 			<div>
 				<a href="http://dravet.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" style="width: 194px; height: 178px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
+			</div>
+		</div>
+		<div class="Right Square">
+			<div>
+				<a href="http://sr-vojta.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" style="width: 140px; height: 110px;" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Wide">
 			<div>
 				<a href="http://www.intesasanpaolobank.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" style="width: 496px; height: 62px;" runat="server" /></a>
+					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" style="height: 40px;" runat="server" /></a>
 			</div>
 		</div>
 	</div>

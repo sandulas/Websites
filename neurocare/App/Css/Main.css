@@ -317,6 +317,7 @@ IMG
 .ImageGrid
 {
 	overflow: visible;
+	padding-top: 4px;
 }
 .ImageGrid div
 {
@@ -327,35 +328,39 @@ IMG
 	float: none;
 	display: table-cell; vertical-align: middle; text-align: center;
 }
+.ImageGrid div.Square
+{
+	float: left;
+	background:url(../Images/ImgBgSquare.png);
+	width: 166px;
+	height: 136px;
+}
 .ImageGrid div.Left
 {
-	background:url(../Images/ImgBgSquare.png);
-	width: 256px;
-	height: 210px;
-	margin: 5px 16px 16px -4px;
+	margin: 0 15px 15px -4px;
+}
+.ImageGrid div.Middle
+{
+	margin: 0 15px 15px 0;
 }
 .ImageGrid div.Right
 {
-	background:url(../Images/ImgBgSquare.png);
-	width: 256px;
-	height: 210px;
-	margin: 5px -4px 16px 0;
+	margin: 0 -4px 15px 0;
 }
-
-.ImageGrid div.Left div, .ImageGrid div.Right div
+.ImageGrid div.Square div
 {
-	width: 256px; height: 210px; 
+	width: 166px; height: 136px; 
 }
 .ImageGrid div.Wide
 {
 	background:url(../Images/ImgBgWide.png);
-	width: 528px;
-	height: 100px;
+	width: 347px;
+	height: 66px;
 	margin: 0 0 12px -4px;
 }
 .ImageGrid div.Wide div
 {
-	width: 528px; height: 100px;
+	width: 347px; height: 66px;
 }
 
 
