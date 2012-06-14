@@ -351,16 +351,24 @@ IMG
 {
 	width: 166px; height: 136px; 
 }
+.ImageGrid div.Square div img
+{
+	
+}
 .ImageGrid div.Wide
 {
 	background:url(../Images/ImgBgWide.png);
-	width: 347px;
+	width: 528px;
 	height: 66px;
 	margin: 0 0 12px -4px;
 }
 .ImageGrid div.Wide div
 {
-	width: 347px; height: 66px;
+	width: 528px; height: 66px;
+}
+.ImageGrid div.Wide div img
+{
+	width: 502px; height: 40px;
 }
 
 
