@@ -9,6 +9,15 @@
 
 	<h1>Testimonials</h1>
 	
+	<img src="Images/Testimonials/Peta-Murgatroyd.T.jpg" class="TestimonialThumbnail" alt="Erin Andrews" />
+	<p>"Mario at LA Training Room is always getting me ready for my dancing contests and shows.	In my field, staying healthy and fit is
+	a must.  Whether it is injury rehabilitation or just maintenance Mario @ LA Training Room is where I go.<br/>
+	Thank you Mario for keeping my body going strong!"</p>
+	<p><b>Peta Murgatroyd,</b><br />
+	Dancing With The Stars professional dancer,<br/>
+	Winner of  DWTS contest ( season 14)</p>
+	
+	<br />
 	<img src="Images/Testimonials/Erin-Andrews.T.jpg" class="TestimonialThumbnail" alt="Erin Andrews" />
 	<p>"While competing on Dancing With The Stars, I injured my back during the fourth week of the show. I was in so much pain, we feared I
 	had broken a rib. Thankfully, my dance partner sent me to Mario. Under Mario's care, not only was I able to dance that week, but stayed
