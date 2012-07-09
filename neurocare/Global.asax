@@ -34,10 +34,10 @@
         // is set to InProc in the Web.config file. If session mode is set to StateServer 
         // or SQLServer, the event is not raised.
     }
-		protected void Application_AcquireRequestState(object sender, EventArgs e)
-		{
-			//Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
-			//Translation.Reload();
-		}
+	protected void Application_AcquireRequestState(object sender, EventArgs e)
+	{
+		//Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
+		//Translation.Reload();
+	}
 		       
 </script>
