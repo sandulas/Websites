@@ -337,8 +337,12 @@
 		<Item4Head><![CDATA[Doctorița Raluca Teleanu, zâna mea de la Spitalul Victor Gomoiu]]></Item4Head>
 		<Item5Title><![CDATA[Dr. Raluca Teleanu la "Trăiește sănătos" (Antena 2)]]></Item5Title>
 		<Item5Head><![CDATA[Dr. Raluca Teleanu la "Trăiește sănătos"]]></Item5Head>
-		<Item6Title><![CDATA[Manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item6Title>
-		<Item6Head><![CDATA[Artiştii au participat la o manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item6Head>
+		<Item6Title><![CDATA[Aproape 500.000 de români suferă de epilepsie]]></Item6Title>
+		<Item6Head><![CDATA[Aproape 500.000 de români suferă de epilepsie, jumătate ascund boala din cauza discriminării]]></Item6Head>
+		<Item7Title><![CDATA[Dialog despre viaţa copiilor bolnavi de epilepsie]]></Item7Title>
+		<Item7Head><![CDATA[Dialog fără prejudecăţi despre viaţa copiilor bolnavi de epilepsie, sâmbătă, în Herăstrău]]></Item7Head>
+		<Item8Title><![CDATA[Manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item8Title>
+		<Item8Head><![CDATA[Artiştii au participat la o manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item8Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
@@ -495,10 +499,103 @@
 		</Item5Author>
 		<Item6Content>
 			<![CDATA[
+			<p><b>Epilepsia este o maladie care afectează aproape 500.000 de români, însă aproximativ jumătate dintre cei suferinzi îşi ascund
+			boala sau nu o tratează corespunzător, din cauza discriminărilor la care sunt supuşi, potrivit specialiştilor.</b></p>
+
+			<img src="##app_root##/Images/Presa/Articol6.jpg" class="General" align="middle" width="520" height="391">
+			<span class="Author">Imagine: Shutterstock</span>
+			
+			<br /><br />
+			<p>Această boală este o dereglare a sistemului nervos care produce descărcări bruşte şi intense de activitate electrică în creier.
+			Medicii mai spun despre epilepsie că reprezintă una dintre bolile neurologice cu cel mai mare impact, ea fiind a doua cauză de consult
+			neurologic pentru o afecţiune cronică, după cefalee.</p>
+
+			<p>În România, sunt aproximativ 200.000 de pacienţi cu epilepsie, arată statisticile Organizaţiei Mondiale a Sănătăţii (OSM), dar
+			medicii cred că numărul acestora ar fi mai mare, de 300.000 până la 500.000.</p>
+
+			<p><b><i>"Această afecţiune are un impact semnificativ asupra calităţii vieţii. În România, 500.000 de oameni suferă de epilepsie,
+			însă statisticile nu reflectă însă complet realitatea, deoarece foarte mulţi bolnavi îşi ascund această maladie, de teama de a nu fi
+			stigmatizaţi în societate"</i></b>, spun reprezentanţii Asociaţiei Pacienţilor cu Epilepsie din România (ASPERO).</p>
+
+			<p>Între 50 şi 60% dintre cazurile de epilepsie debutează înaintea vârstei de 16 ani, însă o criză unică, accidentală, poate să apară
+			la 5% din populaţie, susţin specialiştii. Crizele de epilepsie pot fi uneori confundate, în cazul bebeluşilor, cu convulsiile febrile,
+			care sunt destul de frecvente şi deloc periculoase.</p>
+
+			<p>Aproximativ 68% din totalul pacienţilor cu eplilesie sunt pensionaţi pe caz de boală, conform datelor statistice.</p>
+
+			<p><b>Epilepsia afectează peste 50 de milioane de persoane din întreaga lume, un om din 100 suferind de această boală</b>, conform
+			datelor statistice.</p>
+			
+			<p>Maladia numită epilepsie reuneşte, de fapt, câteva zeci de sindroame cu cauze, manifestări şi evoluţii diferite. Una dintre cele
+			mai grave forme este sindromul Dravet, în al cărui tratament sunt necesare mai multe medicamente, unele, pentru moment, inaccesibile
+			în România.</p>
+
+			<p>Viaţa de zi cu zi a copiilor cu epilepsie este subiectul unui dialog fără prejudecăţi iniţiat de Asociaţia Neurocare şi programat
+			sâmbătă în parcul bucureştean Herăstrău, pentru a-i informa pe cei din anturajul micuţilor despre faptul că boala nu e o piedică
+			pentru o viaţă normală în comunitate.</p>
+			]]>
+		</Item6Content>
+		<Item6Author>
+			<![CDATA[
+			Sursa: www.mediafax.ro, 15 Iunie 2012<br />
+			<a href="http://www.mediafax.ro/social/aproape-500-000-de-romani-sufera-de-epilepsie-jumatate-ascund-boala-din-cauza-discriminarii-9750957" target="_blank">
+			http://www.mediafax.ro/social/aproape-500-000-de-romani-sufera-de-epilepsie-jumatate-ascund-boala-din-cauza-discriminarii-9750957</a>
+			]]>
+		</Item6Author>
+		<Item7Content>
+			<![CDATA[
+			<p><b>Viaţa de zi cu zi a copiilor cu epilepsie este subiectul unui dialog fără prejudecăţi iniţiat de Asociaţia Neurocare şi programat
+			sâmbătă în parcul bucureştean Herăstrău, pentru a-i informa pe cei din anturajul micuţilor despre faptul că boala nu e o piedică pentru
+			o viaţă normală în comunitate.</b></p>
+
+			<img src="##app_root##/Images/Presa/Articol7.jpg" class="General" align="middle" width="520" height="391">
+			<span class="Author">Imagine: Shutterstock</span>
+			
+			<br /><br />
+			<p><b>Se poate vindeca? Şi cât timp va trebui să ia tratament? Se poate juca un copil epileptic în parc, împreună cu alţii de vârsta
+			lui?</b> Vor dori ceilalţi copii să stea de vorbă cu el sau îl vor respinge? Un copil bolnav de epilepsie se poate integra într-o
+			comunitate? Dar ca adult, va putea el să aibă o familie şi un serviciu? Acestea sunt doar o parte dintre întrebările care se nasc în
+			familiile cu copii epileptici, după aflarea diagnosticului, susţin iniţiatorii evenimentului, într-un comunicat remis, vineri,
+			agenţiei MEDIAFAX.</p>
+
+			<p>Discuţiile vor avea loc, de la ora 11.00, la Roaba de cultură, pe pajiştea Pescăruş, în cadrul unui eveniment-spectacol la care
+			participă şi familii cu copii epileptici.</p>
+			
+			<p><b><i>"Evenimentul îşi propune informarea anturajului copilului, astfel încât epilepsia să nu reprezinte o piedică în accesul la
+			educaţie, la activităţi specifice vârstei şi, nu în ultimul rând, în a avea confort emoţional. Este primul eveniment dintr-o serie pe
+			care ne-o propunem în dorinţa de a ne face cunoscută activitatea, respectiv sprijinul pacienţilor cu patologie neurologică sau
+			neurochirurgicală"</i></b>, spune dr. Raluca Teleanu, membru fondator al Asociaţiei Neurocare.</p>
+
+			<p>Partenerii acestui eveniment sunt Zenith Pharmaceuticals, www.dravet.ro, Teatrul WOW, Asociaţia Green Revolution, Clubul Atlantis
+			Fitness şi Lifestyle.</p>
+
+			<p>Epilepsia afectează peste 50 de milioane de persoane din întreaga lume, un om din 100 suferind de această boală, conform datelor
+			statistice.</p>
+			
+			<p>Maladia numită epilepsie reuneşte, de fapt, câteva zeci de sindroame cu cauze, manifestări şi evoluţii diferite. Una dintre cele mai
+			grave forme este sindromul Dravet, în al cărui tratament sunt necesare mai multe medicamente, unele, pentru moment, inaccesibile în
+			România.</p>
+
+			<p>Asociaţia Neurocare a fost înfiinţată de Raluca Teleanu, medic primar neurologie pediatrică, Dan Teleanu, medic primar neurochirurg,
+			şi Adina Istrate, asistent şef neurologie pediatrică. Alături de aceştia, asociaţia reuneşte voluntari şi alte cadre medicale.</p>
+
+			<p><b>Neurocare are ca obiectiv informarea, susţinerea emoţională şi materială a pacienţilor cu afecţiuni neurologice şi neurochirurgicale.</b></p>
+			]]>
+		</Item7Content>
+		<Item7Author>
+			<![CDATA[
+			Sursa: www.mediafax.ro, 15 Iunie 2012<br />
+			<a href="http://www.mediafax.ro/social/dialog-fara-prejudecati-despre-viata-copiilor-bolnavi-de-epilepsie-sambata-in-herastrau-9750953" target="_blank">
+			http://www.mediafax.ro/social/dialog-fara-prejudecati-despre-viata-copiilor-bolnavi-de-epilepsie-sambata-in-herastrau-9750953</a>
+			]]>
+		</Item7Author>
+		<Item8Content>
+			<![CDATA[
 			<p><b>Actori, cântăreţi şi mai multe grupuri de copii-dansatori au participat, sâmbătă, în parcul Herăstrău, la o manifestare în
 			beneficiul copiilor bolnvi de epilepsie, în cadrul unui eveniment organizat de asociaţia Neurocare.</b></p>
 
-			<img src="##app_root##/Images/Presa/Articol6.jpg" class="General" align="middle" width="520" height="362">
+			<img src="##app_root##/Images/Presa/Articol8.jpg" class="General" align="middle" width="520" height="362">
+			<span class="Author">Imagine: Silviu Matei/Mediafax Foto</span>
 			
 			<br /><br />
 			<p>Florin Busuioc, Ovidiu Cuncea, Viorel Gaiţă, Crina Matei şi Mona Nicolici au fost printre cei care au povestit despre
@@ -553,14 +650,14 @@
 			neurochirurg, şi Adina Istrate, asistent-şef de neurologie pediatrică şi reuneşte mai multe cadre medicale şi voluntari. Neurocare îşi
 			propune informarea, susţinerea emoţională şi materială a pacienţilor cu afecţiuni neurologice şi neurochirurgicale.</p>
 			]]>
-		</Item6Content>
-		<Item6Author>
+		</Item8Content>
+		<Item8Author>
 			<![CDATA[
 			Sursa: www.mediafax.ro, 16 Iunie 2012<br />
 			<a href="http://www.mediafax.ro/social/artistii-au-participat-la-o-manifestare-in-sprijinul-copiilor-bolnavi-de-epilepsie-video-9752881" target="_blank">
 			http://www.mediafax.ro/social/artistii-au-participat-la-o-manifestare-in-sprijinul-copiilor-bolnavi-de-epilepsie-video-9752881</a>
 			]]>
-		</Item6Author>
+		</Item8Author>
 	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donează]]></Title>
