@@ -2,7 +2,7 @@
 <%@ MasterType TypeName="MainMaster" %>
 
 <asp:Content ContentPlaceHolderID="head" Runat="Server">
-	<title>LA Training Room</title>
+	<title>LA Training Room - Sports Massage Deep Tissue Sports Therapy for Athletes and Dancers</title>
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="LeftContent1" runat="server">
