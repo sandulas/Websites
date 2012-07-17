@@ -112,10 +112,20 @@
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
-	<div style="background: #f6f6f6;">
+	
+	<h1><%= "RightHead".T("Home")%></h1>
+	<div style="float: left; margin: -6px 0 0 -6px; background: url(App/Images/RightImgBgWide.png) no-repeat; width: 278px; height: 40px; padding: 13px 20px;">
+		<a href="http://www.facebook.com/asociatianeurocare" target="_blank" style="display: block; float: left; margin-right: 45px;">
+			<asp:Image ImageUrl="~/App/Images/facebook-logo.png" Width="121" Height="40" runat="server" /></a>
+		<a href="http://www.youtube.com/user/asociatianeurocare" target="_blank" style="display: block; float: left;">
+			<asp:Image ImageUrl="~/App/Images/youtube-logo.png" Width="102" Height="40" runat="server" /></a>
+	</div>
+
+	<div style="background: #f6f6f6; margin-top: 25px; float: left; clear: both;">
 		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
 	</div>
 	<br /><br />
+
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn2" runat="server">
