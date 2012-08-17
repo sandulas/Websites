@@ -109,6 +109,8 @@
 		</div>
 	</div>
 
+	<div style="height: 95px; clear:both;">&nbsp;</div>
+
 </asp:Content>
 
 <asp:Content ContentPlaceHolderID="RightColumn1" runat="server">
