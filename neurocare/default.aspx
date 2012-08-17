@@ -120,8 +120,15 @@
 		<a href="http://www.youtube.com/user/asociatianeurocare" target="_blank" style="display: block; float: left;">
 			<asp:Image ImageUrl="~/App/Images/youtube-logo.png" Width="102" Height="40" runat="server" /></a>
 	</div>
+	
+	<div style="float: left; margin: 15px 0 0 -6px; background: url(App/Images/RightImgBgWide.png) no-repeat; width: 278px; height: 46px; padding: 10px 20px;">
+		<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5TW6368M9AFL" target="_blank" style="display: block; float: left; margin: 12px 15px 0 0;">
+			<asp:Image ImageUrl="~/App/Images/paypal-logo_x.png" Width="100" AlternateText="PayPal - The safer, easier way to pay online!" runat="server" /></a>
+		<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P5TW6368M9AFL" target="_blank" style="display: block; float: left;">
+			<asp:Image ImageUrl="~/App/Images/paypal-donate.gif" Width="147" Height="47" AlternateText="PayPal - The safer, easier way to pay online!" runat="server" /></a>
+	</div>
 
-	<div style="background: #f6f6f6; margin-top: 25px; float: left; clear: both;">
+	<div style="background: #f6f6f6; margin-top: 15px; float: left; clear: both;">
 		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
 	</div>
 	<br /><br />
