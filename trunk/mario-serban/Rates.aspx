@@ -16,7 +16,7 @@
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
 	<h1 class="PadB10">LA Training Room Rates</h1>
-	<p class="Color3 Big">Special Offer: 50% OFF on your first hour massage.</p>
+	<p class="Color3 Big">Special Offer: 30% OFF on your first hour massage.</p>
 
 	<h2 class="PadT10"><b>Fitness and Pilates</b></h2>
 	<%--<p class="Color3 Big">Special Offer: 50% OFF on all fitness and Pilates training.</p>--%>
@@ -48,7 +48,7 @@
 	<p class="Color2">One hour: $45 | 6 sessions: $230 | 12 sessions: $420</p>  
 
 	<h2 class="PadT10"><b>Massage Services</b></h2>
-	<p class="Color3 Big">Special Offer: 50% OFF on your first hour massage.</p>
+	<p class="Color3 Big">Special Offer: 30% OFF on your first hour massage.</p>
      
 	<h2 class="PadT10">Sports Massage</h2>
 	<p class="NoPadding">Sports Massage is a unique combination of muscle stretching and high impact massage    techniques designated for active people and athletes. The main purpose of this massage is to enhance muscle fitness and reduce potential injuries.</p>

@@ -50,7 +50,7 @@
 		<div style="position: absolute; left: 280px; top: -150px; text-align: center; padding: 3px 10px;" class="Box2">
 			<b>Mario Serban on</b><br />
 			<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server">
-				<img src="<%= ResolveUrl("~/images/home/Shape-Magazine-Logo.gif")%>" alt="Shape Magezine Logo" /></asp:HyperLink><br />
+				<img src="<%= ResolveUrl("~/images/home/Shape-Magazine-Logo.gif")%>" alt="Shape Magazine Logo" /></asp:HyperLink><br />
 			&nbsp;&nbsp;&nbsp;<asp:HyperLink NavigateUrl="~/Blog.aspx?id=10" runat="server"><b>READ THE ARTICLE</b></asp:HyperLink>
 		</div>
 	</div>
@@ -60,8 +60,13 @@
 	appointment with us at 323-272-3506.</p>
 	
 	<br />
+	<a href="https://plus.google.com/115665134157390232962" target="_blank" rel="publisher" class="NoHover">
+		<span class="H1Like">Find us on&nbsp;</span>
+		<img src="<%= ResolveUrl("~/App/Images/GooglePlusLogo.png")%>" alt="Google Plus Logo" style="width: 100px; height: 31px; vertical-align:middle" /></a>
+
+	<br /><br />
 	<div style="text-align:center; background: #f0f1f5;" class="Box2">
-		<a href="Rates.aspx"><p class="Color3 Big NoPadding">SpecialOffer: 50% OFF on your first hour massage</p></a>
+		<a href="Rates.aspx"><p class="Color3 Big NoPadding">SpecialOffer: 30% OFF on your first hour massage</p></a>
 	</div>
 	
 	
