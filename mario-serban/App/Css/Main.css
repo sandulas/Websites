@@ -51,6 +51,10 @@ A:hover
 {
 	text-decoration: underline;
 }
+A.NoHover:hover
+{
+	text-decoration: none;
+}
 H1
 {
 		font-size: 18px;
@@ -93,6 +97,12 @@ P.Big
 P.Small
 {
 	font-size: 11px;
+}
+.H1Like
+{
+	font-size: 18px;
+	font-weight: normal;
+	color: #2e4352;
 }
 INPUT.Text, TEXTAREA
 {
