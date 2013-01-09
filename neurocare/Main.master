@@ -100,7 +100,10 @@
 		</li>
 		<li id="MenuItem5" runat="server"><asp:HyperLink NavigateUrl="~/sponsori.aspx" runat="server"><%= "Menu5".T("Master") %></asp:HyperLink></li>
 		<li id="MenuItem6" runat="server"><asp:HyperLink NavigateUrl="~/doneaza.aspx" runat="server"><%= "Menu6".T("Master") %></asp:HyperLink></li>
-		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server"><%= "Menu7".T("Master") %></asp:HyperLink></li>
+		<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<li id="MenuItem7" runat="server"><asp:HyperLink NavigateUrl="~/fotografii.aspx" runat="server">Fotografii</asp:HyperLink></li>
+		<% } %>
+		<li id="MenuItem8" runat="server"><asp:HyperLink NavigateUrl="~/contact.aspx" runat="server"><%= "Menu7".T("Master") %></asp:HyperLink></li>
 	</ul>
 	<asp:HyperLink ID="FacebookLink" CssClass="FacebookLink" NavigateUrl="http://www.facebook.com/asociatianeurocare" Target="_blank" runat="server">
 		<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Logo Facebook" /></asp:HyperLink>
