@@ -68,9 +68,13 @@ public partial class Main : System.Web.UI.MasterPage
 				HeaderNr = 1;
 				MenuItem6.Attributes.Add("class", "Selected");
 				break;
-			case "~/contact.aspx":
+			case "~/fotografii.aspx":
 				HeaderNr = 2;
 				MenuItem7.Attributes.Add("class", "Selected");
+				break;
+			case "~/contact.aspx":
+				HeaderNr = 1;
+				MenuItem8.Attributes.Add("class", "Selected");
 				break;
 			default:
 				HeaderNr = 1;
