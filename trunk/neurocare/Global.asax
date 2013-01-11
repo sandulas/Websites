@@ -7,6 +7,8 @@
     {
 			Translation.Customize(Language.GetAllLanguages, Language.GetFallbackLanguage, Language.GetPath, Language.GetNamedPath, Language.GetCurrent);
 			Translation.Reload();
+
+			PhotoGallery.LoadGalleries();
 		}
     
     void Application_End(object sender, EventArgs e) 
