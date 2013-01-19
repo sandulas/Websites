@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using Neurocare;
+using System.Xml.Linq;
 
 
 public class PhotoGallery
@@ -23,11 +24,15 @@ public class PhotoGallery
 		string[] folders = Directory.GetDirectories(AppTools.Server.MapPath(RootPath));
 		Items = new Item[folders.Length];
 
+		XDocument xml;
 		for (int i = 0; i < folders.Length; i++)
 		{
+			xml = XDocument.Load(folders[i] + @"\Gallery.xml");
+			
+
 			Items[i].Folder = Path.GetFileName(folders[i]);
-			Items[i].Title = Path.GetFileName(folders[i]) + " Gallery";
-			Items[i].Description = Path.GetFileName(folders[i]) + " gallery description on two or more lines because could be long or longer or even the longest. Gallery description on two or more lines because could be long or longer or even the longest";
+			Items[i].Title = xml.Root.Element("title").Value;
+			Items[i].Description = xml.Root.Element("description").Value;
 			Items[i].Images = Directory.GetFiles(folders[i], "*.Thumb.jpg");
 
 			for (int j = 0; j < Items[i].Images.Length; j++)

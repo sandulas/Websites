@@ -372,6 +372,21 @@ IMG
 }
 
 
+
+/* Image Gallery */
+.ImageGallery
+{
+	clear: both; overflow: auto; padding-bottom: 6px;
+}
+.ImageGallery div
+{
+	float: left;
+}
+.ImageGallery img
+{
+	width: 120px; height: 80px; margin-bottom: 10px;
+}
+
 H2.SectionHeader
 {
 	background: url(../Images/SectionHeader.png) no-repeat;
