@@ -49,9 +49,9 @@ LightboxOptions = Object.extend({
     fileLoadingImage:        'App/Images/Lightbox/loading.gif',     
     fileBottomNavCloseImage: 'App/Images/Lightbox/closelabel.gif',
 
-    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+    overlayOpacity: 0.6,   // controls transparency of shadow overlay
 
-    animate: true,         // toggles resizing animations
+    animate: false,         // toggles resizing animations
     resizeSpeed: 8,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
 
     borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
