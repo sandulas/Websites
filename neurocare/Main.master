@@ -11,7 +11,7 @@
 		<title><%= "Title".T("Common") %></title>
 	</asp:ContentPlaceHolder>
 		
-	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=11" />
+	<link rel="Stylesheet" type="text/css" href="App/Css/Main.css?v=12" />
 	<link rel="Stylesheet" type="text/css" href="App/Css/lightbox.css" />
 	
 	<style type="text/css">
