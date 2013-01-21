@@ -35,7 +35,7 @@ public partial class Default : System.Web.UI.Page
 		Repeater PhotosRepeater = (Repeater)e.Item.FindControl("PhotosRepeater");
 		PlaceHolder ShowMoreHolder = (PlaceHolder)e.Item.FindControl("ShowMoreHolder");
 
-		if (e.Item.ItemIndex == CurrentGallery || gallery.Images.Length <= 4)
+		if (e.Item.ItemIndex == CurrentGallery || gallery.Images.Length <= 4 || PhotoGallery.Items.Length == 1)
 		{
 			ShowMoreHolder.Visible = false;
 			PhotosRepeater.DataSource = gallery.Images;
@@ -50,7 +50,7 @@ public partial class Default : System.Web.UI.Page
 
 	protected void PhotosRepeater_ItemCreated(object sender, RepeaterItemEventArgs e)
 	{
-		ThumbUrl = PhotoGallery.GetImageUrl(galleryFolder, e.Item.DataItem.ToString());
+		ThumbUrl = PhotoGallery.GetThumbUrl(galleryFolder, e.Item.DataItem.ToString());
 		ImageUrl = PhotoGallery.GetImageUrl(galleryFolder, e.Item.DataItem.ToString());
 
 		if ((e.Item.ItemIndex + 1) % 4 == 0) MarginRight = "";

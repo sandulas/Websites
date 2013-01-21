@@ -21,7 +21,7 @@ public class PhotoGallery
 	
 	public static void LoadGalleries()
 	{
-		string[] folders = Directory.GetDirectories(AppTools.Server.MapPath(RootPath));
+		string[] folders = Directory.GetDirectories(AppTools.Server.MapPath(RootPath), "????_*");
 		Items = new Item[folders.Length];
 
 		XDocument xml;
@@ -41,6 +41,10 @@ public class PhotoGallery
 	}
 
 	public static string GetImageUrl(string galleryFolderName, string imageFileName)
+	{
+		return AppTools.Page.ResolveUrl(RootPath + galleryFolderName + "/" + imageFileName.Replace(".Thumb", ""));
+	}
+	public static string GetThumbUrl(string galleryFolderName, string imageFileName)
 	{
 		return AppTools.Page.ResolveUrl(RootPath + galleryFolderName + "/" + imageFileName);
 	}
