@@ -19,32 +19,9 @@
 	<p class="Color3 Big">Special Offer: 30% OFF on your first hour massage.</p>
 
 	<h2 class="PadT10"><b>Fitness and Pilates</b></h2>
-	<%--<p class="Color3 Big">Special Offer: 50% OFF on all fitness and Pilates training.</p>--%>
 
-	<h2 class="PadT10">Pilates Mat Classes</h2>
-	<p class="NoPadding">Mat classes are for no more than 8 participants per session and are great for beginners to intermediate.<br />This is a great opportunity to strengthen your core, back and gluts.</p>
-	<p class="Color2 NoPadding">5 classes: $100 | 10 classes: $200</p>
-	<p class="Small">
-	Mon:  9am - 10am &nbsp; | &nbsp; 4pm - 5pm &nbsp; | &nbsp; 7pm - 8pm<br/>
-	Wed:  9am - 10am &nbsp; | &nbsp; 4pm - 5pm &nbsp; | &nbsp; 7pm - 8pm<br/>
-	Fri:  9am - 10am &nbsp; | &nbsp; 4pm - 5pm &nbsp; | &nbsp; 7pm - 8pm<br/>
-	Sat:  9am - 10am &nbsp; | &nbsp; 3pm - 4pm &nbsp; | &nbsp; 4pm - 5pm &nbsp; | &nbsp; 6pm - 7pm
-	</p>
-
-	<h2 class="PadT10">Individual Training</h2>
-	<p class="NoPadding">In this one hour session we are working one-on-one with clients to design and implement a proper strength & conditioning program for each individual's level of exercise.</p>
-	<p class="Color2">One hour: $70 | 6 sessions: $380 | 12 sessions: $720</p>
-
-	<h2 class="PadT10">1-On-1 Advanced Training</h2>
-	<p class="NoPadding">In this session you work directly with Mario Serban and is designed to achieve speed, endurance, explosion and conditioning. With his knowledge acquired from NHL, Mario created a results-oriented workout combining resistance training, cardio workouts, plyometrics, core training, functional fitness and flexibility.</p>
-	<p class="Color2">Half hour: $45 | One hour: $80 | 12 sessions: $800</p>
-
-	<h2 class="PadT10">Small Group Training</h2>
-	<p class="NoPadding">This fitness session is for all ages and fitness levels. This is a fun, light weight and low impact training but yet still challenging and vigorous workout.</p>
-	<p class="Color2">One hour: $30 | 6 sessions: $160 | 12 Sessions: $290</p>
-
-	<h2 class="PadT10">Mat Pilates</h2>
-	<p class="NoPadding">This is a private one-on-one session with Mario and is designed to achieve core strength, flexibility and lean muscle tone.</p>
+	<h2 class="PadT10">Modified mat Pilates</h2>
+	<p class="NoPadding">Mario has modified and integrated mat Pilates into his rehabbing techniques for people with hips, shoulder, upper back and especially lower back injuries with great success. This is also great for preventing injuries on athletes like golfers, tennis players and cyclists etc.</p>
 	<p class="Color2">One hour: $45 | 6 sessions: $230 | 12 sessions: $420</p>  
 
 	<h2 class="PadT10"><b>Massage Services</b></h2>
