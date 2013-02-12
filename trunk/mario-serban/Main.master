@@ -136,6 +136,8 @@
 						<img src="<%= ResolveUrl("~/App/Images/FacebookLogo.png")%>" alt="Facebook Logo" /></a>
 					<a href="http://twitter.com/#!/LATrainingRoom" target="_blank" style="padding-top: 1px;">
 						<img src="<%= ResolveUrl("~/App/Images/TwitterLogo.png")%>" alt="Twitter Logo" /></a>
+					<a href="http://www.yelp.com/biz/la-training-room-los-angeles" style="clear: left; padding-top: 20px;" target="_blank">
+						<img src="<%= ResolveUrl("~/App/Images/YelpLogo.png")%>" alt="Yelp Logo" /></a>
 				</div>
 			</asp:ContentPlaceHolder>			
 			
