@@ -66,7 +66,7 @@
 
 	<br /><br />
 	<div style="text-align:center; background: #f0f1f5;" class="Box2">
-		<a href="Rates.aspx"><p class="Color3 Big NoPadding">SpecialOffer: 30% OFF on your first hour massage</p></a>
+		<a href="Rates.aspx"><p class="Color3 Big NoPadding">SpecialOffer: 20% OFF on your first hour massage</p></a>
 	</div>
 	
 	

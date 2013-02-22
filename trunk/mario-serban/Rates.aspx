@@ -16,7 +16,7 @@
 <asp:Content ContentPlaceHolderID="Content" Runat="Server">
 
 	<h1 class="PadB10">LA Training Room Rates</h1>
-	<p class="Color3 Big">Special Offer: 30% OFF on your first hour massage.</p>
+	<p class="Color3 Big">Special Offer: 20% OFF on your first hour massage.</p>
 
 	<h2 class="PadT10"><b>Fitness and Pilates</b></h2>
 
@@ -25,23 +25,23 @@
 	<p class="Color2">One hour: $45 | 6 sessions: $230 | 12 sessions: $420</p>  
 
 	<h2 class="PadT10"><b>Massage Services</b></h2>
-	<p class="Color3 Big">Special Offer: 30% OFF on your first hour massage.</p>
+	<p class="Color3 Big">Special Offer: 20% OFF on your first hour massage.</p>
      
 	<h2 class="PadT10">Sports Massage</h2>
 	<p class="NoPadding">Sports Massage is a unique combination of muscle stretching and high impact massage    techniques designated for active people and athletes. The main purpose of this massage is to enhance muscle fitness and reduce potential injuries.</p>
-	<p class="Color2">Half hour: $45 | One hour: $85 | Hour and a half: $125</p>
+	<p class="Color2">One hour: $90 | Hour and a half: $135</p>
             
 	<h2 class="PadT10">Therapeutic Massage</h2>
 	<p class="NoPadding">This massage utilizes a deep and firm pressure and is used to reduce chronic pain, spasm, trigger points and scar tissue.  Here at LATR we custom design this treatment based on your needs and problem areas.</p>
-	<p class="Color2">Half hour: $45 | One hour: $85 | Hour and a half: $125</p>
+	<p class="Color2">One hour: $90 | Hour and a half: $135</p>
 
 	<h2 class="PadT10">Circulatory and Lymphatic Massage</h2>
 	<p class="NoPadding">This massage consist of slow, light and repetitive strokes that help move blood and lymph fluid through the system of vessels and nodes.</p>
-	<p class="Color2">Half hour: $45 | One hour:85 | Hour and a half: $125</p>
+	<p class="Color2">One hour: $90 | Hour and a half: $135</p>
 
 	<h2 class="PadT10">Pregnancy Massage</h2>
 	<p class="NoPadding">A treatment that is addressing the strain felt in the lower and upper back, neck and legs that occurs during pregnancy.</p>
-	<p class="Color2">One hour: $85 | Hour and a half: $125</p>
+	<p class="Color2">One hour: $90 | Hour and a half: $135</p>
 
 	<h2 class="PadT10">Suction Cup and Massage Combo</h2>
 	<p class="NoPadding">This treatment is used for aches and pain of various types as well as respiratory problems, cough and wheezing. This is also a great treatment when you are coming out of a cold, flu and pneumonia. It is also great for improving circulation and menstrual problems.</p>
@@ -49,7 +49,7 @@
 
 	<h2 class="PadT10">Oncology Massage for Cancer</h2>
 	<p class="NoPadding">This massage helps alleviate side effects from cancer treatment procedures. It also increases relaxation and decreases muscle tension.</p>
-	<p class="Color2">One Hour: $85 | Hour and a half: $130</p>
+	<p class="Color2">One hour: $90 | Hour and a half: $135</p>
 
 	<br />
 	LATR has a 24 hours cancelation policy. Cash and all major credit cards are accepted.
