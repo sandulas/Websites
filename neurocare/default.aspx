@@ -12,90 +12,61 @@
 	
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
 		<h2 class="SectionHeader">Campanii Neurocare</h2>
-		<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
-			<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
-		<b>Cât costă o viaţă?</b><br /><br />
-		<p>
-		Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
+		<div style="height: 210px;">
+			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+			<b>Cât costă o viaţă?</b><br /><br />
+			<p>
+			Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
 
-		<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a>
-		<br /><br /><br /><br />
-		</p>
-			
-		<br />
+			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a>
+			</p>
+		</div>
 	<% } %>
 
-	<h2 class="SectionHeader"><%= "HeadWishList".T("Home")%></h2>
+
+	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<h2 class="SectionHeader"><%= "HeadWishList".T("Home")%></h2>
 	
-	<ol class="HoverInfoList">
-		<li>
-			<a href="javascript:;">
-				<%= "Content3Title1".T("Home")%>
-				<span>
-					<%= "Content3Description1".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li>
-			<a href="javascript:;">
-				<%= "Content3Title2".T("Home")%>
-				<span>
-					<%= "Content3Description2".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li>
-			<a href="javascript:;">
-				<%= "Content3Title4".T("Home")%>
-				<span>
-					<%= "Content3Description4".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li>
-			<a href="javascript:;">
-				<%= "Content3Title5".T("Home")%>
-				<span>
-					<%= "Content3Description5".T("Home")%>
-				</span>
-			</a>
-		</li>
+		<ol class="HoverInfoList">
+			<li>
+				<a href="javascript:;">
+					<%= "Content3Title1".T("Home")%>
+					<span>
+						<%= "Content3Description1".T("Home")%>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;">
+					<%= "Content3Title2".T("Home")%>
+					<span>
+						<%= "Content3Description2".T("Home")%>
+					</span>
+				</a>
+			</li>
 
-		<li class="Col2 Top">
-			<a href="javascript:;">
-				<%= "Content3Title6".T("Home")%>
-				<span>
-					<%= "Content3Description6".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li class="Col2">
-			<a href="javascript:;">
-				<%= "Content3Title7".T("Home")%>
-				<span>
-					<%= "Content3Description7".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li class="Col2">
-			<a href="javascript:;">
-				<%= "Content3Title8".T("Home")%>
-				<span>
-					<%= "Content3Description8".T("Home")%>
-				</span>
-			</a>
-		</li>
-		<li class="Col2">
-			<a href="javascript:;">
-				<%= "Content3Title10".T("Home")%>
-				<span>
-					<%= "Content3Description10".T("Home")%>
-				</span>
-			</a>
-		</li>
-	</ol>
+			<li class="Col2 Top">
+				<a href="javascript:;">
+					<%= "Content3Title3".T("Home")%>
+					<span>
+						<%= "Content3Description3".T("Home")%>
+					</span>
+				</a>
+			</li>
+			<li class="Col2">
+				<a href="javascript:;">
+					<%= "Content3Title4".T("Home")%>
+					<span>
+						<%= "Content3Description4".T("Home")%>
+					</span>
+				</a>
+			</li>
+		</ol>
 
-	<br />
+		<br /><br />
+	<% } %>
+
 	<h2 class="SectionHeader"><%= "HeadPartners".T("Home")%></h2>
 	<div class="ImageGrid">
 		<div class="Left Square">
