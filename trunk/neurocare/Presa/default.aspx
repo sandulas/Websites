@@ -9,6 +9,7 @@
 <h2><%= "Head".T("Presa") %></h2>
 <ul>
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<li><asp:HyperLink NavigateUrl="~/Presa/cat-de-constienti-suntem-de-sanatatea-organismului-nostru.aspx" runat="server"><%= "Item9Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Presa/manifestare-in-sprijinul-copiilor-bolnavi-de-epilepsie.aspx" runat="server"><%= "Item8Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Presa/dialog-despre-viata-copiilor-bolnavi-de-epilepsie.aspx" runat="server"><%= "Item7Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Presa/aproape-500.000-de-romani-sufera-de-epilepsie.aspx" runat="server"><%= "Item6Title".T("Presa") %></asp:HyperLink></li>

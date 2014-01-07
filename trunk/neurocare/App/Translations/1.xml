@@ -368,6 +368,8 @@
 		<Item7Head><![CDATA[Dialog fără prejudecăţi despre viaţa copiilor bolnavi de epilepsie, sâmbătă, în Herăstrău]]></Item7Head>
 		<Item8Title><![CDATA[Manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item8Title>
 		<Item8Head><![CDATA[Artiştii au participat la o manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item8Head>
+		<Item9Title><![CDATA[Cât de conştienţi suntem de sănatatea organismului nostru]]></Item9Title>
+		<Item9Head><![CDATA[Cat de Constienti Suntem de Sanatatea Organismului Nostru]]></Item9Head>
 		<Item1Content>
 			<![CDATA[
 			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>
@@ -683,6 +685,52 @@
 			http://www.mediafax.ro/social/artistii-au-participat-la-o-manifestare-a-neurocare-in-sprijinul-copiilor-bolnavi-de-epilepsie-9752881</a>
 			]]>
 		</Item8Author>
+		<Item9Content>
+			<![CDATA[
+			<p><i>"Sănătatea este o comoară pe care puţini ştiu să o preţuiască deşi aproape toţi se nasc cu ea"<br/>Hipocrate</i></p>
+			
+			<p>Cand organismul functioneaza la parametrii normali avem tendinta de a spune ca suntem sanatosi si ca nu putem sa ne imbolnavim. Dar
+			starea de bine poate sa dispara in orice moment din diferite cauze; uneori prin dereglari care apar in corpul nostru, ceea ce duce la
+			imbolnavirea subita a organismului.</p>
+			
+			<p>Atunci cand o persoana apropiata este spitalizata datorita unei situatii critice si ulterior operata, ajungi sa experimentezi stari
+			de neliniste, frustrare si neputinta de a ajuta mai mult.</p>
+			
+			<p>De cele mai multe ori cand aud de astfel de situatii, oamenii tind sa isi exprime compasiunea si intelegerea, dar cand trec ei
+			insisi prin astfel de experiente inteleg cu mult mai bine implicatiile care apar pentru rude si pacient.</p>
+			
+			<p>Pacientii cu afectiuni mai complicare ajung in spital pentru a primii ingrijiriile corespunzatoare si trebuie sa avem increderea si
+			speranta ca medicii vor face tot posibilul sa trateze problema de sanatate si sa salveze pacientul.</p>
+			
+			<p>Am fost placut impresionata ca intr-un astfel de moment de cumpana sa cunosc un doctor specialist care isi trateaza pacientii ca pe
+			fiinte umane si nu ii considera doar inca un caz medical. Rabdarea cu care discuta si explica situatia rudelor bolnavului in cauza si
+			modul de abordare a problemei medicale a pacientului a demonstrat ca pot exista si medici care au inteles si care aplica
+			"Juramantul lui Hipocrat".</p>
+			
+			<img src="##app_root##/Images/Presa/Articol9.jpg" class="General" align="middle" width="520" height="404">
+			
+			<br /><br />
+			<p>Acest medic, <b>Dr. Dan Teleanu</b>, neurochirurg la Spitalul Municipal din Bucuresti, este un erou pentru multi pacienti cu cazuri
+			dificile si interventii cu risc. Ar trebui sa fie un exemplu pentru multi viitori sau tineri medici care au ales aceasta specializare.
+			Un specialist bun nu este intotdeauna un doctor care ti-a fost recomandat ci poate fi un doctor la care ajungi in urgenta si care iti
+			acorda sansa de a trai prin profesionalismul de care da dovada.</p>
+
+			<p>Revenind la titlul acestui articol, ar trebui sa avem mai multa grija la semnalele transmise de propriul corp si sa ne ferim de
+			factorii nocivi din jurul nostru.</p>
+			
+			<p>Sanatatea trebuie pretuita mereu, nu numai atunci cand ne imbolnavim; ma refer aici la o alimentatie sanatoasa, un stil de viata
+			echilibrat, practicarea sportului si de ce nu, chiar o gandire pozitiva. Trebuie sa ne gandim ca acest proces de imbolnavire-vindecare
+			este intr-adevar reversibil, dar nu in toate cazurile. Si ar trebui sa ne dorim sa nu ajungem printre aceste cazuri unde sansele de
+			vindecare sunt minime sau inexistente.</p>
+			]]>
+		</Item9Content>
+		<Item9Author>
+			<![CDATA[
+			Sursa: www.ro.plaiderai.org<br />
+			<a href="http://www.ro.plaiderai.org/romana-cat-de-constienti-suntem-de-sanatatea-organismului-nostru/" target="_blank">
+			http://www.ro.plaiderai.org/romana-cat-de-constienti-suntem-de-sanatatea-organismului-nostru/</a>
+			]]>
+		</Item9Author>
 	</Presa>
 	<Doneaza>
 		<Title><![CDATA[Donează]]></Title>
@@ -916,6 +964,11 @@
 				<li>Ionela Iordachi</li>
 				<li><a href="http://www.intesasanpaolobank.ro/" target="_blank">Intesa Sanpaolo Bank</a></li>
 				<li>Familia Oana şi Sorin Trâmbiţaş</li>
+				<li>Familia Daria şi Ovidiu Mihet</li>
+				<li>Familia Monica şi Ionut Jilaveanu</li>
+				<li>Alex Dima</li>
+				<li>Enache Oana</li>
+				<li>Dubau Ana</li>
 			</ul>
 			]]>
 		</Content>

@@ -17,9 +17,11 @@
 				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
 			<b>Cât costă o viaţă?</b><br /><br />
 			<p>
-			Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
+				Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
 
-			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a>
+				<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+
+				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
 			</p>
 		</div>
 	<% } %>
