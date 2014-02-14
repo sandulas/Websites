@@ -12,10 +12,26 @@
 	
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
 		<h2 class="SectionHeader">Campanii Neurocare</h2>
-		<div style="height: 210px;">
+		<div style="border-bottom: solid 2px #ffffff; overflow: auto;">
+			<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+			<h2>Epilepsia se poate videca...!!!</h2>
+			<p>
+				Incepem o noua campanie, menita a ajuta copiii ce au nevoie de electroencefalograma. Cum in cazul sectiei noastre acest lucru se aplica majoritatii
+				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br /><br />
+				Ne dorim diagnostic cat mai precis si cat mai rapid, cu minim de disconfort pentru copii.<br />
+				Noi insine, medici primari, specialisti si rezidenti ne perfectionam continuu in diagnosticul electrofiziologic si acest lucru se reflecta in
+				continua crestere a numarului de copii pe care ii ingrijim.<br />
+				Fiti alaturi de noi - pentru a alina viata copilului cu epilepsie!<br /><br />
+
+				<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+			</p>
+		</div>
+
+		<div style="margin-top: 20px; overflow: auto; margin-bottom: 22px;">
 			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
 				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
-			<b>Cât costă o viaţă?</b><br /><br />
+			<h2>Cât costă o viaţă?</h2>
 			<p>
 				Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
 
