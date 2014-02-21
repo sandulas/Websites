@@ -15,7 +15,7 @@
 		<div style="border-bottom: solid 2px #ffffff; overflow: auto;">
 			<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
 				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
-			<h2>Epilepsia se poate videca...!!!</h2>
+			<h2>Epilepsia se poate vindeca...!!!</h2>
 			<p>
 				Incepem o noua campanie, menita a ajuta copiii ce au nevoie de electroencefalograma. Cum in cazul sectiei noastre acest lucru se aplica majoritatii
 				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br /><br />
