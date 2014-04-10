@@ -9,6 +9,7 @@
 <h2><%= "Head".T("Cazuri") %></h2>
 <ul>
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<li><asp:HyperLink NavigateUrl="~/Cazuri/oameni.aspx" runat="server"><%= "Item6Title".T("Cazuri")%></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Cazuri/mara-berciu-hello-kitty.aspx" runat="server"><%= "Item5Title".T("Cazuri")%></asp:HyperLink></li>
 	<% } %>
 	<li><asp:HyperLink NavigateUrl="~/cazuri/povestea-sarei.aspx" runat="server"><%= "Item4Title".T("Cazuri") %></asp:HyperLink></li>

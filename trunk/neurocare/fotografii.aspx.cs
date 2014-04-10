@@ -56,4 +56,9 @@ public partial class Default : System.Web.UI.Page
 		if ((e.Item.ItemIndex + 1) % 4 == 0) MarginRight = "";
 		else MarginRight = "margin-right: 8px; ";
 	}
+
+	protected void Page_PreRender(object sender, EventArgs e)
+	{
+		if (Language.GetCurrent() != (int)Languages.Romanian) Response.Redirect("~/");
+	}
 }
