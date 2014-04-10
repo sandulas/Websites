@@ -14,7 +14,7 @@
 		<h2 class="SectionHeader">Campanii Neurocare</h2>
 		<div style="border-bottom: solid 2px #ffffff; overflow: auto;">
 			<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
 			<h2>Epilepsia se poate vindeca...!!!</h2>
 			<p>
 				Incepem o noua campanie, menita a ajuta copiii ce au nevoie de electroencefalograma. Cum in cazul sectiei noastre acest lucru se aplica majoritatii
@@ -28,14 +28,36 @@
 			</p>
 		</div>
 
-		<div style="margin-top: 20px; overflow: auto; margin-bottom: 22px;">
+		<div style="border-bottom: solid 2px #ffffff; margin-top: 20px; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
 			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
-				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarR16" align="left" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
 			<h2>Cât costă o viaţă?</h2>
 			<p>
 				Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
 
 				<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+
+				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
+			</p>
+		</div>
+
+		<div style="margin-top: 20px; overflow: auto; margin-bottom: 22px;">
+			<div style="float: right; width: 210px;">
+				<a href="./Images/Home/aspirator-cusa1.jpg" rel="lightbox[cusa]">
+					<img src="./Images/Home/aspirator-cusa1-thumb.jpg" class="General MarL16" align="right" style="width: 154px; height: 206px; margin-bottom: 16px;" alt="Aspirator CUSA" /></a>
+				<a href="./Images/Home/aspirator-cusa2.jpg" rel="lightbox[cusa]">
+					<img src="./Images/Home/aspirator-cusa2-thumb.jpg" class="General MarL16" align="right" style="width: 154px; height: 206px;" alt="Aspirator CUSA" /></a>
+			</div>
+			<h2>Aspirator CUSA</h2>
+			<p>
+				Dragi prieteni,<br /><br />
+				Un alt VIS din wish list-ul nostru a prins viata...AM REUSIT sa aducem doua aparate CUSA in sectia de Neurochirurgie a Spitalului
+				Universitar Bucuresti.<br />
+				Datoram acest lucru unor oameni cu suflet din Danemarca, adica Dr Jannick BRENNUM - seful sectiei de Neurochirurgie si asistentei
+				Lone Therkelsen din Rigshospitalet - Copenhaga care ne-au donat aceste aparate.<br />
+				Multumiri Dnei Ana Dubau si TNT Romania care au asigurat transportul acestora in conditii excelente.<br />
+				Asadar, suntem impreuna din ce in ce mai multi, PENTRU VIATA!!
+				<br /><br /><br />
 
 				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
 			</p>
@@ -49,14 +71,6 @@
 		<ol class="HoverInfoList">
 			<li>
 				<a href="javascript:;">
-					<%= "Content3Title1".T("Home")%>
-					<span>
-						<%= "Content3Description1".T("Home")%>
-					</span>
-				</a>
-			</li>
-			<li>
-				<a href="javascript:;">
 					<%= "Content3Title2".T("Home")%>
 					<span>
 						<%= "Content3Description2".T("Home")%>
@@ -64,7 +78,7 @@
 				</a>
 			</li>
 
-			<li class="Col2 Top">
+			<li>
 				<a href="javascript:;">
 					<%= "Content3Title3".T("Home")%>
 					<span>
@@ -72,7 +86,8 @@
 					</span>
 				</a>
 			</li>
-			<li class="Col2">
+			
+			<li class="Col2 Top">
 				<a href="javascript:;">
 					<%= "Content3Title4".T("Home")%>
 					<span>
@@ -82,7 +97,7 @@
 			</li>
 		</ol>
 
-		<br /><br />
+		<br /><br /><br />
 	<% } %>
 
 	<h2 class="SectionHeader"><%= "HeadPartners".T("Home")%></h2>
