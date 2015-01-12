@@ -126,6 +126,12 @@
 					<asp:Image ImageUrl="~/Images/Home/logo-intesa-sanpaolo-bank.gif" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
+		<div class="Left Square">
+			<div>
+				<a href="http://www.kinetobebe.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-kineto-bebe.jpg" CssClass="GeneralWhite" runat="server" /></a>
+			</div>
+		</div>
 	</div>
 
 	<div style="height: 95px; clear:both;">&nbsp;</div>

@@ -19,18 +19,18 @@
 			<p>Dacă aţi realizat venituri din salarii, completaţi formularul 230.
 			<a href="##app_root##/doneaza.aspx#formular230" runat="server">detalii...</a></p>
 			<div class="DownloadItem">
-				<a href="##app_root##/Files/Formular230_2014_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" target="_blank">
+				<a href="##app_root##/Files/Formular230_2015_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" target="_blank">
 					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
-				<a href="##app_root##/Files/Formular230_2014_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" target="_blank">
+				<a href="##app_root##/Files/Formular230_2015_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Coloana din dreapta']);" target="_blank">
 					Descarcă formularul 230</a>
 			</div>
 			<br />
 			<p>Dacă aţi realizat venituri din alte surse, completaţi formularul 200.
 			<a href="##app_root##/doneaza.aspx#formular200">detalii...</a></p>
 			<div class="DownloadItem">
-				<a href="##app_root##/Files/Formular200_2014_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" target="_blank">
+				<a href="##app_root##/Files/Formular200_2015_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" target="_blank">
 					<img src="##app_root##/App/Images/PdfIcon.png" alt="Pdf Icon" /></a>
-				<a href="##app_root##/Files/Formular200_2014_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" target="_blank">
+				<a href="##app_root##/Files/Formular200_2015_Neurocare.pdf" class="Text" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Coloana din dreapta']);" target="_blank">
 					Descarcă formularul 200</a>
 			</div>
 			]]>
@@ -883,7 +883,7 @@
 			sau dacă aţi obţinut venituri asimilate salariilor (indemnizaţia administratorului, indemnizaţia directorilor, asociaţilor unici, suma din
 			profitul net, cuvenită administratorilor la companii/societăţi naţionale, remuneraţia primită de preşedintele asociaţiei de proprietari,
 			etc.:</a></b></p>
-			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular230_2014_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Pagina doneaza']);" target="_blank">Formularul 230</a>
+			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular230_2015_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 230', 'Pagina doneaza']);" target="_blank">Formularul 230</a>
 			"Cerere privind destinaţia sumei reprezentând pâna la 2% din impozitul pe venitul anual şi deducerea
 			cheltuielilor efectuate pentru economisirea în sistem colectiv pentru domeniul locativ" .pdf (poate fi obţinut gratuit şi de la orice
 			administraţie financiară).<br />
@@ -914,7 +914,7 @@
 			etc.)</a></b>, aveţi obligaţia legală (cu excepţia PFA norme de venit) să depuneţi la administraţia financiară o Declaraţie privind veniturile
 			realizate de dvs. în anul anterior, Formularul 200. Cu acelaşi formular, într-o rubrică separată, se poate dona 2% din impozitul datorat astfel
 			(mai multe detalii la: <a href="http://declaratia200.ro/" target="_blank">http://declaratia200.ro/</a>):</p>
-			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular200_2014_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Pagina doneaza']);" target="_blank">Formularul 200</a>
+			<p>- Descărcaţi aici <a href="##app_root##/Files/Formular200_2015_Neurocare.pdf" onclick="_gaq.push(['_trackEvent', 'Downloads', 'Formular 200', 'Pagina doneaza']);" target="_blank">Formularul 200</a>
 			"Declaraţie privind veniturile realizate" .pdf (poate fi obţinut gratuit şi de la orice administraţie financiară).<br />
 			- Tipăriţi formularul (5 pagini) în 2 exemplare.</p>
 			<p>Declaraţia se completează înscriind cu majuscule, citeţ şi corect, datele prevăzute de formular.<br />
