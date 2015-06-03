@@ -1,14 +1,48 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Columns.master" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="Default" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/TopAndColumns.master" AutoEventWireup="true" CodeFile="default.aspx.cs" Inherits="Default" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 	<title><%= "Title".T("Home") %></title>
 </asp:Content>
 
-<asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">
+<asp:Content ID="Content3" ContentPlaceHolderID="TopLine" Runat="Server">
 
-	<h2 class="SectionHeader"><%= "HeadAbout".T("Home")%></h2>
-	<%= "ContentAbout".T("Home")%>
-	<br />
+	<h2 class="SectionHeaderTop"><%= "HeadAbout".T("Home")%></h2>
+
+	<div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: solid 2px #ffffff; overflow: auto;">
+		<div class="ImageCard MarR16">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Raluca Teleanu</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Dan Teleanu</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Daniela Vasile</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Diana Epure</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Magdalena Sandu</a>
+		</div>
+		<div class="ImageCard">
+			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Adina Istrate</a>
+		</div>
+	</div>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="LeftColumn" Runat="Server">
 	
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
 		<h2 class="SectionHeader">Campanii Neurocare</h2>

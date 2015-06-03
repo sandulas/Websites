@@ -210,7 +210,8 @@ IMG
 	padding: 6px 10px;
 }
 
-/* End Main Menu */
+
+/* Master Pages */
 
 #main #content
 {
@@ -221,6 +222,12 @@ IMG
 	border-style: solid;
 	min-height: 120px;
 	overflow: auto;
+}
+#main #topLine
+{
+	float: left;
+	width: 854px;
+	padding: 5px 20px;
 }
 #main #leftColumn
 {
@@ -264,6 +271,30 @@ IMG
 .ContentColumns
 {
 	padding: 15px 0 10px 0;
+}
+
+
+
+/* Home Page Top Line*/
+.ImageCard
+{
+	float: left;
+	width: 129px;
+}
+.ImageCard img
+{
+	width: 125px;
+	height: 167px;
+}
+.ImageCard a.imageCardCaption
+{
+	display: block;
+	padding: 8px 0px;
+	background-color: #ffffff;
+	font-weight: bold;
+	font-size: 13px;
+	color: #000000;
+	text-align: center;
 }
 
 
@@ -396,6 +427,13 @@ H2.SectionHeader
 	margin: -5px -8px 0 -8px;
 	padding: 3px 0 15px 8px;
 }
+H2.SectionHeaderTop
+{
+	background: url(../Images/SectionHeaderTop.png) no-repeat;
+	margin: -5px -8px 0 -8px;
+	padding: 3px 0 15px 8px;
+}
+
 A.Anchor
 {
 	color: #222222;
