@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" CodeFile="TopAndColumns.master.cs" Inherits="Columns" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+	<asp:ContentPlaceHolder ID="head" runat="server">
+		<title><%= "Title".T("Common") %></title>
+	</asp:ContentPlaceHolder>
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
+	
+	<div id="topLine">
+		<asp:ContentPlaceHolder ID="TopLine" runat="server">
+		</asp:ContentPlaceHolder>		
+	</div>
+
+	<div id="leftColumn">
+		<asp:ContentPlaceHolder ID="LeftColumn" runat="server">
+		</asp:ContentPlaceHolder>
+	</div>
+	
+	<div id="rightColumn">
+
+		<asp:ContentPlaceHolder ID="RightColumn1" runat="server">
+			<h2><%= "RightHead1".T("Common")%></h2>
+			<%= "RightContent1".T("Common")%>
+			<br />
+		</asp:ContentPlaceHolder>
+		
+		<asp:ContentPlaceHolder ID="RightColumn2" runat="server">
+			<h2><%= "RightHead2".T("Common")%></h2>
+			<%= "RightContent2".T("Common")%>
+		</asp:ContentPlaceHolder>
+
+	</div>
+</asp:Content>
+
