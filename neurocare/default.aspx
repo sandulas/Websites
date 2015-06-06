@@ -8,36 +8,36 @@
 
 	<h2 class="SectionHeaderTop"><%= "HeadAbout".T("Home")%></h2>
 
-	<div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: solid 4px #aec79e; overflow: auto;">
+	<div style="margin-bottom: 16px; padding: 6px 0 16px 0; border-bottom: solid 4px #b8d5a6; overflow: auto;">
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Raluca-Teleanu.jpg" class="General" align="middle" alt="Raluca Teleanu" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Raluca Teleanu</a>
+				<img src="./Images/Home/Bios/Raluca-Teleanu.jpg" align="middle" alt="Raluca Teleanu" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Raluca Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Dan-Teleanu.jpg" class="General" align="middle" alt="Dan Teleanu" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Dan Teleanu</a>
+				<img src="./Images/Home/Bios/Dan-Teleanu.jpg" align="middle" alt="Dan Teleanu" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Dan Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Dana-Vasile.jpg" class="General" align="middle" alt="Daniela Vasile" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Daniela Vasile</a>
+				<img src="./Images/Home/Bios/Dana-Vasile.jpg" align="middle" alt="Daniela Vasile" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Daniela Vasile</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Diana-Epure.jpg" class="General" align="middle" alt="Diana Epure" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Diana Epure</a>
+				<img src="./Images/Home/Bios/Diana-Epure.jpg" align="middle" alt="Diana Epure" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Diana Epure</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Magda-Sandu.jpg" class="General" align="middle" alt="Magdalena Sandu" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Magdalena Sandu</a>
+				<img src="./Images/Home/Bios/Magda-Sandu.jpg" align="middle" alt="Magdalena Sandu" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Magdalena Sandu</a>
 		</div>
 		<div class="ImageCard">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Adina-Istrate.jpg" class="General" align="middle" alt="Adina Istrate" /></a>
-			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Adina Istrate</a>
+				<img src="./Images/Home/Bios/Adina-Istrate.jpg" align="middle" alt="Adina Istrate" /></a>
+			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Adina Istrate</a>
 		</div>
 	</div>
 </asp:Content>
@@ -46,52 +46,61 @@
 	
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
 		<h2 class="SectionHeader">Campanii Neurocare</h2>
-		<div style="border-bottom: solid 4px #aec79e; overflow: auto;">
-			<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+		<%--
+        <div style="padding: 6px 0 16px 0; overflow: auto;">
+		    <div class="ImageCard2 MarR20">
+			    <a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
+			        <img src="./Images/Home/Campanii/epilepsia-se-poate-vindeca-card.jpg" align="middle" alt="Epilepsia se poate vindeca" /></a>
+			    <div class="caption notfinished">În desfasurare</div>
+		    </div>
+		    <div class="ImageCard2 MarR20">
+    			<a href="./Images/Home/Campanii/cat-costa-o-viata-flyer.jpg" rel="lightbox">
+				    <img src="./Images/Home/Campanii/cat-costa-o-viata-card.jpg" align="middle" alt="cat-costa-o-viata-card.jpg" /></a>
+			    <div class="caption finished">Încheiata cu succes</div>
+		    </div>
+		    <div class="ImageCard2">
+				<a href="./Images/Home/Campanii/aspirator-cusa-flyer.jpg" rel="lightbox">
+				    <img src="./Images/Home/Campanii/aspirator-cusa-card.jpg" align="middle" alt="Daniela Vasile" /></a>
+			    <div class="caption finished">Încheiata cu succes</div>
+		    </div>
+        </div>
+        --%>
+
+		<div style="border-bottom: solid 4px #aec79e; margin-bottom: 22px; padding-bottom: 22px; overflow: auto;">
+			<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/Campanii/epilepsia-se-poate-vindeca-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Epilepsia se poate vindeca...!!!" /></a>
 			<h2>Epilepsia se poate vindeca...!!!</h2>
 			<p>
 				Incepem o noua campanie, menita a ajuta copiii ce au nevoie de electroencefalograma. Cum in cazul sectiei noastre acest lucru se aplica majoritatii
-				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br /><br />
-				Ne dorim diagnostic cat mai precis si cat mai rapid, cu minim de disconfort pentru copii.<br />
-				Noi insine, medici primari, specialisti si rezidenti ne perfectionam continuu in diagnosticul electrofiziologic si acest lucru se reflecta in
-				continua crestere a numarului de copii pe care ii ingrijim.<br />
-				Fiti alaturi de noi - pentru a alina viata copilului cu epilepsie!<br /><br />
+				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br />
+				Ne dorim diagnostic cat mai precis si cat mai rapid, cu minim de disconfort pentru copii.<br /><br />
 
-				<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+				<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a>
 			</p>
 		</div>
 
-		<div style="border-bottom: solid 4px #aec79e; margin-top: 20px; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
-			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
-				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
+		<div style="border-bottom: solid 4px #aec79e; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
+			<a href="./Images/Home/Campanii/cat-costa-o-viata-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/Campanii/cat-costa-o-viata-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Cât costă o viaţă?" /></a>
 			<h2>Cât costă o viaţă?</h2>
 			<p>
 				Am demarat campania de strângere de fonduri pentru achiziţionarea unui neuroendoscop.<br /><br />
 
-				<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+				<a href="./Images/Home/Campanii/cat-costa-o-viata-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
 
 				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
 			</p>
 		</div>
 
-		<div style="margin-top: 20px; overflow: auto; margin-bottom: 22px;">
-			<div style="float: right; width: 210px;">
-				<a href="./Images/Home/aspirator-cusa1.jpg" rel="lightbox[cusa]">
-					<img src="./Images/Home/aspirator-cusa1-thumb.jpg" class="General MarL16" align="right" style="width: 154px; height: 206px; margin-bottom: 16px;" alt="Aspirator CUSA" /></a>
-				<a href="./Images/Home/aspirator-cusa2.jpg" rel="lightbox[cusa]">
-					<img src="./Images/Home/aspirator-cusa2-thumb.jpg" class="General MarL16" align="right" style="width: 154px; height: 206px;" alt="Aspirator CUSA" /></a>
-			</div>
+		<div style="overflow: auto; margin-bottom: 26px;">
+			<a href="./Images/Home/Campanii/aspirator-cusa-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/Campanii/aspirator-cusa-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Aspirator CUSA" /></a>
 			<h2>Aspirator CUSA</h2>
 			<p>
-				Dragi prieteni,<br /><br />
-				Un alt VIS din wish list-ul nostru a prins viata...AM REUSIT sa aducem doua aparate CUSA in sectia de Neurochirurgie a Spitalului
-				Universitar Bucuresti.<br />
-				Datoram acest lucru unor oameni cu suflet din Danemarca, adica Dr Jannick BRENNUM - seful sectiei de Neurochirurgie si asistentei
-				Lone Therkelsen din Rigshospitalet - Copenhaga care ne-au donat aceste aparate.<br />
-				Multumiri Dnei Ana Dubau si TNT Romania care au asigurat transportul acestora in conditii excelente.<br />
-				Asadar, suntem impreuna din ce in ce mai multi, PENTRU VIATA!!
-				<br /><br /><br />
+				Un alt vis din wish list-ul nostru a prins viata: am reusit sa aducem doua aparate CUSA in sectia de Neurochirurgie a Spitalului
+				Universitar Bucuresti.<br /><br />
+
+				<a href="./Images/Home/Campanii/aspirator-cusa-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
 
 				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
 			</p>

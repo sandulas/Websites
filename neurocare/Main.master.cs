@@ -28,7 +28,7 @@ public partial class Main : System.Web.UI.MasterPage
 		switch (Request.AppRelativeCurrentExecutionFilePath.ToLower())
 		{
 			case "~/default.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem1.Attributes.Add("class", "Selected");
 				FacebookLink.Visible = false;
 				break;
@@ -37,7 +37,7 @@ public partial class Main : System.Web.UI.MasterPage
 				MenuItem2.Attributes.Add("class", "Selected");
 				break;
 			case "~/cazuri/default.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem3.Attributes.Add("class", "Selected");
 				break;
 			case "~/cazuri/povestea-sorinei.aspx":
@@ -45,7 +45,7 @@ public partial class Main : System.Web.UI.MasterPage
 				MenuItem3.Attributes.Add("class", "Selected");
 				break;
 			case "~/cazuri/darius-preda.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem3.Attributes.Add("class", "Selected");
 				break;
 			case "~/cazuri/un-alt-fel-de-exercitiu-de-admiratie.aspx":
@@ -57,7 +57,7 @@ public partial class Main : System.Web.UI.MasterPage
 				MenuItem4.Attributes.Add("class", "Selected");
 				break;
 			case "~/presa/barbatul-care-a-invins-patru-forme-de-cancer-intr-un-an.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem4.Attributes.Add("class", "Selected");
 				break;
 			case "~/sponsori.aspx":
@@ -65,7 +65,7 @@ public partial class Main : System.Web.UI.MasterPage
 				MenuItem5.Attributes.Add("class", "Selected");
 				break;
 			case "~/doneaza.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem6.Attributes.Add("class", "Selected");
 				break;
 			case "~/fotografii.aspx":
@@ -73,11 +73,11 @@ public partial class Main : System.Web.UI.MasterPage
 				MenuItem7.Attributes.Add("class", "Selected");
 				break;
 			case "~/contact.aspx":
-				HeaderNr = 1;
+				HeaderNr = 2;
 				MenuItem8.Attributes.Add("class", "Selected");
 				break;
 			default:
-				HeaderNr = 1;
+				HeaderNr = 2;
 				break;
 		}
 
