@@ -275,7 +275,7 @@ IMG
 
 
 
-/* Home Page Top Line*/
+/* Home Page*/
 .ImageCard
 {
 	float: left;
@@ -283,20 +283,48 @@ IMG
 }
 .ImageCard img
 {
-	width: 125px;
-	height: 167px;
+	width: 121px;
+	height: 163px;
+    border: solid 4px #ffffff;
 }
-.ImageCard a.imageCardCaption
+.ImageCard a.caption
 {
 	display: block;
-	padding: 8px 0px;
+	padding: 4px 0px 8px 0px;
 	background-color: #ffffff;
 	font-weight: bold;
 	font-size: 13px;
 	color: #000000;
 	text-align: center;
 }
-
+.ImageCard2
+{
+	float: left;
+	width: 164px;
+}
+.ImageCard2 img
+{
+	width: 160px;
+	height: 240px;
+    border: solid 2px #ffffff;
+}
+.ImageCard2 div.caption
+{
+	display: block;
+	padding: 5px 0px 4px 0px;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+	text-align: center;
+}
+.ImageCard2 div.finished
+{
+	background-color: #aa0000;
+}
+.ImageCard2 div.notfinished
+{
+	background-color: #00aa00;
+}
 
 
 /* Hover Info List */
@@ -509,6 +537,10 @@ DIV.DownloadItem IMG
 .MarR16
 {
 	margin-right: 16px;
+}
+.MarR20
+{
+	margin-right: 14px;
 }
 .MarL16
 {
