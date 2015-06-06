@@ -8,35 +8,35 @@
 
 	<h2 class="SectionHeaderTop"><%= "HeadAbout".T("Home")%></h2>
 
-	<div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: solid 2px #ffffff; overflow: auto;">
+	<div style="margin-bottom: 16px; padding-bottom: 16px; border-bottom: solid 4px #aec79e; overflow: auto;">
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Raluca-Teleanu.jpg" class="General" align="middle" alt="Raluca Teleanu" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Raluca Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Dan-Teleanu.jpg" class="General" align="middle" alt="Dan Teleanu" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Dan Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Dana-Vasile.jpg" class="General" align="middle" alt="Daniela Vasile" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Daniela Vasile</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Diana-Epure.jpg" class="General" align="middle" alt="Diana Epure" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Diana Epure</a>
 		</div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Magda-Sandu.jpg" class="General" align="middle" alt="Magdalena Sandu" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Magdalena Sandu</a>
 		</div>
 		<div class="ImageCard">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General" align="middle" alt="Cât costă o viaţă?" /></a>
+				<img src="./Images/Home/Bios/Adina-Istrate.jpg" class="General" align="middle" alt="Adina Istrate" /></a>
 			<a class="imageCardCaption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Adina Istrate</a>
 		</div>
 	</div>
@@ -46,7 +46,7 @@
 	
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
 		<h2 class="SectionHeader">Campanii Neurocare</h2>
-		<div style="border-bottom: solid 2px #ffffff; overflow: auto;">
+		<div style="border-bottom: solid 4px #aec79e; overflow: auto;">
 			<a href="./Images/Home/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
 				<img src="./Images/Home/epilepsia-se-poate-vindeca-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
 			<h2>Epilepsia se poate vindeca...!!!</h2>
@@ -62,7 +62,7 @@
 			</p>
 		</div>
 
-		<div style="border-bottom: solid 2px #ffffff; margin-top: 20px; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
+		<div style="border-bottom: solid 4px #aec79e; margin-top: 20px; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
 			<a href="./Images/Home/cat-costa-o-viata-flyer.jpg" rel="lightbox">
 				<img src="./Images/Home/cat-costa-o-viata-banner.jpg" class="General MarL16" align="right" style="width: 250px; height: 181px;" alt="Cât costă o viaţă?" /></a>
 			<h2>Cât costă o viaţă?</h2>
