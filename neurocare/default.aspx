@@ -9,6 +9,10 @@
 	<h2 class="SectionHeaderTop"><%= "HeadAbout".T("Home")%></h2>
 
 	<div style="margin-bottom: 16px; padding: 6px 0 16px 0; border-bottom: solid 4px #b8d5a6; overflow: auto;">
+        <div>
+            Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii.
+            Noi suntem cei pe care ei îi privesc cu speranţa în ochi şi de la care cer ajutor. Noi suntem hotărâţi să schimbăm destine!<br /><br />
+        </div>
 		<div class="ImageCard MarR16">
 			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
 				<img src="./Images/Home/Bios/Raluca-Teleanu.jpg" align="middle" alt="Raluca Teleanu" /></a>
