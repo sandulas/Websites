@@ -51,13 +51,8 @@
     <HeadAbout><![CDATA[Cine suntem?]]></HeadAbout>
 		<ContentAbout>
 			<![CDATA[
-			<p>Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii...<br />
-			Noi suntem oameni, care nu ne mai putem uita indiferenţi la durerea lor...<br />
-			Noi suntem cei pe care ei îi privesc cu speranţa în ochi şi de la care cer ajutor....<br />
-			Noi suntem hotărâţi să schimbăm destine...</p>
-
-			<p>De aceea, ne-am adunat forţele pentru a fi mai puternici...<br />
-			Noi suntem Asociaţia Neurocare şi vă asteptăm să vă alăturaţi nouă!</p>
+	        <p>Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii.
+            Noi suntem cei pe care ei îi privesc cu speranţa în ochi şi de la care cer ajutor. Noi suntem hotărâţi să schimbăm destine!</p>
 			]]>
 		</ContentAbout>
 		<HeadWishList><![CDATA[Wish list]]></HeadWishList>
@@ -133,25 +128,26 @@
 			0724 726 756</p>
 			]]>
 		</ContentLeft>
-		<HeadRight1><![CDATA[Membri fondatori]]></HeadRight1>
+		<HeadRight1><![CDATA[MEMBRI ACTIVI]]></HeadRight1>
 		<ContentRight1>
 			<![CDATA[
 			<p><b>Dr. Raluca Teleanu</b> - Medic primar neurologie pediatrică.</p>
-			<p><b>Dr. Dan Teleanu</b> -	Medic primar neurochirurgie, "Spitalul Universitar de Urgenţă" Bucureşti.</p>
+			<p><b>Dr. Dan Teleanu</b> -	Medic primar neurochirurgie.</p>
+			<p><b>Dr. Magda Sandu</b> - Medic specialist neurologie pediatrică.</p>
+			<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
+			<p><b>Dr. Daniela Vasile</b> - Medic specialist neurologie pediatrică.</p>
 			<p><b>As. Adina Istrate</b> - Asistent şef secţia neurologie pediatrică.</p>
 			]]>
 		</ContentRight1>
-		<HeadRight2><![CDATA[Voluntari]]></HeadRight2>
+		<HeadRight2><![CDATA[VOLUNTARI]]></HeadRight2>
 		<ContentRight2>
 			<![CDATA[
-			<p><b>Dr. Magda Sandu</b> - Medic specialist neurologie pediatrică.</p>
-			<p><b>Dr. Daniela Vasile</b> - Medic specialist neurologie pediatrică.</p>
-			<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
-			<p><b>Dr. Matei Margărita</b> - Medic specialist endocrinologie şi diabet - boli de nutriţie.</p>
-			<p><b>Dr. Mihaela Chitilă</B> - Medic pediatru.</p>
-			<p><b>Dna Alexandra Ciobanu</b></p>
-			<p><b>Dna Laura Hamzea</b></p>
-			<p><b>Mihai Rădulescu</b> - Student medicină.</p>
+			<p><b>Dr. Ana Maria Geanta</b> - Medic rezident neurologie pediatrică.</p>
+			<p><b>Dr. Bogdan Buse</b> - Medic rezident neurologie pediatrică.</p>
+			<p><b>Dr. Eugenia Roza</b> - Medic rezident neurologie pediatrică.</p>
+			<p><b>Dr. Mihai Musetescu</b> - Medic rezident neurologie pediatrică.</p>
+			<p><b>Dr. Oana Vladacenco</b> - Medic rezident neurologie pediatrică.</p>
+			<p><b>Dr. Smaranda Nita</b> - Medic rezident neurologie pediatrică.</p>
 			]]>
 		</ContentRight2>
 	</Contact>

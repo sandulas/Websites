@@ -13,7 +13,7 @@
 		</asp:ContentPlaceHolder>		
 	</div>
 
-	<div id="leftColumn">
+	<div id="leftColumnHome">
 		<asp:ContentPlaceHolder ID="LeftColumn" runat="server">
 		</asp:ContentPlaceHolder>
 	</div>

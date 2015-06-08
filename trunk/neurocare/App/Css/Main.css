@@ -245,6 +245,14 @@ IMG
 	padding: 5px 20px;
 	min-height: 504px;
 }
+#main #leftColumnHome
+{
+	float: left;
+	width: 520px;
+	border-right: solid 2px #fff;
+	padding: 5px 20px;
+	min-height: 904px;
+}
 #main #rightColumn
 {
 	float: left;

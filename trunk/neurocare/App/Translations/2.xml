@@ -51,13 +51,8 @@
 		<HeadAbout><![CDATA[Who are we?]]></HeadAbout>
 		<ContentAbout>
 			<![CDATA[
-			<p>We are doctors and nurses that live every day with the frustation of not being able to help our patients...<br />
-			We are people who cannot indifferently stand by and watch their pain anymore...<br />
-			We are the ones they look hopefully to and whom they ask for help....<br />
-			We are determined to change destinies...</p>
-
-			<p>This is why we have joined forces to be stronger...<br />
-			We are the Neurocare Association and we're waiting for you to join us!</p>
+			<p>We are doctors and nurses that live every day with the frustation of not being able to help our patients.
+			We are the ones they look hopefully to and whom they ask for help. We are determined to change destinies!</p>
 			]]>
 		</ContentAbout>
 		<HeadWishList><![CDATA[Wish list]]></HeadWishList>
@@ -133,25 +128,26 @@
 			0724 726 756</p>
 			]]>
 		</ContentLeft>
-		<HeadRight1><![CDATA[Founding members]]></HeadRight1>
+		<HeadRight1><![CDATA[ACTIVE MEMBERS]]></HeadRight1>
 		<ContentRight1>
 			<![CDATA[
-			<p><b>Dr. Raluca Teleanu</b> - Pediatric Neurology physician.</p>
-			<p><b>Dr. Dan Teleanu</b> -	Neurosurgeon physician, "Spitalul Universitar de Urgenţă" (Emergency University Hospital) Bucharest.</p>
+			<p><b>Dr. Raluca Teleanu</b> - Pediatric Neurology Physician.</p>
+			<p><b>Dr. Dan Teleanu</b> -	Neurosurgeon Physician.</p>
+			<p><b>Dr. Magda Sandu</b> - Pediatric Neurology Specialist.</p>
+			<p><b>Dr. Diana Epure</b> -	Pediatric Neurology Specialist.</p>
+			<p><b>Dr. Daniela Vasile</b> - Pediatric Neurology Specialist.</p>
 			<p><b>As. Adina Istrate</b> - Chief Nurse of the Pediatric Neurology Ward.</p>
 			]]>
 		</ContentRight1>
-		<HeadRight2><![CDATA[Volunteers]]></HeadRight2>
+		<HeadRight2><![CDATA[VOLUNTEERS]]></HeadRight2>
 		<ContentRight2>
 			<![CDATA[
-			<p><b>Dr. Magda Sandu</b> - Pediatric Neurology Specialist.</p>
-			<p><b>Dr. Daniela Vasile</b> - Pediatric Neurology Specialist.</p>
-			<p><b>Dr. Diana Epure</b> -	Pediatric Neurology Specialist.</p>
-			<p><b>Dr. Matei Margărita</b> - Endocrinology and Diabetes Specialist.</p>
-			<p><b>Dr. Mihaela Chitilă</B> - Pediatrician.</p>
-			<p><b>Mrs. Alexandra Ciobanu</b></p>
-			<p><b>Mrs. Dna Laura Hamzea</b></p>
-			<p><b>Mihai Rădulescu</b> - Medicine student.</p>
+			<p><b>Dr. Ana Maria Geanta</b> - Pediatric Neurology Resident.</p>
+			<p><b>Dr. Bogdan Buse</b> - Pediatric Neurology Resident.</p>
+			<p><b>Dr. Eugenia Roza</b> - Pediatric Neurology Resident.</p>
+			<p><b>Dr. Mihai Musetescu</b> - Pediatric Neurology Resident.</p>
+			<p><b>Dr. Oana Vladacenco</b> - Pediatric Neurology Resident.</p>
+			<p><b>Dr. Smaranda Nita</b> - Pediatric Neurology Resident.</p>
 			]]>
 		</ContentRight2>
 	</Contact>

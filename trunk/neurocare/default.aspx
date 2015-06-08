@@ -9,39 +9,38 @@
 	<h2 class="SectionHeaderTop"><%= "HeadAbout".T("Home")%></h2>
 
 	<div style="margin-bottom: 16px; padding: 6px 0 16px 0; border-bottom: solid 4px #b8d5a6; overflow: auto;">
-        <div>
-            Noi suntem medici şi asistente care trăiesc în fiecare zi frustrarea de a nu ne putea ajuta pacienţii.
-            Noi suntem cei pe care ei îi privesc cu speranţa în ochi şi de la care cer ajutor. Noi suntem hotărâţi să schimbăm destine!<br /><br />
-        </div>
+		
+		<%= "ContentAbout".T("Home")%>
+		
 		<div class="ImageCard MarR16">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+			<a href="./Files/Home/Bios/Raluca-Teleanu.pdf" target="_blank">
 				<img src="./Images/Home/Bios/Raluca-Teleanu.jpg" align="middle" alt="Raluca Teleanu" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Raluca Teleanu</a>
+			<a class="caption" href="./Files/Home/Bios/Raluca-Teleanu.pdf" target="_blank">Raluca Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+			<a href="./Files/Home/Bios/Dan-Teleanu.pdf" target="_blank">
 				<img src="./Images/Home/Bios/Dan-Teleanu.jpg" align="middle" alt="Dan Teleanu" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Dan Teleanu</a>
+			<a class="caption" href="./Files/Home/Bios/Dan-Teleanu.pdf" target="_blank">Dan Teleanu</a>
 		</div>
 		<div class="ImageCard MarR16">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Dana-Vasile.jpg" align="middle" alt="Daniela Vasile" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Daniela Vasile</a>
-		</div>
-		<div class="ImageCard MarR16">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
-				<img src="./Images/Home/Bios/Diana-Epure.jpg" align="middle" alt="Diana Epure" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Diana Epure</a>
-		</div>
-		<div class="ImageCard MarR16">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+			<a href="./Files/Home/Bios/Magda-Sandu.pdf" target="_blank">
 				<img src="./Images/Home/Bios/Magda-Sandu.jpg" align="middle" alt="Magdalena Sandu" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Magdalena Sandu</a>
+			<a class="caption" href="./Files/Home/Bios/Magda-Sandu.pdf" target="_blank">Magdalena Sandu</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Home/Bios/Diana-Epure.pdf" target="_blank">
+				<img src="./Images/Home/Bios/Diana-Epure.jpg" align="middle" alt="Diana Epure" /></a>
+			<a class="caption" href="./Files/Home/Bios/Diana-Epure.pdf" target="_blank">Diana Epure</a>
+		</div>
+		<div class="ImageCard MarR16">
+			<a href="./Files/Home/Bios/Dana-Vasile.pdf" target="_blank">
+				<img src="./Images/Home/Bios/Dana-Vasile.jpg" align="middle" alt="Daniela Vasile" /></a>
+			<a class="caption" href="./Files/Home/Bios/Dana-Vasile.pdf" target="_blank">Daniela Vasile</a>
 		</div>
 		<div class="ImageCard">
-			<a href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">
+			<a href="./Files/Home/Bios/Adina-Istrate.pdf" target="_blank">
 				<img src="./Images/Home/Bios/Adina-Istrate.jpg" align="middle" alt="Adina Istrate" /></a>
-			<a class="caption" href="./Files/Formular230_2015_Neurocare.pdf" target="_blank">Adina Istrate</a>
+			<a class="caption" href="./Files/Home/Bios/Adina-Istrate.pdf" target="_blank">Adina Istrate</a>
 		</div>
 	</div>
 </asp:Content>
@@ -208,8 +207,8 @@
 			<asp:Image ImageUrl="~/App/Images/paypal-donate.gif" Width="147" Height="47" AlternateText="PayPal - The safer, easier way to pay online!" runat="server" /></a>
 	</div>
 
-	<div style="background: #f6f6f6; margin-top: 15px; float: left; clear: both;">
-		<div class="fb-like-box" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="520" data-colorscheme="light" data-show-faces="true" data-border-color="#34A34C" data-stream="true" data-header="true"></div>
+	<div style="background: #f6f6f6; margin-top: 15px; float: left; width: 292px; clear: both;">
+		<div class="fb-page" data-href="http://www.facebook.com/asociatianeurocare" data-width="292" data-height="720" data-hide-cover="true" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="http://www.facebook.com/asociatianeurocare"><a href="http://www.facebook.com/asociatianeurocare">Asociaţia Neurocare</a></blockquote></div></div>
 	</div>
 	<br /><br />
 
