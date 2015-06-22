@@ -131,23 +131,23 @@
 		<HeadRight1><![CDATA[MEMBRI ACTIVI]]></HeadRight1>
 		<ContentRight1>
 			<![CDATA[
-			<p><b>Dr. Raluca Teleanu</b> - Medic primar neurologie pediatrică.</p>
-			<p><b>Dr. Dan Teleanu</b> -	Medic primar neurochirurgie.</p>
-			<p><b>Dr. Magda Sandu</b> - Medic specialist neurologie pediatrică.</p>
-			<p><b>Dr. Diana Epure</b> -	Medic specialist neurologie pediatrică.</p>
-			<p><b>Dr. Daniela Vasile</b> - Medic specialist neurologie pediatrică.</p>
-			<p><b>As. Adina Istrate</b> - Asistent şef secţia neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Raluca-Teleanu.pdf" target="_blank"><b>Dr. Raluca Teleanu</b></a> - Medic primar neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Dan-Teleanu.pdf" target="_blank"><b>Dr. Dan Teleanu</b></a> -	Medic primar neurochirurgie.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Magda-Sandu.pdf" target="_blank"><b>Dr. Magda Sandu</b></a> - Medic specialist neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Diana-Epure.pdf" target="_blank"><b>Dr. Diana Epure</b></a> -	Medic specialist neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Dana-Vasile.pdf" target="_blank"><b>Dr. Daniela Vasile</b></a> - Medic specialist neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Adina-Istrate.pdf" target="_blank"><b>As. Adina Istrate</b></a> - Asistent şef secţia neurologie pediatrică.</p>
 			]]>
 		</ContentRight1>
 		<HeadRight2><![CDATA[VOLUNTARI]]></HeadRight2>
 		<ContentRight2>
 			<![CDATA[
-			<p><b>Dr. Ana Maria Geanta</b> - Medic rezident neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Ana-Maria-Geanta.pdf" target="_blank"><b>Dr. Ana Maria Geanta</b></a> - Medic rezident neurologie pediatrică.</p>
 			<p><b>Dr. Bogdan Buse</b> - Medic rezident neurologie pediatrică.</p>
-			<p><b>Dr. Eugenia Roza</b> - Medic rezident neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Eugenia-Roza.pdf" target="_blank"><b>Dr. Eugenia Roza</b></a> - Medic rezident neurologie pediatrică.</p>
 			<p><b>Dr. Mihai Musetescu</b> - Medic rezident neurologie pediatrică.</p>
-			<p><b>Dr. Oana Vladacenco</b> - Medic rezident neurologie pediatrică.</p>
-			<p><b>Dr. Smaranda Nita</b> - Medic rezident neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Oana-Vladacenco.pdf" target="_blank"><b>Dr. Oana Vladacenco</b></a> - Medic rezident neurologie pediatrică.</p>
+			<p><a class="Black" href="./Files/Home/Bios/Smaranda-Nita.pdf" target="_blank"><b>Dr. Smaranda Nita</b></a> - Medic rezident neurologie pediatrică.</p>
 			]]>
 		</ContentRight2>
 	</Contact>
@@ -401,6 +401,8 @@
 		<Item8Head><![CDATA[Artiştii au participat la o manifestare în sprijinul copiilor bolnavi de epilepsie]]></Item8Head>
 		<Item9Title><![CDATA[Cât de conştienţi suntem de sănatatea organismului nostru]]></Item9Title>
 		<Item9Head><![CDATA[Cat de Constienti Suntem de Sanatatea Organismului Nostru]]></Item9Head>
+		<Item10Title><![CDATA[Povestea de viaţă a Victoriei Nițu]]></Item10Title>
+		<Item11Title><![CDATA[Vreau să fiu sănătos: Hernia de disc]]></Item11Title>
 		<Item1Content>
 			<![CDATA[
 			<h3>Starea de sănătate a lui Vali Căciulă, cel mai cunoscut instructor de schi din România, este tot mai bună.</h3>

@@ -570,6 +570,10 @@ DIV.DownloadItem IMG
 {
 	padding: 0;
 }
+.Black
+{
+	color: #000000;
+}
 .OverflowAuto
 {
 	overflow: auto;
