@@ -78,7 +78,8 @@
 				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br />
 				Ne dorim diagnostic cat mai precis si cat mai rapid, cu minim de disconfort pentru copii.<br /><br />
 
-				<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a>
+				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
+				<%--<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a>--%>
 			</p>
 		</div>
 
@@ -117,15 +118,6 @@
 		<ol class="HoverInfoList">
 			<li>
 				<a href="javascript:;">
-					<%= "Content3Title2".T("Home")%>
-					<span>
-						<%= "Content3Description2".T("Home")%>
-					</span>
-				</a>
-			</li>
-
-			<li>
-				<a href="javascript:;">
 					<%= "Content3Title3".T("Home")%>
 					<span>
 						<%= "Content3Description3".T("Home")%>
@@ -143,7 +135,7 @@
 			</li>
 		</ol>
 
-		<br /><br /><br />
+		<br /><br />
 	<% } %>
 
 	<h2 class="SectionHeader"><%= "HeadPartners".T("Home")%></h2>
@@ -156,14 +148,14 @@
 		</div>
 		<div class="Middle Square">
 			<div>
-				<a href="http://dravet.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-dravet.gif" CssClass="GeneralWhite" runat="server" /></a>
+				<a href="http://sr-vojta.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Right Square">
 			<div>
-				<a href="http://sr-vojta.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-vojta.gif" CssClass="GeneralWhite" runat="server" /></a>
+				<a href="http://www.kinetobebe.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-kineto-bebe.jpg" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
 		<div class="Wide">
@@ -173,12 +165,6 @@
 			</div>
 		</div>
 		<div class="Left Square">
-			<div>
-				<a href="http://www.kinetobebe.ro/" target="_blank">
-					<asp:Image ImageUrl="~/Images/Home/logo-kineto-bebe.jpg" CssClass="GeneralWhite" runat="server" /></a>
-			</div>
-		</div>
-		<div class="Middle Square">
 			<div>
 				<a href="http://www.arcaluinoe.net/" target="_blank">
 					<asp:Image ImageUrl="~/Images/Home/logo-arca-lui-noe.jpg" CssClass="GeneralWhite" runat="server" /></a>
