@@ -70,17 +70,10 @@
         --%>
 
 		<div style="border-bottom: solid 4px #aec79e; margin-bottom: 22px; padding-bottom: 22px; overflow: auto;">
-			<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">
-				<img src="./Images/Home/Campanii/epilepsia-se-poate-vindeca-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Epilepsia se poate vindeca...!!!" /></a>
-			<h2>Epilepsia se poate vindeca...!!!</h2>
-			<p>
-				Incepem o noua campanie, menita a ajuta copiii ce au nevoie de electroencefalograma. Cum in cazul sectiei noastre acest lucru se aplica majoritatii
-				copiilor, fluxul zilnic de pacienti este mare pentru un singur aparat, iar suprasolicitarea acestuia si a tehnicianului  EEG este constanta.<br />
-				Ne dorim diagnostic cat mai precis si cat mai rapid, cu minim de disconfort pentru copii.<br /><br />
-
-				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
-				<%--<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer.jpg" rel="lightbox">Vezi detalii...</a>--%>
-			</p>
+			<a href="./Images/Home/Campanii/epilepsia-se-poate-vindeca-flyer2.jpg" rel="lightbox">
+				<img src="./Images/Home/Campanii/epilepsia-se-poate-vindeca-main.jpg" class="General" style="width: 516px; height: 425px;" alt="Epilepsia se poate vindeca!" /></a>
+			<br /><br />
+			<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Proiect in derulare.</div>
 		</div>
 
 		<div style="border-bottom: solid 4px #aec79e; overflow: auto; margin-bottom: 22px; padding-bottom: 22px;">
