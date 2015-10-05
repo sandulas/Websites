@@ -9,6 +9,10 @@
 <h2><%= "Head".T("Presa") %></h2>
 <ul>
 	<% if (Language.GetCurrent() == (int)Languages.Romanian) { %>
+		<li><asp:HyperLink NavigateUrl="http://adevarul.ro/sanatate/medicina/tot-mai-copii-ajung-neurolog-dureri-capde-cee-cauzele-parinte-trebuie-stie-1_5604284ef5eaafab2cf5a07b/index.html" Target="_blank" runat="server">Tot mai mulţi copii ajung la neurolog cu dureri de cap. De ce?</asp:HyperLink></li>
+		<li><asp:HyperLink NavigateUrl="https://piticidarvoinici.wordpress.com/2015/09/24/de-ce-vor-copiii-sa-stie-despre-dezvoltarea-lor-neuro-cognitiva/" Target="_blank" runat="server">De ce vor copiii sa stie? Despre dezvoltarea lor neuro-cognitiva</asp:HyperLink></li>
+		<li><asp:HyperLink NavigateUrl="http://go-big.ro/de-ce-de-ce-de-ce/" Target="_blank" runat="server">DE CE? DE CE? DE CE?</asp:HyperLink></li>
+		<li><asp:HyperLink NavigateUrl="http://talentedenazdravani.eu/blog/2015/09/29/lumea-copiilor-care-vor-sa-stie-tot/" Target="_blank" runat="server">Lumea copiilor care vor să știe tot</asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="https://www.youtube.com/watch?v=_3KAy2eCcIg" Target="_blank" runat="server"><%= "Item10Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="https://www.youtube.com/watch?v=cx0r7Fw3PAI" Target="_blank" runat="server"><%= "Item11Title".T("Presa") %></asp:HyperLink></li>
 		<li><asp:HyperLink NavigateUrl="~/Presa/cat-de-constienti-suntem-de-sanatatea-organismului-nostru.aspx" runat="server"><%= "Item9Title".T("Presa") %></asp:HyperLink></li>
