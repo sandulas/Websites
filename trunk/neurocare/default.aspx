@@ -163,6 +163,12 @@
 					<asp:Image ImageUrl="~/Images/Home/logo-arca-lui-noe.jpg" CssClass="GeneralWhite" runat="server" /></a>
 			</div>
 		</div>
+		<div class="Middle Square">
+			<div>
+				<a href="http://secom.ro/" target="_blank">
+					<asp:Image ImageUrl="~/Images/Home/logo-secom.png" CssClass="GeneralWhite" runat="server" /></a>
+			</div>
+		</div>
 	</div>
 
 	<div style="height: 95px; clear:both;">&nbsp;</div>
