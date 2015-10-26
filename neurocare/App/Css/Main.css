@@ -343,7 +343,8 @@ IMG
 }
 .HoverInfoList LI.Top
 {
-	margin-top: -42px;
+	/*margin-top: -82px;*/
+	margin-top: -65px;
 }
 .HoverInfoList A
 {
