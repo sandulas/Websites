@@ -111,14 +111,33 @@
 		<ol class="HoverInfoList">
 			<li>
 				<a href="javascript:;">
+					Aparat radiologic mobil cu braţ C pentru sala de operaţie
+					<span>
+						Aparatul de radiologie mobil pentru sălile de operaţii se foloseste pentru efectuarea reperajulului intraoperator şi controlul inserţiei
+						şuruburilor pediculare în intervenţiile chirugicale pe coloana vertebrală, etc.
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="javascript:;">
+					Fond financiar de urgenţă
+					<span>
+						Avand in vedere experienta anilor trecuti, am hotarat ca avem nevoie de un fond financiar, utilizabil in conditii de urgenta pentru plata unor
+						investigatii costisitoare, nerealizabile prin contractul spitalului, pe care parintii nu le pot sustine, dar necesare diagnosticului. Timpul in
+						care voluntarii nostri aduna suma necesara poate fi uneori prea lung si intarzie tratamentul corect.
+					</span>
+				</a>
+			</li>
+
+			<li class="Col2 Top">
+				<a href="javascript:;">
 					<%= "Content3Title3".T("Home")%>
 					<span>
 						<%= "Content3Description3".T("Home")%>
 					</span>
 				</a>
 			</li>
-			
-			<li class="Col2 Top">
+			<li class="Col2">
 				<a href="javascript:;">
 					<%= "Content3Title4".T("Home")%>
 					<span>
