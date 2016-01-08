@@ -89,7 +89,7 @@
 			</p>
 		</div>
 
-		<div style="overflow: auto; margin-bottom: 26px;">
+		<div style="overflow: auto; margin-bottom: 26px; border-bottom: solid 4px #aec79e; padding-bottom: 22px;">
 			<a href="./Images/Home/Campanii/aspirator-cusa-flyer.jpg" rel="lightbox">
 				<img src="./Images/Home/Campanii/aspirator-cusa-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Aspirator CUSA" /></a>
 			<h2>Aspirator CUSA</h2>
@@ -100,6 +100,20 @@
 				<a href="./Images/Home/Campanii/aspirator-cusa-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
 
 				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Campanie încheiată cu succes.</div>
+			</p>
+		</div>
+
+		<div style="overflow: auto; margin-bottom: 26px;">
+			<a href="./Images/Home/Campanii/accuvein-viewer-flyer.jpg" rel="lightbox">
+				<img src="./Images/Home/Campanii/accuvein-viewer-card.jpg" class="General MarL16" align="right" style="width: 160px; height: 240px;" alt="Accuvein Viewer" /></a>
+			<h2>Accuvein Viewer</h2>
+			<p>
+				Emotia pe care o implica profesia de pediatru, fie medic sau asistenta, are radacini in copilaria fiecaruia, in iubirea pentru copiii nostri,
+				in dorinta noastra de a ii vedea zambind si... se numeste empatie.<br /><br />
+
+				<a href="./Images/Home/Campanii/accuvein-viewer-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
+
+				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Proiect in derulare.</div>
 			</p>
 		</div>
 	<% } %>
