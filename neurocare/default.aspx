@@ -113,7 +113,7 @@
 
 				<a href="./Images/Home/Campanii/accuvein-viewer-flyer.jpg" rel="lightbox">Vezi detalii...</a><br /><br />
 
-				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Proiect in derulare.</div>
+				<div style="background-color: #cc0000; float: left; padding: 3px 6px; color: #ffffff; font-weight: bold;">Finanţare încheiată cu succes.</div>
 			</p>
 		</div>
 	<% } %>
